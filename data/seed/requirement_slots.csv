@@ -1557,6 +1557,40 @@ cfcaa59a-56bf-5747-a290-4ef6139abb1b,UMASS,BACJ,2025-2026,ELEC1,Free Elective I,
 95b4a684-9776-598d-9ef7-bea514f24097,UMASS,BACJ,2025-2026,ELEC2,Free Elective II,3,LOWER,false,31,Major
 690f3143-86ca-52f5-bbd6-b252fabee900,UMASS,BACJ,2025-2026,ELEC3,Free Elective III,3,LOWER,false,32,Major
 45211dfc-2dcb-5415-b671-0fb06bd84160,UMASS,BACJ,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+f488a260-eebd-5410-b783-a8cc3880de45,UMASS,BSSWE,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+7242ad08-c988-557e-aebf-7dbf1390d735,UMASS,BSSWE,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+a0b25b92-7a46-5d2f-897e-74a8e2d5fe02,UMASS,BSSWE,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+42df2aa2-46c1-5a7e-afea-2c96fb1a108b,UMASS,BSSWE,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+99db1368-dd81-535c-bffb-9f7c6fefc2f4,UMASS,BSSWE,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+e07935ba-1d32-5f5f-8958-6cc9fa5e948c,UMASS,BSSWE,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+2ba9edc8-52f3-5c00-9367-a5d95aa4defe,UMASS,BSSWE,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+235eb7e3-ebaa-5799-8f13-34abe987b61b,UMASS,BSSWE,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+8cf6db61-820e-5503-a973-71adbd20a59e,UMASS,BSSWE,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+6858428a-7906-547a-bbdd-1e937d99a912,UMASS,BSSWE,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+717043d8-38b7-520d-8807-74cb5de1df1d,UMASS,BSSWE,2025-2026,HIST,History,3,LOWER,false,11,General Education
+5cc753a8-a254-595e-8e41-94ac030d2b5a,UMASS,BSSWE,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+330977cc-4fb1-5343-9642-f156218f744c,UMASS,BSSWE,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+9fbdd310-b5fe-5791-a13a-badbd5a3bb38,UMASS,BSSWE,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+bb15bf67-36e8-58e2-bf0a-92558b785675,UMASS,BSSWE,2025-2026,IT101,Introduction to IT / Computing,3,LOWER,false,15,Major
+66f87ed7-8574-567f-81ac-8ce8896ecbcf,UMASS,BSSWE,2025-2026,PROG,Programming Fundamentals,3,LOWER,false,16,Major
+9ca9f668-80df-501f-a3ad-159b12b3a8ff,UMASS,BSSWE,2025-2026,PROG2,Object-Oriented / Intermediate Programming,3,LOWER,false,17,Major
+ed8ee86f-38c6-5968-99cb-8a7c0ae3195c,UMASS,BSSWE,2025-2026,DS,Data Structures and Algorithms,3,UPPER,false,18,Major
+a720748d-a45c-586a-a796-e0ac3ac659ab,UMASS,BSSWE,2025-2026,DB,Database Fundamentals,3,LOWER,false,19,Major
+854b10f9-00e4-5baf-ab0f-00f0e0694927,UMASS,BSSWE,2025-2026,WEB,Web Technologies,3,LOWER,false,20,Major
+07ab4052-ac1a-5569-9616-30e68421e2d7,UMASS,BSSWE,2025-2026,OS,Operating Systems,3,LOWER,false,21,Major
+5f8644d7-6ec3-5627-9717-d154a9136cae,UMASS,BSSWE,2025-2026,NET,Networking Fundamentals,3,LOWER,false,22,Major
+c2be8572-1d8d-5457-87e8-1878a4f0a61e,UMASS,BSSWE,2025-2026,SWE1,Software Engineering Practices,3,UPPER,false,23,Major
+9453ff68-54bb-5f8f-b315-8ebfefe319fd,UMASS,BSSWE,2025-2026,AGILE,Agile / Scrum Software Process,3,UPPER,false,24,Major
+ef8364d6-5561-5d0d-bb93-4aefef9acdfd,UMASS,BSSWE,2025-2026,TEST,Software Testing and Quality,3,UPPER,false,25,Major
+e2ef0b13-2bd5-5335-98d7-1009ba9f2c1f,UMASS,BSSWE,2025-2026,SECDEV,Secure Software / Application Security,3,UPPER,false,26,Major
+354687c9-3665-53ac-8f96-80b74ef82251,UMASS,BSSWE,2025-2026,ARCH,Software Architecture / Design,3,UPPER,false,27,Major
+4936c3e7-7c7a-5d88-a75e-d4d6d6c823de,UMASS,BSSWE,2025-2026,CLOUD,Cloud / DevOps Foundations,3,UPPER,false,28,Major
+e429a5d4-c161-527e-a6b9-d8ba9d57ae97,UMASS,BSSWE,2025-2026,CAP,Software Engineering Capstone,3,UPPER,true,29,Major
+ccd1d2b9-4c20-5665-9049-e7609b650ed7,UMASS,BSSWE,2025-2026,SELEC1,Software Elective I,3,UPPER,false,30,Major
+2971f0f2-f210-519b-b327-5c3778055f7d,UMASS,BSSWE,2025-2026,ELEC1,Free Elective I,3,LOWER,false,31,Major
+31c119ef-4acc-5d7b-a755-4403e6ae7473,UMASS,BSSWE,2025-2026,ELEC2,Free Elective II,3,LOWER,false,32,Major
+8dbf19fa-4f77-546d-9573-748a41586c59,UMASS,BSSWE,2025-2026,ELEC3,Free Elective III,3,LOWER,false,33,Major
+f5efe35a-32e8-5cbe-95cd-7f96fc93a6b3,UMASS,BSSWE,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,34,Major
 09339bbd-f131-517a-a240-cc1910081315,PG,BSPSY,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
 79e62335-655d-506e-9a7f-8323d8c52ffe,PG,BSPSY,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
 7ede37f7-66ae-5b7e-8321-cd28892b0d67,PG,BSPSY,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education

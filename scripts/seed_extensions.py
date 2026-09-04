@@ -194,6 +194,9 @@ def extra_programs() -> list[dict]:
     add("UMASS", "BACJ", "Bachelor of Arts in Criminal Justice", "CRIMINAL_JUSTICE", "2025-2026",
         "https://www.umassglobal.edu/academic-programs/bachelors-degrees",
         "Term-based online criminal justice bachelor's. Not a MyPath CBE program.")
+    add("UMASS", "BSSWE", "Bachelor of Science in Information Technology — MyPath (software planning)", "SOFTWARE_ENGINEERING", "2025-2026",
+        "https://www.umassglobal.edu/academic-programs/bs-information-technology",
+        "MyPath BSIT is the self-paced bachelor's used here for software engineering planning. The same catalog program is also listed under Cybersecurity / IT.")
 
     add("PG", "BSPSY", "Bachelor of Science in Psychology", "PSYCHOLOGY", "2025-2026",
         "https://www.purdueglobal.edu/degree-programs/psychology/bachelor-degree-psychology-online/",
