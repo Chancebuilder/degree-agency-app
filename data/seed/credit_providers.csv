@@ -3,3 +3,14 @@ d9dde269-82bc-505a-ac95-0b1e65aadcb8,SOPHIA,Sophia Learning,SELF_PACED,ACE,5,SUB
 5d7e9f36-87f2-5732-a173-b4f38eb3ba54,STUDYCOM,Study.com,SELF_PACED,ACE,9,SUBSCRIPTION,95,https://study.com/college/school/western-governors-university.html,2026-09-01,seed-research-2026-09,VERIFIED
 96b4a943-c2fc-59d4-9f44-8aab45d7a697,STRAIGHTERLINE,StraighterLine,SELF_PACED,ACE,9,SUBSCRIPTION_PLUS_COURSE,99,https://www.straighterline.com/,2026-09-01,seed-research-2026-09,VERIFIED
 5682bcc8-edcf-5085-a9cf-4ef3f64912f9,CLEP,CLEP,EXAM,COLLEGE_BOARD_ACE,12,EXAM_FEE,0,https://clep.collegeboard.org/,2026-09-01,seed-research-2026-09,VERIFIED
+ff7323bc-02cf-55a5-906a-1a81a5bacb77,DSST,DSST (Prometric),EXAM,ACE,12,EXAM_FEE,0,https://www.getcollegecredit.com/,2026-09-01,seed-research-2026-09,VERIFIED
+94a94892-8e26-5d74-8d94-cc18b13f11f2,COOPERSMITH,Coopersmith Career Consulting,SELF_PACED,NCCRS,9,PER_COURSE,0,https://www.coopersmithcc.net/,2026-09-01,seed-research-2026-09,VERIFIED
+ca208251-79c3-55f5-acd2-b5a381f29342,DAVAR,Davar Academy,SELF_PACED,NCCRS,9,PER_COURSE,0,https://www.davaracademy.com/,2026-09-01,seed-research-2026-09,VERIFIED
+38eeeb12-2913-57c8-a301-2c8b775d229a,GOOGLE,Google Career Certificates (Coursera),SELF_PACED,ACE,8,SUBSCRIPTION,49,https://grow.google/certificates,2026-09-01,seed-research-2026-09,VERIFIED
+aa3b70fb-ac9f-562f-b3a7-6f1719709b0e,IBM,IBM Professional Certificates (Coursera / SkillsBuild),SELF_PACED,ACE,8,SUBSCRIPTION,49,https://www.acenet.edu/National-Guide/Pages/Organization.aspx?oid=6d532c35-75c4-ea11-a812-000d3a33232a,2026-09-01,seed-research-2026-09,VERIFIED
+86a83887-8d07-5ecd-b13b-e5748d868d52,ECCOUNCIL,EC-Council,EXAM,ACE,12,EXAM_FEE,0,https://www.eccouncil.org/ec-council-in-news/ec-council-helps-accelerate-degrees/,2026-09-01,seed-research-2026-09,VERIFIED
+1cb934cc-8cf7-5333-8d86-d5cfbfedeb16,ISC2,ISC2,EXAM,ACE,12,EXAM_FEE,0,https://www.prnewswire.com/news-releases/isc2-certification-exams-and-official-certification-courses-receive-american-council-on-education-eligibility-for-college-credits-302545719.html,2026-09-01,seed-research-2026-09,VERIFIED
+fb9f18b6-e8e3-5dec-9ae6-2de6dd2a6386,PMI,Project Management Institute,EXAM,PLA,12,EXAM_FEE,0,https://www.pmi.org/certifications/project-management-pmp,2026-09-01,seed-research-2026-09,VERIFIED
+64044c0f-5569-5f42-91ba-613cd3dcafb8,SCRUMALLIANCE,Scrum Alliance,EXAM,PLA,12,EXAM_FEE,0,https://www.scrumalliance.org/,2026-09-01,seed-research-2026-09,VERIFIED
+0dc9cbfc-6554-5723-b120-1071dee973b4,JST,Joint Services Transcript / ACE Military Guide,MILITARY,ACE,0,NONE,0,https://www.acenet.edu/Programs-Services/Pages/Credit-Transcripts/Military-Guide-Online.aspx,2026-09-01,seed-research-2026-09,VERIFIED
+9646be82-f756-52d1-b65a-27ef9a4da31e,PLA,Portfolio / Prior Learning Assessment,PLA,PLA,7,ASSESSMENT_FEE,0,https://www.tesu.edu/academics/catalog,2026-09-01,seed-research-2026-09,VERIFIED

@@ -8,8 +8,24 @@ guide is institutional; otherwise HIGH_CONFIDENCE with the compiling source.
 from __future__ import annotations
 
 import csv
+import sys
 import uuid
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from seed_extensions import (  # noqa: E402
+    EXTRA_CC,
+    FAMILY_MAJORS,
+    PROVIDER_URLS,
+    SLOT_OVERLAY,
+    equivalency_status,
+    extra_opportunities,
+    extra_pg_rules,
+    extra_programs,
+    extra_providers,
+    extra_wgu_rules,
+    source_type_for,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 SEED = ROOT / "data" / "seed"
@@ -108,6 +124,8 @@ def slots_for(family: str) -> list[tuple]:
         return GEN_ED + BUSINESS_MAJOR
     if family == "CYBERSECURITY":
         return GEN_ED + CYBER_MAJOR
+    if family in FAMILY_MAJORS:
+        return GEN_ED + FAMILY_MAJORS[family]
     return GEN_ED + PROFESSIONAL_MAJOR
 
 
@@ -554,6 +572,9 @@ def main() -> None:
             "notes": "Open / individualized bachelor's. Tuition is $195 per month plus ASK assessment fees and the PR499 capstone. Not the ExcelTrack per-term rate.",
         },
     ]
+    for extra in extra_programs():
+        extra["id"] = uid("prog", extra["institution_code"], extra["code"])
+        programs.append(extra)
     write_csv(
         "programs.csv",
         programs,
@@ -664,6 +685,9 @@ def main() -> None:
             "tuition_source": {
                 "BSBA": "https://www.wgu.edu/financial-aid-tuition/tuition-business-degrees.html",
                 "BSCIA": "https://www.wgu.edu/financial-aid-tuition/tuition-it-degrees.html",
+                "BSPSY": "https://www.wgu.edu/financial-aid-tuition.html",
+                "BSHA": "https://www.wgu.edu/financial-aid-tuition/tuition-business-degrees.html",
+                "BSSWE": "https://www.wgu.edu/financial-aid-tuition/tuition-it-degrees.html",
             },
         },
         "TESU": {
@@ -690,7 +714,7 @@ def main() -> None:
                 ("RESIDENCY_CREDIT_MINIMUM", "15", "CREDITS"),
                 ("UPPER_LEVEL_CREDIT_MINIMUM", "21", "CREDITS"),
                 ("ACE_ACCEPTANCE", "ACCEPTED", "ENUM"),
-                ("NCCRS_ACCEPTANCE", "CASE_BY_CASE", "ENUM"),
+                ("NCCRS_ACCEPTANCE", "ACCEPTED", "ENUM"),
                 ("PLA_ACCEPTANCE", "ACCEPTED", "ENUM"),
                 ("TUITION", "510", "PER_CREDIT"),
                 ("TERM_WEEKS", "15", "WEEKS"),
@@ -801,22 +825,30 @@ def main() -> None:
                 "BSBA": "https://www.purdueglobal.edu/student-experience/personalized-learning/",
                 "BSCY": "https://www.purdueglobal.edu/student-experience/personalized-learning/",
                 "BSPS": "https://www.purdueglobal.edu/tuition-financial-aid/undergraduate-graduate-tuition-and-fees/",
+                "BSPSY": "https://www.purdueglobal.edu/tuition-financial-aid/undergraduate-graduate-tuition-and-fees/",
+                "BSCJ": "https://www.purdueglobal.edu/tuition-financial-aid/undergraduate-graduate-tuition-and-fees/",
+                "BSHA": "https://www.purdueglobal.edu/tuition-financial-aid/undergraduate-graduate-tuition-and-fees/",
+                "BSIT": "https://www.purdueglobal.edu/student-experience/personalized-learning/",
             },
         },
     }
+    policy_defs["WGU"]["rules_by_program"].update(extra_wgu_rules())
+    policy_defs["PG"]["rules_by_program"].update(extra_pg_rules())
 
     policies = []
     for prog in programs:
         inst = prog["institution_code"]
         cfg = policy_defs[inst]
         if "rules_by_program" in cfg:
-            rules = cfg["rules_by_program"][prog["code"]]
+            rules = cfg["rules_by_program"].get(prog["code"])
+            if rules is None:
+                rules = cfg.get("rules") or next(iter(cfg["rules_by_program"].values()))
         else:
             rules = cfg["rules"]
         for rule_type, value, unit in rules:
             source = cfg.get("tuition_source", {}).get(prog["code"], cfg["source"])
             if rule_type == "TUITION" and "tuition_source" in cfg:
-                source = cfg["tuition_source"][prog["code"]]
+                source = cfg["tuition_source"].get(prog["code"], cfg["source"])
             if inst == "TESU" and rule_type == "MAX_TRANSFER_CREDITS":
                 source = "https://tesu.smartcatalogiq.com/current/undergraduate-catalog/methods-of-learning-and-earning-credit/transfer-credit/"
             if inst == "TESU" and rule_type == "RESIDENCY_CREDIT_MINIMUM":
@@ -930,6 +962,9 @@ def main() -> None:
             "verification_status": "VERIFIED",
         },
     ]
+    for extra in extra_providers():
+        extra["id"] = uid("prov", extra["code"])
+        providers.append(extra)
     write_csv(
         "credit_providers.csv",
         providers,
@@ -1025,12 +1060,33 @@ def main() -> None:
         ("CLEP", "CLEP-BIO", "Biology", "EXAM", "ACE-CLEP-0314", 6, "LOWER", 12, 93, "NS1,NS2"),
         ("CLEP", "CLEP-ANA", "Analyzing and Interpreting Literature", "EXAM", "ACE-CLEP-0315", 6, "LOWER", 12, 93, "HUM1,HUM2"),
     ]
+    opportunities_spec.extend(extra_opportunities())
 
     opportunities = []
     opp_slots: dict[str, list[str]] = {}
+    opp_provider: dict[str, str] = {}
+    opp_type: dict[str, str] = {}
+    source_urls = {
+        "SOPHIA": "https://www.sophia.org/courses",
+        "STUDYCOM": "https://study.com/academy/course/index.html",
+        "STRAIGHTERLINE": "https://www.straighterline.com/online-college-courses/",
+        "CLEP": "https://clep.collegeboard.org/clep-exams",
+        **PROVIDER_URLS,
+    }
     for provider, code, title, otype, ace, credits, level, hours, extra_price, slot_codes in opportunities_spec:
-        exam_fee = extra_price if otype == "EXAM" else 0
-        course_price = extra_price if otype != "EXAM" else 0
+        exam_fee = extra_price if otype in ("EXAM", "CERTIFICATION") and provider not in {"GOOGLE", "IBM"} else 0
+        course_price = extra_price if otype not in ("EXAM",) and provider not in {"GOOGLE", "IBM"} else extra_price if provider in {"COOPERSMITH", "DAVAR", "PLA", "ECCOUNCIL", "ISC2", "PMI", "SCRUMALLIANCE"} else 0
+        if provider in {"GOOGLE", "IBM"}:
+            course_price = 0
+            exam_fee = 0
+        if otype == "EXAM":
+            exam_fee = extra_price
+            course_price = 0
+        if otype == "MILITARY":
+            exam_fee = 0
+            course_price = 0
+        nccrs_id = ace if str(ace).startswith("NCCRS") else ""
+        ace_id = "" if nccrs_id else ace
         opportunities.append(
             {
                 "id": uid("opp", code),
@@ -1038,28 +1094,25 @@ def main() -> None:
                 "code": code,
                 "title": title,
                 "opportunity_type": otype,
-                "ace_id": ace,
-                "nccrs_id": "",
+                "ace_id": ace_id,
+                "nccrs_id": nccrs_id,
                 "credits": str(credits),
                 "level": level,
                 "hours_per_credit": str(hours),
-                "effort_hours_override": str(12) if otype == "EXAM" else "",
+                "effort_hours_override": str(12) if otype in ("EXAM", "CERTIFICATION") else ("21" if otype == "PLA" else ""),
                 "price": str(course_price),
                 "exam_fee": str(exam_fee),
                 "recommendation_start": "2024-01-01",
                 "recommendation_expires": "2027-12-31",
-                "source_url": {
-                    "SOPHIA": "https://www.sophia.org/courses",
-                    "STUDYCOM": "https://study.com/academy/course/index.html",
-                    "STRAIGHTERLINE": "https://www.straighterline.com/online-college-courses/",
-                    "CLEP": "https://clep.collegeboard.org/clep-exams",
-                }[provider],
+                "source_url": source_urls.get(provider, ""),
                 "last_verified_at": VERIFIED_AT,
                 "verified_by": VERIFIED_BY,
-                "verification_status": "VERIFIED",
+                "verification_status": "VERIFIED" if provider not in {"PMI", "SCRUMALLIANCE"} else "REQUIRES_CONFIRMATION",
             }
         )
-        opp_slots[code] = slot_codes.split(",")
+        opp_slots[code] = SLOT_OVERLAY.get(code, slot_codes).split(",")
+        opp_provider[code] = provider
+        opp_type[code] = otype
 
     write_csv(
         "credit_opportunities.csv",
@@ -1119,6 +1172,18 @@ def main() -> None:
         ("SPCH101", "Public Speaking", "PROFCOMM"),
         ("PHIL120", "Introduction to Ethics", "ETH2"),
     ]
+    cc_courses.extend(EXTRA_CC)
+
+    def policy_enum(inst: str, prog_code: str, rule_type: str, default: str = "ACCEPTED") -> str:
+        cfg = policy_defs[inst]
+        if "rules_by_program" in cfg:
+            rules = cfg["rules_by_program"].get(prog_code) or cfg.get("rules") or next(iter(cfg["rules_by_program"].values()))
+        else:
+            rules = cfg["rules"]
+        for rule_type_name, value, _unit in rules:
+            if rule_type_name == rule_type:
+                return value
+        return default
 
     equivalencies = []
     # Official-ish transfer-guide URLs used as citation, not a guarantee of current listing.
@@ -1135,14 +1200,18 @@ def main() -> None:
 
     for prog in programs:
         inst = prog["institution_code"]
-        family = prog["degree_family"]
         valid_slot_codes = {s["slot_code"] for s in slots if s["institution_code"] == inst and s["program_code"] == prog["code"]}
+        nccrs = policy_enum(inst, prog["code"], "NCCRS_ACCEPTANCE", "CASE_BY_CASE")
+        pla = policy_enum(inst, prog["code"], "PLA_ACCEPTANCE", "LIMITED")
         for code, target_slots in opp_slots.items():
-            source_type = "EXAM" if code.startswith("CLEP-") else "PROVIDER_COURSE"
+            provider = opp_provider[code]
+            status = equivalency_status(provider, nccrs, pla)
+            if status is None:
+                continue
+            source_type = source_type_for(provider, opp_type[code], code)
             for slot_code in target_slots:
                 if slot_code not in valid_slot_codes:
                     continue
-                # CLEP composition (6 cr) can fill ENG1; ENG2 only if we emit a second row.
                 equivalencies.append(
                     {
                         "id": uid("eq", source_type, code, inst, prog["code"], slot_code),
@@ -1152,11 +1221,11 @@ def main() -> None:
                         "program_code": prog["code"],
                         "catalog_year": prog["catalog_year"],
                         "slot_code": slot_code,
-                        "status": "VERIFIED",
-                        "source_url": eq_sources[inst],
+                        "status": status,
+                        "source_url": eq_sources[inst] if provider not in PROVIDER_URLS else PROVIDER_URLS[provider],
                         "last_verified_at": VERIFIED_AT,
                         "verified_by": VERIFIED_BY,
-                        "verification_status": "VERIFIED",
+                        "verification_status": status,
                     }
                 )
         for cc_code, _title, slot_code in cc_courses:

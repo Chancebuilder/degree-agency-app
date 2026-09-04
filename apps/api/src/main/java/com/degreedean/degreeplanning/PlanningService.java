@@ -419,9 +419,10 @@ public class PlanningService {
 
     private int providerPreference(String code) {
         if (code.startsWith("SOPH-")) return 0;
-        if (code.startsWith("CLEP-")) return 1;
-        if (code.startsWith("SDC-")) return 2;
-        return 3;
+        if (code.startsWith("CLEP-") || code.startsWith("DSST-")) return 1;
+        if (code.startsWith("SDC-") || code.startsWith("DAV-") || code.startsWith("CSC-")) return 2;
+        if (code.startsWith("GOOG-") || code.startsWith("IBM-")) return 3;
+        return 4;
     }
 
     private List<ChosenFill> fastest(List<ChosenFill> fills) {

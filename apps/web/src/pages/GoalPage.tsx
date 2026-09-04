@@ -69,8 +69,12 @@ export function GoalPage() {
             <div className="mt-2 space-y-2">
               {[
                 ['BUSINESS_ADMINISTRATION', 'Business Administration'],
-                ['CYBERSECURITY', 'Cybersecurity / IT'],
-                ['PROFESSIONAL_STUDIES', 'Professional / Liberal / General Studies'],
+                ['PSYCHOLOGY', 'Psychology'],
+                ['PROFESSIONAL_STUDIES', 'General Studies'],
+                ['HEALTHCARE_MANAGEMENT', 'Healthcare Management'],
+                ['CYBERSECURITY', 'Cybersecurity'],
+                ['SOFTWARE_ENGINEERING', 'Software Engineering'],
+                ['CRIMINAL_JUSTICE', 'Criminal Justice'],
               ].map(([value, label]) => (
                 <label key={value} className="flex items-center gap-2 text-sm">
                   <input type="radio" name="family" checked={family === value} onChange={() => { setFamily(value); setInstitutionId(''); setProgramId('') }} />

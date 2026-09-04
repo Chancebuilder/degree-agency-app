@@ -29,9 +29,9 @@ public class SimulatorEngine {
         return switch (item.category()) {
             case "SOPHIA" -> config.getHoursPerCredit().getSophiaTier();
             case "STUDYCOM", "STRAIGHTERLINE" -> config.getHoursPerCredit().getStudyStraighterTier();
-            case "EXAM", "CLEP" -> config.getHoursPerCredit().getExam();
+            case "EXAM", "CLEP", "DSST" -> config.getHoursPerCredit().getExam();
             case "COMPETENCY_BASED" -> config.getHoursPerCredit().getCompetencyBased();
-            case "PLA" -> config.getHoursPerCredit().getPla();
+            case "PLA", "CERTIFICATION" -> config.getHoursPerCredit().getPla();
             default -> config.getHoursPerCredit().getTermBased();
         };
     }
