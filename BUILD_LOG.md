@@ -11,7 +11,7 @@
 - Tiers are Free / Plus / Pro.
 - Policy and equivalency are data, never Java constants.
 - Matching is table lookup. Staleness degrades claims.
-- Seed data is the product risk: 8 institutions, 52 programs, 15 providers, 239 opportunities, 8,308 equivalencies.
+- Seed data is the product risk: 8 institutions, 52 programs, 16 providers, 277 opportunities, 9,084 equivalencies.
 
 ## Highest-risk items
 

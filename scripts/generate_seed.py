@@ -1075,7 +1075,7 @@ def main() -> None:
     }
     for provider, code, title, otype, ace, credits, level, hours, extra_price, slot_codes in opportunities_spec:
         exam_fee = extra_price if otype in ("EXAM", "CERTIFICATION") and provider not in {"GOOGLE", "IBM"} else 0
-        course_price = extra_price if otype not in ("EXAM",) and provider not in {"GOOGLE", "IBM"} else extra_price if provider in {"COOPERSMITH", "DAVAR", "PLA", "ECCOUNCIL", "ISC2", "PMI", "SCRUMALLIANCE"} else 0
+        course_price = extra_price if otype not in ("EXAM",) and provider not in {"GOOGLE", "IBM"} else extra_price if provider in {"COOPERSMITH", "DAVAR", "LAWSHELF", "PLA", "ECCOUNCIL", "ISC2", "PMI", "SCRUMALLIANCE"} else 0
         if provider in {"GOOGLE", "IBM"}:
             course_price = 0
             exam_fee = 0

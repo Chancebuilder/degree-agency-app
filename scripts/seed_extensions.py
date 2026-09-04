@@ -107,7 +107,7 @@ FAMILY_MAJORS = {
     "CRIMINAL_JUSTICE": CRIMINAL_JUSTICE_MAJOR,
 }
 
-NCCRS_PROVIDERS = {"COOPERSMITH", "DAVAR"}
+NCCRS_PROVIDERS = {"COOPERSMITH", "DAVAR", "LAWSHELF"}
 PLA_PROVIDERS = {"PLA"}
 PLA_CERT_PROVIDERS = {"PMI", "SCRUMALLIANCE"}  # no ACE exhibit; PLA only
 MILITARY_PROVIDERS = {"JST"}
@@ -298,6 +298,8 @@ def extra_providers() -> list[dict]:
           "https://www.coopersmithcc.net/"),
         p("DAVAR", "Davar Academy", "SELF_PACED", "NCCRS", "9", "PER_COURSE", "0",
           "https://www.davaracademy.com/"),
+        p("LAWSHELF", "LawShelf Educational Media", "SELF_PACED", "NCCRS", "9", "PER_COURSE", "0",
+          "https://www.lawshelf.com/"),
         p("GOOGLE", "Google Career Certificates (Coursera)", "SELF_PACED", "ACE", "8", "SUBSCRIPTION", "49",
           "https://grow.google/certificates"),
         p("IBM", "IBM Professional Certificates (Coursera / SkillsBuild)", "SELF_PACED", "ACE", "8", "SUBSCRIPTION", "49",
@@ -432,6 +434,55 @@ def extra_opportunities() -> list[tuple]:
     for code, title, slots in davar:
         rows.append(("DAVAR", code, title, "ONLINE_COURSE", "NCCRS-DAV", 3, "LOWER", 9, 150, slots))
 
+    # LawShelf Educational Media — NCCRS member since June 2021.
+    # $80/credit exam fee (typically $240 for 3 semester hours). Credit only if
+    # the proctored exam is passed. Titles and LOWER/UPPER come from the NCCRS
+    # organization title list plus three IP exhibits that exist on NCCRS but are
+    # missing from that index. Extra untitled exhibits (cyberlaw, e-commerce,
+    # insurance, workers' comp, labor) are omitted rather than invented.
+    lawshelf = [
+        ("LS-ACC101", "Basics of Accounting (ACC-101)", "LOWER", "ACCT1"),
+        ("LS-ADR301", "Alternative Dispute Resolution (ADR-301)", "UPPER", "COURTS,BELEC1,CONC1"),
+        ("LS-BUS111", "Basics of Bankruptcy Law (BUS-111)", "LOWER", "BLAW,BELEC1"),
+        ("LS-BUS201", "Mergers and Acquisitions (BUS-201)", "LOWER", "BELEC1,CONC2"),
+        ("LS-BUS202", "Nonprofit Organizations Law (BUS-202)", "LOWER", "BELEC2,CONC3"),
+        ("LS-BUS302", "Stocks and Stock Transfers (BUS-302)", "LOWER", "FIN,BELEC1"),
+        ("LS-LIT101", "Basics of Civil Litigation (LIT-101)", "UPPER", "COURTS,BLAW"),
+        ("LS-LIT301", "Discovery in Civil Litigation (LIT-301)", "UPPER", "COURTS,CJPROC"),
+        ("LS-COM301", "Sales of Goods (COM-301)", "UPPER", "BLAW,BELEC1"),
+        ("LS-CON101", "Basics of Contract Law (CON-101)", "UPPER", "BLAW"),
+        ("LS-CRM101", "Basics of Criminal Law (CRM-101)", "LOWER", "CJL,CJ1"),
+        ("LS-CRM102", "Search and Seizure (CRM-102)", "LOWER", "CJPROC"),
+        ("LS-DRL201", "Family Support and Child Custody Law (DRL-201)", "LOWER", "CJELEC1,CONC1"),
+        ("LS-ELD501", "ERISA and Pension Plans (ELD-501)", "UPPER", "HR,HELEC1"),
+        ("LS-ELD302", "The Probate Process (ELD-302)", "UPPER", "BELEC2,CONC2"),
+        ("LS-ELD401", "Social Security and Medicare Law (ELD-401)", "UPPER", "HCALAW,HELEC1"),
+        ("LS-ELD502", "Trusts and Estates (ELD-502)", "UPPER", "BELEC2"),
+        ("LS-ELD301", "Wills and Testamentary Trusts (ELD-301)", "UPPER", "BELEC2"),
+        ("LS-EMP101", "Employment and Employee Benefits (EMP-101)", "LOWER", "HR,HCAHR"),
+        ("LS-EMP301", "Protections for Employees (EMP-301)", "UPPER", "HR"),
+        ("LS-FIN201", "Corporate Finance Law (FIN-201)", "LOWER", "FIN"),
+        ("LS-GOV202", "Basics of Environmental Law (GOV-202)", "LOWER", "CONC1,ELEC1"),
+        ("LS-GOV203", "Basics of Immigration Law (GOV-203)", "LOWER", "HLS,CJELEC1,SS2"),
+        ("LS-GOV102", "Basics of Legal Ethics (GOV-102)", "LOWER", "ETHICS,ETH2,CJETH,LAW"),
+        ("LS-GOV201", "Civil Rights Law (GOV-201)", "LOWER", "CJDIV,SS2"),
+        ("LS-GOV204", "First Amendment Law (GOV-204)", "LOWER", "SS2,HUM2"),
+        ("LS-HLT201", "Health Insurance Law (HLT-201)", "LOWER", "HCALAW"),
+        ("LS-HLT202", "Health Records and Privacy (HLT-202)", "LOWER", "HCALAW,HCAINFO"),
+        ("LS-HLT203", "Legal Considerations in Drug Development (HLT-203)", "LOWER", "HELEC1"),
+        ("LS-RPL101", "Law of Real Estate Transactions and Mortgages (RPL-101)", "LOWER", "BELEC1"),
+        ("LS-RPL301", "Oil, Gas, and Mineral Rights (RPL-301)", "UPPER", "BELEC2"),
+        ("LS-TAX101", "Basics of Federal Income Taxation (TAX-101)", "LOWER", "BELEC1"),
+        ("LS-TOR301", "Intentional and Negligence Torts (TOR-301)", "UPPER", "BLAW,CJL"),
+        ("LS-TOR501", "Medical Malpractice Law (TOR-501)", "UPPER", "HCALAW"),
+        ("LS-TOR502", "Product Liability Law (TOR-502)", "UPPER", "BLAW,HCALAW"),
+        ("LS-IP-COPY", "Copyright Law", "LOWER", "BLAW,BELEC1,CONC1"),
+        ("LS-IP-PAT", "Patent Law", "UPPER", "BELEC1,SELEC1"),
+        ("LS-IP-TM", "Trademark Law", "UPPER", "MKT,BELEC1"),
+    ]
+    for code, title, level, slots in lawshelf:
+        rows.append(("LAWSHELF", code, title, "ONLINE_COURSE", "NCCRS-LS", 3, level, 9, 240, slots))
+
     # Google Career Certificates — current ACE (Coursera ACE FAQ). Split into 3-credit components.
     google = [
         ("GOOG-IT-1", "Google IT Support — Computer Applications", "ACE-GOOG-IT", "INFO,IT101"),
@@ -558,6 +609,7 @@ PROVIDER_URLS = {
     "DSST": "https://www.getcollegecredit.com/exam_fact_sheets/",
     "COOPERSMITH": "https://www.nationalccrs.org/organizations/coopersmith-career-consulting",
     "DAVAR": "https://www.nationalccrs.org/organizations/davar-academy-llc",
+    "LAWSHELF": "https://www.nationalccrs.org/organizations/lawshelf-educational-media",
     "GOOGLE": "https://www.coursera.support/s/article/learner-000001996",
     "IBM": "https://www.acenet.edu/National-Guide/Pages/Organization.aspx?oid=6d532c35-75c4-ea11-a812-000d3a33232a",
     "ECCOUNCIL": "https://www.eccouncil.org/ec-council-in-news/ec-council-helps-accelerate-degrees/",
