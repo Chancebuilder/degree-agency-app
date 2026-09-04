@@ -1,0 +1,5 @@
+id,code,name,delivery_platform,evaluator,default_hours_per_credit,pricing_model,monthly_price,source_url,last_verified_at,verified_by,verification_status
+d9dde269-82bc-505a-ac95-0b1e65aadcb8,SOPHIA,Sophia Learning,SELF_PACED,ACE,5,SUBSCRIPTION,99,https://www.sophia.org/,2026-09-01,seed-research-2026-09,VERIFIED
+5d7e9f36-87f2-5732-a173-b4f38eb3ba54,STUDYCOM,Study.com,SELF_PACED,ACE,9,SUBSCRIPTION,95,https://study.com/college/school/western-governors-university.html,2026-09-01,seed-research-2026-09,VERIFIED
+96b4a943-c2fc-59d4-9f44-8aab45d7a697,STRAIGHTERLINE,StraighterLine,SELF_PACED,ACE,9,SUBSCRIPTION_PLUS_COURSE,99,https://www.straighterline.com/,2026-09-01,seed-research-2026-09,VERIFIED
+5682bcc8-edcf-5085-a9cf-4ef3f64912f9,CLEP,CLEP,EXAM,COLLEGE_BOARD_ACE,12,EXAM_FEE,0,https://clep.collegeboard.org/,2026-09-01,seed-research-2026-09,VERIFIED

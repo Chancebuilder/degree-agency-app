@@ -1,0 +1,4 @@
+id,code,name,short_name,tier,delivery_model,marketplace_visibility_level,source_url,last_verified_at,verified_by,verification_status,notes
+167c96ad-31cb-5553-9ecb-ed0a49f44820,UMPI,University of Maine at Presque Isle,UMPI YourPace,A,COMPETENCY_BASED,0,https://www.umpi.edu/yourpace/,2026-09-01,seed-research-2026-09,VERIFIED,"YourPace undergraduate CBE, 8-week sessions."
+13b60986-2c38-54b0-89a1-886a01f5dc12,WGU,Western Governors University,WGU,A,COMPETENCY_BASED,0,https://www.wgu.edu/,2026-09-01,seed-research-2026-09,VERIFIED,Six-month competency-based terms.
+723cf985-a864-56e1-b05f-6862db5895ce,TESU,Thomas Edison State University,TESU,A,TERM_BASED,0,https://www.tesu.edu/,2026-09-01,seed-research-2026-09,VERIFIED,Transfer-friendly; ACE and NCCRS accepted.

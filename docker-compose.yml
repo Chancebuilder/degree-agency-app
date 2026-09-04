@@ -1,0 +1,54 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: degree-dean-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: degree_dean
+      POSTGRES_USER: degreedean
+      POSTGRES_PASSWORD: degreedean_dev
+    ports:
+      - "5432:5432"
+    volumes:
+      - degree_dean_pg:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U degreedean -d degree_dean"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  api:
+    build:
+      context: .
+      dockerfile: infrastructure/docker/api.Dockerfile
+    container_name: degree-dean-api
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/degree_dean
+      SPRING_DATASOURCE_USERNAME: degreedean
+      SPRING_DATASOURCE_PASSWORD: degreedean_dev
+      APP_JWT_SECRET: ${APP_JWT_SECRET:-change-me-to-a-64-char-random-string-for-local-dev-only-xxxx}
+      APP_SEED_PATH: /seed
+      APP_SEED_ON_STARTUP: "true"
+      APP_CORS_ORIGINS: http://127.0.0.1:18427,http://localhost:18427
+    ports:
+      - "18428:18428"
+    volumes:
+      - ./data/seed:/seed:ro
+
+  web:
+    build:
+      context: .
+      dockerfile: infrastructure/docker/web.Dockerfile
+      args:
+        VITE_API_BASE_URL: /api/v1
+    container_name: degree-dean-web
+    depends_on:
+      - api
+    ports:
+      - "18427:18427"
+
+volumes:
+  degree_dean_pg:
