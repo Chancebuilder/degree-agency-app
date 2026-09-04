@@ -37,6 +37,9 @@ export function GoalPage() {
     api<Program[]>('/api/v1/programs').then(setPrograms).catch((err) => setError(err.message))
   }, [])
 
+  const familyInstitutions = institutions.filter((institution) =>
+    programs.some((program) => program.degreeFamily === family && program.institutionId === institution.id),
+  )
   const visiblePrograms = programs.filter((p) => p.degreeFamily === family && p.institutionId === institutionId)
 
   async function save() {
@@ -56,7 +59,7 @@ export function GoalPage() {
     <div className="space-y-4">
       <div>
         <p className="text-xs uppercase tracking-[0.16em] text-gold-dark">Degree goal</p>
-        <h2 className="serif text-3xl">Choose one flagship lane and one Tier A school.</h2>
+        <h2 className="serif text-3xl">Choose a bachelor’s lane and one Tier A school.</h2>
       </div>
       {error ? <Alert tone="error">{error}</Alert> : null}
       <Card>
@@ -66,10 +69,11 @@ export function GoalPage() {
             <div className="mt-2 space-y-2">
               {[
                 ['BUSINESS_ADMINISTRATION', 'Business Administration'],
-                ['CYBERSECURITY', 'Cybersecurity'],
+                ['CYBERSECURITY', 'Cybersecurity / IT'],
+                ['PROFESSIONAL_STUDIES', 'Professional / Liberal / General Studies'],
               ].map(([value, label]) => (
                 <label key={value} className="flex items-center gap-2 text-sm">
-                  <input type="radio" name="family" checked={family === value} onChange={() => { setFamily(value); setProgramId('') }} />
+                  <input type="radio" name="family" checked={family === value} onChange={() => { setFamily(value); setInstitutionId(''); setProgramId('') }} />
                   {label}
                 </label>
               ))}
@@ -78,7 +82,7 @@ export function GoalPage() {
           <div>
             <p className="text-sm font-semibold">Candidate institution</p>
             <div className="mt-2 space-y-2">
-              {institutions.map((institution) => (
+              {familyInstitutions.map((institution) => (
                 <button
                   key={institution.id}
                   type="button"

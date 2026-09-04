@@ -252,7 +252,9 @@ public class PlanningService {
 
         LocalDate start = profile.getStartDate() == null ? LocalDate.now() : profile.getStartDate();
         BigDecimal oneTime = fee(rules, "APPLICATION_FEE").add(fee(rules, "GRADUATION_FEE"))
-                .add(fee(rules, "TRANSCRIPT_EVALUATION_FEE"));
+                .add(fee(rules, "TRANSCRIPT_EVALUATION_FEE"))
+                .add(fee(rules, "CAPSTONE_FEE"))
+                .add(fee(rules, "ASSESSMENT_FEE"));
         PolicyRule tuition = rules.stream().filter(r -> "TUITION".equals(r.getRuleType())).findFirst().orElse(null);
         int termWeeks = rules.stream().filter(r -> "TERM_WEEKS".equals(r.getRuleType()))
                 .map(r -> Integer.parseInt(r.getRuleValue())).findFirst().orElse(8);
