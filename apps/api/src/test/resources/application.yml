@@ -1,0 +1,20 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://127.0.0.1:5432/degree_dean_test
+    username: degreedean
+    password: degreedean_dev
+  jpa:
+    hibernate:
+      ddl-auto: validate
+  flyway:
+    enabled: true
+    clean-disabled: false
+
+app:
+  jwt:
+    secret: test-secret-test-secret-test-secret-test-secret
+  seed:
+    path: ../../data/seed
+    on-startup: false
+  cors:
+    origins: http://127.0.0.1:18427

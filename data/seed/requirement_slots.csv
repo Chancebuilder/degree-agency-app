@@ -1,0 +1,1726 @@
+id,institution_code,program_code,catalog_year,slot_code,title,credits,level,residency_required,sort_order,group_name
+33f0cb2f-3fb8-5a03-93bd-f66214b4f6d0,UMPI,BSBA,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+b6011795-14d1-5543-8ac6-5c6cce792bbd,UMPI,BSBA,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+58458777-4f9e-50f9-8fd2-6e43aa48aef8,UMPI,BSBA,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+673494ab-9091-56f0-b2c8-7c797e929a63,UMPI,BSBA,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+514df2a2-2151-5664-a5a6-c212202b2ab4,UMPI,BSBA,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+1b6128b0-f98d-53cd-8b43-936e70b88482,UMPI,BSBA,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+32d3006b-ac8f-5f49-9c8e-c07a6ab72446,UMPI,BSBA,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+e3bb8e7a-2703-5ad3-9d4d-936cc60b6447,UMPI,BSBA,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+b3b4dd51-f44f-5056-a4f0-498f45036c6d,UMPI,BSBA,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+f7944d5e-3563-577f-9792-b1d6aaf7032b,UMPI,BSBA,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+f608182a-d059-51b6-bfb6-57bebf8fa9b9,UMPI,BSBA,2025-2026,HIST,History,3,LOWER,false,11,General Education
+abbe9503-3551-5e2c-a1bd-5fd8c51e4941,UMPI,BSBA,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+420db415-9ee8-5afd-bb99-74833e0fced3,UMPI,BSBA,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+95349c5c-5937-5cf5-84ef-335e80934314,UMPI,BSBA,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+1d193954-d8be-57dc-968c-459973cb616d,UMPI,BSBA,2025-2026,BUS101,Introduction to Business,3,LOWER,false,15,Major
+a5605301-74ed-58c0-90ed-5d3dc0054324,UMPI,BSBA,2025-2026,ACCT1,Financial Accounting,3,LOWER,false,16,Major
+b48ce069-0559-56a6-89fe-aedccc0350d3,UMPI,BSBA,2025-2026,ACCT2,Managerial Accounting,3,LOWER,false,17,Major
+163340a2-35e0-597b-b9aa-2c43a1e53544,UMPI,BSBA,2025-2026,MICRO,Microeconomics,3,LOWER,false,18,Major
+afeb0352-2ef2-574a-bb90-a0eda28b5d33,UMPI,BSBA,2025-2026,MACRO,Macroeconomics,3,LOWER,false,19,Major
+16eacda1-c4ec-58c1-b981-a511882f5cf4,UMPI,BSBA,2025-2026,MGT,Principles of Management,3,LOWER,false,20,Major
+93a9568f-3826-5b9d-93bd-a2776a6f2c63,UMPI,BSBA,2025-2026,MKT,Principles of Marketing,3,LOWER,false,21,Major
+c97a2f6b-6a7f-52b9-a866-8ee7bff4d98e,UMPI,BSBA,2025-2026,BLAW,Business Law,3,LOWER,false,22,Major
+fce40ff0-8739-50e7-a73f-effd7d1d6f9f,UMPI,BSBA,2025-2026,FIN,Principles of Finance,3,UPPER,false,23,Major
+f0a9bc9c-44a8-581d-abcd-f08fc2ccd67a,UMPI,BSBA,2025-2026,OB,Organizational Behavior,3,UPPER,false,24,Major
+1bef1893-6b3f-57ef-8b3b-6d54cc64face,UMPI,BSBA,2025-2026,IS,Management Information Systems,3,LOWER,false,25,Major
+cde6cb83-dd27-5875-94dd-4df449f74af0,UMPI,BSBA,2025-2026,OPS,Operations Management,3,UPPER,false,26,Major
+2913beeb-7cbe-58dc-b6e3-7619444c421f,UMPI,BSBA,2025-2026,HR,Human Resource Management,3,UPPER,false,27,Major
+3dcc914e-c20a-5960-8e95-9fd113cae0a4,UMPI,BSBA,2025-2026,STRAT,Strategic Management / Capstone,3,UPPER,true,28,Major
+eb82642c-5dac-530c-b05d-80bd007c0399,UMPI,BSBA,2025-2026,BELEC1,Business Elective I,3,UPPER,false,29,Major
+dbb80268-a3f1-59f7-ade8-049c5007e230,UMPI,BSBA,2025-2026,BELEC2,Business Elective II,3,UPPER,false,30,Major
+76f9eaae-cfe3-5964-9322-d1c41fe5e88e,UMPI,BSBA,2025-2026,ELEC1,Free Elective I,3,LOWER,false,31,Major
+b98b8029-87cb-51e7-942b-f04102ba936b,UMPI,BSBA,2025-2026,ELEC2,Free Elective II,3,LOWER,false,32,Major
+4c88ab6b-b796-5a4a-bb06-c78ffc5a4eed,UMPI,BSBA,2025-2026,ELEC3,Free Elective III,3,LOWER,false,33,Major
+e0a37ed2-3360-5cc5-9c0e-608d5e859b0a,UMPI,BSBA,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+3f8c53fe-4e22-5dea-bba2-dcad256ae59b,UMPI,BSCY,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+f587226b-7a4c-5095-88a3-a40374a84933,UMPI,BSCY,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+99acb9b1-21c8-57c2-a005-19d71641cb7a,UMPI,BSCY,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+a50c7e35-2953-53cf-ae6b-366f3ea0ee60,UMPI,BSCY,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+0c46a3cd-1f1e-5478-83bc-8d071d8da22a,UMPI,BSCY,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+53bcf567-4e72-5675-8074-0c7f126b787e,UMPI,BSCY,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+89573202-3237-524f-8b62-5d2091e145e6,UMPI,BSCY,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+ca598255-bd4b-509f-a0b1-56e87cae30f2,UMPI,BSCY,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+7eef9c62-bc3e-54e3-bcf2-ac0552ff14a0,UMPI,BSCY,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+a264e353-e8e0-57a3-be4c-dc66a55b0bae,UMPI,BSCY,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+ad97a161-8e85-532c-9612-1ad4b9aea3a1,UMPI,BSCY,2025-2026,HIST,History,3,LOWER,false,11,General Education
+97560867-a679-59e5-aa49-6aae494bc6c1,UMPI,BSCY,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+472dba31-728f-511b-b136-427e35c47161,UMPI,BSCY,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+26164895-f096-5fd5-8187-1ee53f622ed6,UMPI,BSCY,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+1cb5c01b-3b24-59ff-a201-4cb6d5b2d0fc,UMPI,BSCY,2025-2026,IT101,Introduction to IT / Computing,3,LOWER,false,15,Major
+e5b38c48-cfde-5a1e-b4ac-d01a9ef3b3f2,UMPI,BSCY,2025-2026,NET,Networking Fundamentals,3,LOWER,false,16,Major
+e6b1797b-233f-5443-a0d6-697cda03a328,UMPI,BSCY,2025-2026,OS,Operating Systems,3,LOWER,false,17,Major
+57800cd0-e407-5f2d-9133-98257fac0c7e,UMPI,BSCY,2025-2026,SEC1,Introduction to Cybersecurity,3,LOWER,false,18,Major
+5c342a66-9eea-593c-8dfe-66461b03b97e,UMPI,BSCY,2025-2026,PROG,Programming Fundamentals,3,LOWER,false,19,Major
+4fef95f5-a9cd-551d-b075-9a71fa03d21f,UMPI,BSCY,2025-2026,DB,Database Fundamentals,3,LOWER,false,20,Major
+c877b779-c00f-5ae1-9a68-6a396772ace9,UMPI,BSCY,2025-2026,WEB,Web Technologies,3,LOWER,false,21,Major
+fdbfc677-b586-5ca5-8a1d-aaa50722b13e,UMPI,BSCY,2025-2026,RISK,Cyber Risk Management,3,UPPER,false,22,Major
+bc69cb8a-a3d2-541f-9ca1-d81e54216c47,UMPI,BSCY,2025-2026,LAW,Cybersecurity Law and Ethics,3,UPPER,false,23,Major
+106d85a5-0715-5fd0-a92b-755a48640370,UMPI,BSCY,2025-2026,CRYPT,Applied Cryptography,3,UPPER,false,24,Major
+01c8c65b-cd97-50b5-8987-039da7b30c1b,UMPI,BSCY,2025-2026,FOR,Digital Forensics,3,UPPER,false,25,Major
+aaf85912-7284-5bea-8acf-8a301e927e76,UMPI,BSCY,2025-2026,NETSEC,Network Security,3,UPPER,false,26,Major
+4dc710cf-3c55-5678-822a-612d0a43974e,UMPI,BSCY,2025-2026,PTEST,Penetration Testing,3,UPPER,true,27,Major
+505f32dd-bdf8-505e-86da-cdbbb75283f5,UMPI,BSCY,2025-2026,SEC2,Security Operations,3,UPPER,false,28,Major
+cd7a8d0f-ad38-57ff-8e86-aca610a168b9,UMPI,BSCY,2025-2026,CAP,Cybersecurity Capstone,3,UPPER,true,29,Major
+0fbcd33f-e66d-5b6e-aa1a-5f5ebf0a417f,UMPI,BSCY,2025-2026,CELEC1,Cyber Elective I,3,UPPER,false,30,Major
+787d24b8-5364-5438-bd6a-dcf3040d364e,UMPI,BSCY,2025-2026,ELEC1,Free Elective I,3,LOWER,false,31,Major
+bd296cb9-867a-5919-8973-68705729303d,UMPI,BSCY,2025-2026,ELEC2,Free Elective II,3,LOWER,false,32,Major
+fc1f0561-c446-5226-855f-f26ab96772dd,UMPI,BSCY,2025-2026,ELEC3,Free Elective III,3,LOWER,false,33,Major
+2c87eb31-601f-5079-8ab9-18e583975264,UMPI,BSCY,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+ef14d696-497a-5a36-9537-2fb58f1f0d21,WGU,BSBA,2026-03,ENG1,English Composition I,3,LOWER,false,1,General Education
+3a76e559-f4e9-595d-80f3-070380ee27ab,WGU,BSBA,2026-03,ENG2,English Composition II,3,LOWER,false,2,General Education
+f28d3e90-ce37-5108-a06e-c3cf4826d28a,WGU,BSBA,2026-03,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+2c320503-a552-574c-a360-872ccf10209a,WGU,BSBA,2026-03,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+4b767513-1794-5623-8fc8-46e94053361d,WGU,BSBA,2026-03,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+f709fdf2-1d67-5f7b-a1b7-6b000d7ce7a7,WGU,BSBA,2026-03,NS2,Natural Science,3,LOWER,false,6,General Education
+d7c311c3-83b4-5289-af24-90942de2c322,WGU,BSBA,2026-03,HUM1,Humanities I,3,LOWER,false,7,General Education
+31f16b9b-95d1-5393-9719-7c9aac4b86d9,WGU,BSBA,2026-03,HUM2,Humanities II,3,LOWER,false,8,General Education
+f9a2b6b5-468b-51ee-8aee-a0663814d7a7,WGU,BSBA,2026-03,SS1,Social Science I,3,LOWER,false,9,General Education
+e09507b9-984e-5d5e-a9e2-4922b3ea7505,WGU,BSBA,2026-03,SS2,Social Science II,3,LOWER,false,10,General Education
+fae6bbf1-edf0-5f6b-8ccb-24876bcb2f55,WGU,BSBA,2026-03,HIST,History,3,LOWER,false,11,General Education
+3d285122-cd69-5bbc-9a21-1d37e98347bb,WGU,BSBA,2026-03,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+de547bcd-2759-54ab-88fa-06ea7e797f8d,WGU,BSBA,2026-03,ETHICS,Ethics,3,LOWER,false,13,General Education
+471657d0-a932-521e-9870-17c898b67921,WGU,BSBA,2026-03,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+2cb68cdd-48b0-5ea3-8cae-5124568a9d74,WGU,BSBA,2026-03,BUS101,Introduction to Business,3,LOWER,false,15,Major
+677068c4-f771-59a5-946c-ea1d682d7983,WGU,BSBA,2026-03,ACCT1,Financial Accounting,3,LOWER,false,16,Major
+967ecb4a-6eb7-55de-88eb-ceffbfc2b6ab,WGU,BSBA,2026-03,ACCT2,Managerial Accounting,3,LOWER,false,17,Major
+df0f0be2-4f5b-5640-8876-0d20426dc15a,WGU,BSBA,2026-03,MICRO,Microeconomics,3,LOWER,false,18,Major
+cd507ad2-f8fd-5173-ae9c-468030fb2a5d,WGU,BSBA,2026-03,MACRO,Macroeconomics,3,LOWER,false,19,Major
+03bbc4cb-0b82-578d-b5c3-e666e7754c9d,WGU,BSBA,2026-03,MGT,Principles of Management,3,LOWER,false,20,Major
+14136649-d360-52d6-a24d-0d9fa1d68a95,WGU,BSBA,2026-03,MKT,Principles of Marketing,3,LOWER,false,21,Major
+be615036-48c9-564c-ae33-7ab1c5422ca5,WGU,BSBA,2026-03,BLAW,Business Law,3,LOWER,false,22,Major
+31558c4b-690c-57ed-8423-6ca23725ab9e,WGU,BSBA,2026-03,FIN,Principles of Finance,3,UPPER,false,23,Major
+7956ca95-2143-549c-8fa5-c06ae3ebb080,WGU,BSBA,2026-03,OB,Organizational Behavior,3,UPPER,false,24,Major
+a0256ee7-6d88-5ea4-a7d6-9c953c32f494,WGU,BSBA,2026-03,IS,Management Information Systems,3,LOWER,false,25,Major
+1cbef885-8cb8-5861-879d-9faf913bf3bf,WGU,BSBA,2026-03,OPS,Operations Management,3,UPPER,false,26,Major
+0702ee93-ef86-5846-b04f-08ca8587b099,WGU,BSBA,2026-03,HR,Human Resource Management,3,UPPER,false,27,Major
+4fd48bbe-de16-55b4-9775-3b7d38a8ffab,WGU,BSBA,2026-03,STRAT,Strategic Management / Capstone,3,UPPER,true,28,Major
+8b446a0e-9488-5eed-b02f-11dd0cea72aa,WGU,BSBA,2026-03,BELEC1,Business Elective I,3,UPPER,false,29,Major
+c5a057e9-4e30-54cc-a996-4fce19e5bb8d,WGU,BSBA,2026-03,BELEC2,Business Elective II,3,UPPER,false,30,Major
+0a0d1b17-cc6f-5813-870f-c0d82a84f5ec,WGU,BSBA,2026-03,ELEC1,Free Elective I,3,LOWER,false,31,Major
+18d8c6dd-d68f-5cf8-b427-4e8a1209f943,WGU,BSBA,2026-03,ELEC2,Free Elective II,3,LOWER,false,32,Major
+266d3e36-cca4-562c-a65d-fe80294e4bb1,WGU,BSBA,2026-03,ELEC3,Free Elective III,3,LOWER,false,33,Major
+502bfbfe-5737-55ad-8921-c5e26601660e,WGU,BSBA,2026-03,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+2b4135a2-51c7-5d62-99bd-88e17d5ddbff,WGU,BSCIA,2026-03,ENG1,English Composition I,3,LOWER,false,1,General Education
+3a338a7d-809a-5fca-8669-8204b8bfc25a,WGU,BSCIA,2026-03,ENG2,English Composition II,3,LOWER,false,2,General Education
+e7e4136d-ac12-5572-b858-bcf3f95f223a,WGU,BSCIA,2026-03,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+9735836c-83e1-59be-bc5e-efe8db176b15,WGU,BSCIA,2026-03,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+c92911e4-4248-5486-bcc6-3aa06b0f55a7,WGU,BSCIA,2026-03,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+4310f872-fa8b-5821-b318-a819766ea15b,WGU,BSCIA,2026-03,NS2,Natural Science,3,LOWER,false,6,General Education
+eca25d56-8348-51a9-b50d-0ddb5f0a843f,WGU,BSCIA,2026-03,HUM1,Humanities I,3,LOWER,false,7,General Education
+d9adf852-ebce-5aef-a1ad-df4c42ea0b02,WGU,BSCIA,2026-03,HUM2,Humanities II,3,LOWER,false,8,General Education
+c2d083e4-24bd-56ef-b0b8-6216a32bc1e2,WGU,BSCIA,2026-03,SS1,Social Science I,3,LOWER,false,9,General Education
+2bc11b9f-1196-52fe-a7ba-75997b5c1059,WGU,BSCIA,2026-03,SS2,Social Science II,3,LOWER,false,10,General Education
+09d7be58-5bdc-535c-b9d0-db9124a8324d,WGU,BSCIA,2026-03,HIST,History,3,LOWER,false,11,General Education
+e5a5b1c5-a8ec-5008-92a9-57e2cc56031f,WGU,BSCIA,2026-03,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+070ff8dc-3664-5bc0-ae5c-3f36da79b865,WGU,BSCIA,2026-03,ETHICS,Ethics,3,LOWER,false,13,General Education
+327cd9c1-edd5-55a0-9054-e5f3e0be09c1,WGU,BSCIA,2026-03,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+031107d4-3fb2-509b-8cdf-47001c1a7c98,WGU,BSCIA,2026-03,IT101,Introduction to IT / Computing,3,LOWER,false,15,Major
+05c734d6-7d3b-50ba-ba58-58d53da024ac,WGU,BSCIA,2026-03,NET,Networking Fundamentals,3,LOWER,false,16,Major
+373c606a-b050-5646-890e-7c34017e02bf,WGU,BSCIA,2026-03,OS,Operating Systems,3,LOWER,false,17,Major
+098d3191-f753-50f1-8a31-740f235e1652,WGU,BSCIA,2026-03,SEC1,Introduction to Cybersecurity,3,LOWER,false,18,Major
+51f49a76-0b73-5cc0-b815-d7e9aa03184e,WGU,BSCIA,2026-03,PROG,Programming Fundamentals,3,LOWER,false,19,Major
+61914e85-f6cc-5057-836e-c57d50cc1cd8,WGU,BSCIA,2026-03,DB,Database Fundamentals,3,LOWER,false,20,Major
+7e9aa6ab-c5c6-53d1-a6e6-bd16e38ddac2,WGU,BSCIA,2026-03,WEB,Web Technologies,3,LOWER,false,21,Major
+d990cc1d-8ee9-52ca-85fb-b548e3d930ca,WGU,BSCIA,2026-03,RISK,Cyber Risk Management,3,UPPER,false,22,Major
+d590562d-2c0c-58a8-9944-58d94053055e,WGU,BSCIA,2026-03,LAW,Cybersecurity Law and Ethics,3,UPPER,false,23,Major
+be105996-c66f-5286-87b5-9c2e79fb10ba,WGU,BSCIA,2026-03,CRYPT,Applied Cryptography,3,UPPER,false,24,Major
+07742ef8-db26-5777-88fd-575ef5667485,WGU,BSCIA,2026-03,FOR,Digital Forensics,3,UPPER,false,25,Major
+a685d61c-061a-5fec-ac9d-910284bc4870,WGU,BSCIA,2026-03,NETSEC,Network Security,3,UPPER,false,26,Major
+2b8ed19a-6ade-5916-ad44-7813413a6f15,WGU,BSCIA,2026-03,PTEST,Penetration Testing,3,UPPER,true,27,Major
+43b0d236-5fc0-59cc-95a8-7021e422ff73,WGU,BSCIA,2026-03,SEC2,Security Operations,3,UPPER,false,28,Major
+809d0889-8c64-56ce-a329-9a7961d6becc,WGU,BSCIA,2026-03,CAP,Cybersecurity Capstone,3,UPPER,true,29,Major
+a9a68c07-1a7b-5f36-83a0-541e6b841673,WGU,BSCIA,2026-03,CELEC1,Cyber Elective I,3,UPPER,false,30,Major
+0a68c669-4e1b-503f-8323-4dc1c92e586a,WGU,BSCIA,2026-03,ELEC1,Free Elective I,3,LOWER,false,31,Major
+4e6ab44a-8026-5364-ab8f-8304aefd3eb7,WGU,BSCIA,2026-03,ELEC2,Free Elective II,3,LOWER,false,32,Major
+caf0a327-2371-587d-a163-c0671593322c,WGU,BSCIA,2026-03,ELEC3,Free Elective III,3,LOWER,false,33,Major
+f8e33187-09b2-554f-8a9a-9adc4b21498a,WGU,BSCIA,2026-03,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+f1cf92a4-4ceb-5f98-88ac-3fcf71c0dd74,TESU,BSBA,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+f6fe9365-94f7-5645-91c2-87864d3fd38f,TESU,BSBA,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+641dd87c-e087-5301-9ecd-ed46c64cb568,TESU,BSBA,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+b87a8266-06b6-5731-af36-1af0ad57b092,TESU,BSBA,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+065c9fdf-73c3-5ee4-8e50-892fc760a4a5,TESU,BSBA,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+3e3edb14-f871-5af6-8143-550a0cc1cbaa,TESU,BSBA,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+9d7bd8ba-0262-564a-a534-bc9bbdfcbc89,TESU,BSBA,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+2802ba76-a550-56ab-9aa6-a9ebf04c6299,TESU,BSBA,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+51683f35-0ac9-5230-af90-31adb27fb3e8,TESU,BSBA,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+9a2539d8-d617-5173-9f1c-e81cf9b0796f,TESU,BSBA,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+b0d5c103-6afd-5a37-bf92-be49920b7223,TESU,BSBA,2025-2026,HIST,History,3,LOWER,false,11,General Education
+d58e0817-cdde-55ef-92ee-033a774c3cfd,TESU,BSBA,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+df72f99b-195a-5285-9d73-827a42ad2e0d,TESU,BSBA,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+ed1563cf-f2c6-5e16-94f2-1fd895cace51,TESU,BSBA,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+4a879c16-7ae1-51e2-8777-e3fc607a272a,TESU,BSBA,2025-2026,BUS101,Introduction to Business,3,LOWER,false,15,Major
+71e1f18b-d0e7-5ffa-a171-f9f70e10f262,TESU,BSBA,2025-2026,ACCT1,Financial Accounting,3,LOWER,false,16,Major
+dac0feeb-86b0-54da-ac9a-c288b816d4bd,TESU,BSBA,2025-2026,ACCT2,Managerial Accounting,3,LOWER,false,17,Major
+dd8b6cc6-0026-5fab-8890-0e5f750f8d8d,TESU,BSBA,2025-2026,MICRO,Microeconomics,3,LOWER,false,18,Major
+45d6ad6a-ff74-5ba0-bb54-e21242ee71b0,TESU,BSBA,2025-2026,MACRO,Macroeconomics,3,LOWER,false,19,Major
+43d7341a-d529-5467-a83c-7d5b3a046764,TESU,BSBA,2025-2026,MGT,Principles of Management,3,LOWER,false,20,Major
+0e8602b7-6cda-502d-b4e0-f705e3e2b84a,TESU,BSBA,2025-2026,MKT,Principles of Marketing,3,LOWER,false,21,Major
+1508d43b-6104-5004-bafd-b4cee73fec93,TESU,BSBA,2025-2026,BLAW,Business Law,3,LOWER,false,22,Major
+98156efe-def6-5003-9921-f223bca4e94e,TESU,BSBA,2025-2026,FIN,Principles of Finance,3,UPPER,false,23,Major
+6b0edb53-6ec1-5cb8-8224-cbbf266c09df,TESU,BSBA,2025-2026,OB,Organizational Behavior,3,UPPER,false,24,Major
+67a2b576-584c-5ca6-8438-4b2a082e4f58,TESU,BSBA,2025-2026,IS,Management Information Systems,3,LOWER,false,25,Major
+5f362383-b782-50e5-ae63-a113ca81ed9a,TESU,BSBA,2025-2026,OPS,Operations Management,3,UPPER,false,26,Major
+aaad99a7-a8f3-5a74-b032-bb0e3feaea02,TESU,BSBA,2025-2026,HR,Human Resource Management,3,UPPER,false,27,Major
+a3217849-eee2-58e9-8369-b64fc6515589,TESU,BSBA,2025-2026,STRAT,Strategic Management / Capstone,3,UPPER,true,28,Major
+0e581b8c-3e0a-5291-8df2-886d2fb44c8d,TESU,BSBA,2025-2026,BELEC1,Business Elective I,3,UPPER,false,29,Major
+c6fdefad-696f-5e99-9a09-57e472cf8b51,TESU,BSBA,2025-2026,BELEC2,Business Elective II,3,UPPER,false,30,Major
+f33e7994-8f6c-5070-b2f0-779dbc81f617,TESU,BSBA,2025-2026,ELEC1,Free Elective I,3,LOWER,false,31,Major
+ae4f9838-bd9d-51dc-9433-d5f1e8c2c869,TESU,BSBA,2025-2026,ELEC2,Free Elective II,3,LOWER,false,32,Major
+126360c9-a6f8-573a-9954-4601b0882277,TESU,BSBA,2025-2026,ELEC3,Free Elective III,3,LOWER,false,33,Major
+9a4e018e-8bab-551a-bf59-25a3eecec306,TESU,BSBA,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+c8bf9756-5bf9-5dad-89e5-141320d23f6b,TESU,BSCY,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+c35255be-9933-555a-a133-d8c92644431b,TESU,BSCY,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+b285c4a5-3f98-5878-a626-e7b3d8cff5be,TESU,BSCY,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+e05a17e7-a3e5-5cdc-8e7b-b5a3ff41c1c6,TESU,BSCY,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+00eadbdb-0f6c-58c0-be7c-f0a9f4f21ff8,TESU,BSCY,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+f3932cfe-430b-5a85-b1ac-3f14d61243fc,TESU,BSCY,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+c5852ab6-d531-59e7-9180-063ba7858077,TESU,BSCY,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+4ebeb4d7-45cb-5e9d-83b4-c8c329596aef,TESU,BSCY,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+5b15cb4e-a81c-5d0c-a884-38cc9d0836cb,TESU,BSCY,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+caff25eb-9bff-5d0f-87bb-2694a7d75af4,TESU,BSCY,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+82e44c46-c4ed-50e9-a242-3f7433f5745f,TESU,BSCY,2025-2026,HIST,History,3,LOWER,false,11,General Education
+bfc2c38b-f1c9-53ae-ba6b-c1429c0c64e3,TESU,BSCY,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+85e3e781-2990-5744-8bc7-a98e4f3ca86e,TESU,BSCY,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+a32336bb-46e8-5d26-a3b8-50f4f1015e94,TESU,BSCY,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+e7524c67-d804-5528-81b0-e1c913b3bce3,TESU,BSCY,2025-2026,IT101,Introduction to IT / Computing,3,LOWER,false,15,Major
+7d913154-15a9-50a6-a087-13a806322349,TESU,BSCY,2025-2026,NET,Networking Fundamentals,3,LOWER,false,16,Major
+5fa3d727-c893-5147-9c85-f4c7af929c92,TESU,BSCY,2025-2026,OS,Operating Systems,3,LOWER,false,17,Major
+aaa7b4da-2640-5fcb-8672-b4dc73254f20,TESU,BSCY,2025-2026,SEC1,Introduction to Cybersecurity,3,LOWER,false,18,Major
+a6225d75-2a31-5c24-8ebd-42c37b0defaa,TESU,BSCY,2025-2026,PROG,Programming Fundamentals,3,LOWER,false,19,Major
+005e1127-c33a-53f6-9923-ca76d78bef74,TESU,BSCY,2025-2026,DB,Database Fundamentals,3,LOWER,false,20,Major
+5e7c0249-c674-5e86-923b-00b20104083a,TESU,BSCY,2025-2026,WEB,Web Technologies,3,LOWER,false,21,Major
+db0b4be9-d08b-58e4-8a16-d8907e943dcb,TESU,BSCY,2025-2026,RISK,Cyber Risk Management,3,UPPER,false,22,Major
+a0348365-d672-55ac-9a25-ea8108a047f4,TESU,BSCY,2025-2026,LAW,Cybersecurity Law and Ethics,3,UPPER,false,23,Major
+ac8301c3-60dc-5c85-afa5-4a794a2f9dff,TESU,BSCY,2025-2026,CRYPT,Applied Cryptography,3,UPPER,false,24,Major
+82fe2a3b-2c93-5056-a1e6-64511f496d38,TESU,BSCY,2025-2026,FOR,Digital Forensics,3,UPPER,false,25,Major
+f7851f4a-9272-5b57-9ae4-7b9e81258300,TESU,BSCY,2025-2026,NETSEC,Network Security,3,UPPER,false,26,Major
+2dddef06-f068-5a49-bf89-8221e284cd54,TESU,BSCY,2025-2026,PTEST,Penetration Testing,3,UPPER,true,27,Major
+7d42f447-ed17-5be3-93b7-690cd7b7e99b,TESU,BSCY,2025-2026,SEC2,Security Operations,3,UPPER,false,28,Major
+0a4f2ebb-a29f-5e9e-a675-403e45b921ef,TESU,BSCY,2025-2026,CAP,Cybersecurity Capstone,3,UPPER,true,29,Major
+145847c2-c130-5ea1-aa7b-b9bf4da088e0,TESU,BSCY,2025-2026,CELEC1,Cyber Elective I,3,UPPER,false,30,Major
+7cf0cf61-7189-59c4-a8d5-9a48e5470307,TESU,BSCY,2025-2026,ELEC1,Free Elective I,3,LOWER,false,31,Major
+ae5c5255-8baf-58cc-9a5c-d55ed8b4f5b1,TESU,BSCY,2025-2026,ELEC2,Free Elective II,3,LOWER,false,32,Major
+9314493f-2447-53cb-bd9a-3bd3333303bd,TESU,BSCY,2025-2026,ELEC3,Free Elective III,3,LOWER,false,33,Major
+0c4d09fe-ed1f-5743-9686-ff44641423f4,TESU,BSCY,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+b7c88c85-d8c1-558a-8be8-cf4b6a821688,TESU,BALS,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+455fab02-4380-5247-b8e1-5bdc9d985da8,TESU,BALS,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+f9bc34a6-3a32-5810-b400-6fa9c9c07e38,TESU,BALS,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+9e7ebdc0-2830-5721-9f05-e6a9108c06ad,TESU,BALS,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+8afec61d-7cb0-5cb2-bb72-0d09e5feb258,TESU,BALS,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+fcd4045d-f2d7-563c-9f7b-265bcd6693ca,TESU,BALS,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+d7f2e10b-9c77-5f45-9065-7513aff4ea5c,TESU,BALS,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+38329b75-e067-5d0a-a852-65e642de5711,TESU,BALS,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+83119f65-9260-55b4-aef3-eabaa76c0361,TESU,BALS,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+2e4677d4-1150-5117-9707-e864e70759af,TESU,BALS,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+f6086c8e-c1c5-5d43-9bbf-8e1a10f30d43,TESU,BALS,2025-2026,HIST,History,3,LOWER,false,11,General Education
+1ab63c78-5040-5191-a65d-05235b56e10d,TESU,BALS,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+703b72d7-9b17-58cf-8c08-e158d119236a,TESU,BALS,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+dcd731d2-1ccb-54f0-944e-a39b782084ef,TESU,BALS,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+9616824d-2423-5db6-9f68-379aacbd02bb,TESU,BALS,2025-2026,ILP,Degree Design / Information Literacy,3,LOWER,false,15,Major
+1ce0e846-e7d8-5fa7-97d7-077802176573,TESU,BALS,2025-2026,LEAD,Leadership / Organizational Behavior,3,UPPER,false,16,Major
+65f8bc00-1010-5f8c-8ed6-82b4a6f7dbc8,TESU,BALS,2025-2026,PROFCOMM,Professional Communication,3,UPPER,false,17,Major
+26e0c894-98fe-55f7-9653-3c550a301f69,TESU,BALS,2025-2026,DATA,Applied Statistics / Decision Making,3,UPPER,false,18,Major
+6cd62a5a-ce4a-58bd-ad30-36aae6ee7a04,TESU,BALS,2025-2026,ETH2,Professional Ethics,3,UPPER,false,19,Major
+3362678c-03e1-55e5-a094-aed4f0ef20eb,TESU,BALS,2025-2026,RES,Applied Inquiry / Research Methods,3,UPPER,false,20,Major
+3ec0c6ab-3073-515e-9b9b-6ccdc5986021,TESU,BALS,2025-2026,CONC1,Concentration / Applied Elective I,3,UPPER,false,21,Major
+4e985fd9-006d-5fb1-959a-44acf1adce47,TESU,BALS,2025-2026,CONC2,Concentration / Applied Elective II,3,UPPER,false,22,Major
+da528707-154e-5c91-bb25-a8c5ce0a59e2,TESU,BALS,2025-2026,CONC3,Concentration / Applied Elective III,3,UPPER,false,23,Major
+dcf56175-5009-584f-8d60-2aa08ad6a9ba,TESU,BALS,2025-2026,CONC4,Concentration / Applied Elective IV,3,UPPER,false,24,Major
+55e61551-017e-59a6-8381-500fe6d221a3,TESU,BALS,2025-2026,ELEC1,Free Elective I,3,LOWER,false,25,Major
+578e6249-d42c-55b8-9177-cc41d582c81c,TESU,BALS,2025-2026,ELEC2,Free Elective II,3,LOWER,false,26,Major
+2561e209-1a31-5bfd-8f95-bfca0de9e052,TESU,BALS,2025-2026,ELEC3,Free Elective III,3,LOWER,false,27,Major
+82ed9cf8-8541-55f8-a597-d1eb61aa80dd,TESU,BALS,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,28,Major
+545b2cdb-f260-58cc-af01-0f286c312ff5,TESU,BALS,2025-2026,ELEC5,Free Elective V,3,LOWER,false,29,Major
+72a969fe-f5be-5f0a-885d-278d356483bd,TESU,BALS,2025-2026,ELEC6,Free Elective VI,3,LOWER,false,30,Major
+0dccc123-219d-5a55-99e2-99538764e709,TESU,BALS,2025-2026,CAP,Professional Studies / Liberal Studies Capstone,3,UPPER,true,31,Major
+da550339-67da-5dc9-845a-eb5711da1d15,EXCELSIOR,BSBA,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+c41533dd-22d2-5561-812c-c168d44849fd,EXCELSIOR,BSBA,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+9abddb0e-89a9-5ff0-bf61-001e987329a5,EXCELSIOR,BSBA,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+c3438d16-5d5f-572c-a94b-c253bfd23bc9,EXCELSIOR,BSBA,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+52b49952-5362-5f5a-a075-fadfa7c3b71e,EXCELSIOR,BSBA,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+63117e0e-b693-51cf-b545-e3ec282bba4e,EXCELSIOR,BSBA,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+f3350f98-84b2-5c32-ad44-3dfc13653515,EXCELSIOR,BSBA,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+25e3a23f-7a4f-5afd-a0d6-449092b34a90,EXCELSIOR,BSBA,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+20cd1d60-2b68-554f-8111-6a5f68193bcd,EXCELSIOR,BSBA,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+a985713d-ccbb-5695-8acb-99f9ec61de2e,EXCELSIOR,BSBA,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+6d4ae108-9f2f-51aa-922a-72a98697bba9,EXCELSIOR,BSBA,2025-2026,HIST,History,3,LOWER,false,11,General Education
+64930623-8b91-55ef-aa70-dbeeb1cf0e49,EXCELSIOR,BSBA,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+5d00f911-7261-55f7-bcf0-68804f628724,EXCELSIOR,BSBA,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+6f083dd4-8f78-5df5-a572-a328191cfe73,EXCELSIOR,BSBA,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+80072162-d553-5b3a-9d3f-f6dfd49dcb34,EXCELSIOR,BSBA,2025-2026,BUS101,Introduction to Business,3,LOWER,false,15,Major
+b92e9a5d-47b0-59d9-86a7-408ae88e8a74,EXCELSIOR,BSBA,2025-2026,ACCT1,Financial Accounting,3,LOWER,false,16,Major
+34fabfa6-7718-5a20-b496-72adc823f00c,EXCELSIOR,BSBA,2025-2026,ACCT2,Managerial Accounting,3,LOWER,false,17,Major
+f8fb0fad-47f7-5f7e-a304-585384a7ef46,EXCELSIOR,BSBA,2025-2026,MICRO,Microeconomics,3,LOWER,false,18,Major
+ef745a15-b18c-57ec-9747-0396f4aa2888,EXCELSIOR,BSBA,2025-2026,MACRO,Macroeconomics,3,LOWER,false,19,Major
+5a98fbb1-45dd-52c5-a877-59f3d3f92bba,EXCELSIOR,BSBA,2025-2026,MGT,Principles of Management,3,LOWER,false,20,Major
+6b785c95-a0de-5885-9a56-6961b78a19be,EXCELSIOR,BSBA,2025-2026,MKT,Principles of Marketing,3,LOWER,false,21,Major
+945c64c3-1a89-528d-99b3-b94e5ae181ea,EXCELSIOR,BSBA,2025-2026,BLAW,Business Law,3,LOWER,false,22,Major
+7c422529-77e0-5d86-8341-9b5e8cc88462,EXCELSIOR,BSBA,2025-2026,FIN,Principles of Finance,3,UPPER,false,23,Major
+a4dce1cc-f285-52c5-ba90-b2ce958ef718,EXCELSIOR,BSBA,2025-2026,OB,Organizational Behavior,3,UPPER,false,24,Major
+3cf420bc-428c-50f1-b162-c9b4813a866b,EXCELSIOR,BSBA,2025-2026,IS,Management Information Systems,3,LOWER,false,25,Major
+1ce466f6-a127-5785-a1b9-7d6a51277cfd,EXCELSIOR,BSBA,2025-2026,OPS,Operations Management,3,UPPER,false,26,Major
+3f6a348c-7909-5492-81ad-39dff96f9c90,EXCELSIOR,BSBA,2025-2026,HR,Human Resource Management,3,UPPER,false,27,Major
+03829477-de7c-5e51-97d0-1a67db62eaf3,EXCELSIOR,BSBA,2025-2026,STRAT,Strategic Management / Capstone,3,UPPER,true,28,Major
+8711510a-f073-52e3-a12d-f63fddc8b718,EXCELSIOR,BSBA,2025-2026,BELEC1,Business Elective I,3,UPPER,false,29,Major
+4e975e10-86c8-55a7-9a9d-6154a838ae57,EXCELSIOR,BSBA,2025-2026,BELEC2,Business Elective II,3,UPPER,false,30,Major
+ede9296c-5236-58e2-b423-3fbc14af0638,EXCELSIOR,BSBA,2025-2026,ELEC1,Free Elective I,3,LOWER,false,31,Major
+45be51e9-26f9-5f51-9cf1-47a88e629f5d,EXCELSIOR,BSBA,2025-2026,ELEC2,Free Elective II,3,LOWER,false,32,Major
+25e15375-d366-589e-8357-6b5defd13f8e,EXCELSIOR,BSBA,2025-2026,ELEC3,Free Elective III,3,LOWER,false,33,Major
+0f09cd09-eeb9-50b2-9b33-603bae38da7b,EXCELSIOR,BSBA,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+bc3c7f67-caa2-5479-850f-9dc13071b338,EXCELSIOR,BSCY,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+0fe11793-ab5b-552e-ba9e-75886e2608d7,EXCELSIOR,BSCY,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+dd78fcd9-8a10-5e73-95ec-c2f64b58aafb,EXCELSIOR,BSCY,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+fc021dde-11dd-5445-9090-7ec865d7b1e8,EXCELSIOR,BSCY,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+bf00dac3-91d5-5710-816d-23600e636c8e,EXCELSIOR,BSCY,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+e3d961c9-9c75-5b15-932b-b2607ec0007a,EXCELSIOR,BSCY,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+c068a9cf-56b6-5d01-b57b-1a56c4e52116,EXCELSIOR,BSCY,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+5a785002-25ce-5aed-b9d3-2998c1d13b79,EXCELSIOR,BSCY,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+29770c8d-081e-5052-8639-f4cff3f43234,EXCELSIOR,BSCY,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+37b0a1fe-814f-5473-9afe-dcfe8f34b7bc,EXCELSIOR,BSCY,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+5707b43a-0012-5e11-906d-c32b16e0d03c,EXCELSIOR,BSCY,2025-2026,HIST,History,3,LOWER,false,11,General Education
+7817b33e-7b88-586d-b41c-948063f2472a,EXCELSIOR,BSCY,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+4c821dc1-adb0-525e-894a-e65db8335e0a,EXCELSIOR,BSCY,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+ba12173c-f0bf-51d9-ad7e-d26bdf901b29,EXCELSIOR,BSCY,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+198624d6-5cc7-57ca-9ecb-6078b50754ac,EXCELSIOR,BSCY,2025-2026,IT101,Introduction to IT / Computing,3,LOWER,false,15,Major
+3899372a-8beb-562b-9dff-3b6bcadcf0eb,EXCELSIOR,BSCY,2025-2026,NET,Networking Fundamentals,3,LOWER,false,16,Major
+1ed2c93c-1585-56b5-8633-32118c86161d,EXCELSIOR,BSCY,2025-2026,OS,Operating Systems,3,LOWER,false,17,Major
+3a51c43c-2d4f-5d4a-8d03-db47543928ba,EXCELSIOR,BSCY,2025-2026,SEC1,Introduction to Cybersecurity,3,LOWER,false,18,Major
+c118cc78-0315-5eae-bb5c-1c3ac60d2911,EXCELSIOR,BSCY,2025-2026,PROG,Programming Fundamentals,3,LOWER,false,19,Major
+387db4d6-c2cc-57bb-ba30-0768c8963101,EXCELSIOR,BSCY,2025-2026,DB,Database Fundamentals,3,LOWER,false,20,Major
+b31bf5b1-837f-5ac8-9f60-5155ec48c040,EXCELSIOR,BSCY,2025-2026,WEB,Web Technologies,3,LOWER,false,21,Major
+21ee4b42-0eb8-5926-947a-d497b5908c3a,EXCELSIOR,BSCY,2025-2026,RISK,Cyber Risk Management,3,UPPER,false,22,Major
+4e1bc520-f8ef-54cc-8243-e07106053955,EXCELSIOR,BSCY,2025-2026,LAW,Cybersecurity Law and Ethics,3,UPPER,false,23,Major
+97369d15-e835-5093-8c7a-3a84e6d46ac1,EXCELSIOR,BSCY,2025-2026,CRYPT,Applied Cryptography,3,UPPER,false,24,Major
+ddc5dcd4-3132-5f68-b0b1-7191386ff9e3,EXCELSIOR,BSCY,2025-2026,FOR,Digital Forensics,3,UPPER,false,25,Major
+0bf8008f-c426-56eb-b8d8-fabc786d3ec8,EXCELSIOR,BSCY,2025-2026,NETSEC,Network Security,3,UPPER,false,26,Major
+b84bd2b0-e077-57b4-a166-136d56b8b9ea,EXCELSIOR,BSCY,2025-2026,PTEST,Penetration Testing,3,UPPER,true,27,Major
+75457d04-79df-5f99-890c-2f7423ef816e,EXCELSIOR,BSCY,2025-2026,SEC2,Security Operations,3,UPPER,false,28,Major
+fb8f71a5-eba4-59ca-9301-668564514741,EXCELSIOR,BSCY,2025-2026,CAP,Cybersecurity Capstone,3,UPPER,true,29,Major
+fec4a5dc-5815-50ba-8a3d-6462df2e63dd,EXCELSIOR,BSCY,2025-2026,CELEC1,Cyber Elective I,3,UPPER,false,30,Major
+d01af065-8562-586b-8eca-96a27eb30696,EXCELSIOR,BSCY,2025-2026,ELEC1,Free Elective I,3,LOWER,false,31,Major
+4fb3d9b0-b8ac-5330-95e2-de79e85f9b6e,EXCELSIOR,BSCY,2025-2026,ELEC2,Free Elective II,3,LOWER,false,32,Major
+546a4ef2-89a7-5b30-b322-8006ee1bef0c,EXCELSIOR,BSCY,2025-2026,ELEC3,Free Elective III,3,LOWER,false,33,Major
+0fdb2a23-a85d-5cc1-8a0b-8e3c16da2a41,EXCELSIOR,BSCY,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+e3d7e2d8-385c-5665-826e-5ee4a24e999a,EXCELSIOR,BSLA,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+df1d21f0-0801-5f94-a5e8-70ddff674de1,EXCELSIOR,BSLA,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+822d119a-c2d7-5fe3-84b7-c8e6123e9856,EXCELSIOR,BSLA,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+d3c1f05b-dfb0-5923-92f0-bc2c70b9e543,EXCELSIOR,BSLA,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+e819e69d-0e9d-5a82-9aa1-b284df4a97a6,EXCELSIOR,BSLA,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+8a1fa66d-8202-54ba-96bf-e07002efcdf8,EXCELSIOR,BSLA,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+9d9f1509-76d1-53d0-9e58-9cf9368ef5b0,EXCELSIOR,BSLA,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+e58f25ca-1fae-5cb3-b301-eea42a3e989a,EXCELSIOR,BSLA,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+e56bd881-0be4-5965-a58c-d474e8cdb276,EXCELSIOR,BSLA,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+2bffbd2d-3ec8-53d5-866e-c0753d29f900,EXCELSIOR,BSLA,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+a795ffa0-5176-5c9b-8fe9-f4b598d34fe1,EXCELSIOR,BSLA,2025-2026,HIST,History,3,LOWER,false,11,General Education
+f0a3a2a6-5aae-5277-ab9e-b90de5e485c5,EXCELSIOR,BSLA,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+736be16e-fe9e-5b48-9277-bc0db0c46795,EXCELSIOR,BSLA,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+ad31b66d-a761-5b3e-bfc7-e5cae6422de8,EXCELSIOR,BSLA,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+3df7672a-39e0-5326-b519-bf815b3c06f9,EXCELSIOR,BSLA,2025-2026,ILP,Degree Design / Information Literacy,3,LOWER,false,15,Major
+12b092de-84d4-545a-bc48-cf7ab3d5d12c,EXCELSIOR,BSLA,2025-2026,LEAD,Leadership / Organizational Behavior,3,UPPER,false,16,Major
+28dc615a-7232-515c-a44b-3e7f7456a627,EXCELSIOR,BSLA,2025-2026,PROFCOMM,Professional Communication,3,UPPER,false,17,Major
+fefb767d-13f1-560e-aff8-39ae3db64b91,EXCELSIOR,BSLA,2025-2026,DATA,Applied Statistics / Decision Making,3,UPPER,false,18,Major
+ff5ed44c-de60-5a9b-ba50-164fc6074870,EXCELSIOR,BSLA,2025-2026,ETH2,Professional Ethics,3,UPPER,false,19,Major
+c8fb6e0c-686c-512d-a83d-1aee2128fff1,EXCELSIOR,BSLA,2025-2026,RES,Applied Inquiry / Research Methods,3,UPPER,false,20,Major
+7709b1e5-1825-55fe-9072-7a902cf0cb88,EXCELSIOR,BSLA,2025-2026,CONC1,Concentration / Applied Elective I,3,UPPER,false,21,Major
+3a736553-6ea6-5b25-8fef-56f740d73dfe,EXCELSIOR,BSLA,2025-2026,CONC2,Concentration / Applied Elective II,3,UPPER,false,22,Major
+d9a21b77-657e-5e2f-af60-7d904ad959ae,EXCELSIOR,BSLA,2025-2026,CONC3,Concentration / Applied Elective III,3,UPPER,false,23,Major
+b774f1bc-5a50-51d9-882d-2dc383239738,EXCELSIOR,BSLA,2025-2026,CONC4,Concentration / Applied Elective IV,3,UPPER,false,24,Major
+fbcdc54d-9afd-5131-9694-71ac6f24e18a,EXCELSIOR,BSLA,2025-2026,ELEC1,Free Elective I,3,LOWER,false,25,Major
+85c4e55b-ed5d-5c4a-b085-e02c96a84dd5,EXCELSIOR,BSLA,2025-2026,ELEC2,Free Elective II,3,LOWER,false,26,Major
+4b2be3ae-4fbe-5d18-aa00-bbf47cb04f31,EXCELSIOR,BSLA,2025-2026,ELEC3,Free Elective III,3,LOWER,false,27,Major
+519f5fe2-ad02-575f-b04d-2ef605fcd254,EXCELSIOR,BSLA,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,28,Major
+bc75544d-8f46-558b-98fa-c5094bc9e96b,EXCELSIOR,BSLA,2025-2026,ELEC5,Free Elective V,3,LOWER,false,29,Major
+ed698a2a-1efe-5d8f-bbc5-9f180aac7315,EXCELSIOR,BSLA,2025-2026,ELEC6,Free Elective VI,3,LOWER,false,30,Major
+31c77107-1b54-54b5-a7b2-2994efa44bc8,EXCELSIOR,BSLA,2025-2026,CAP,Professional Studies / Liberal Studies Capstone,3,UPPER,true,31,Major
+d72872a3-d25b-58b8-9cf6-3208399c1299,COSC,BSBA,2026-2027,ENG1,English Composition I,3,LOWER,false,1,General Education
+90d047f9-2fbe-5474-8370-e3478ce2068d,COSC,BSBA,2026-2027,ENG2,English Composition II,3,LOWER,false,2,General Education
+db72cd05-393d-53df-87e0-74e40a07a4d4,COSC,BSBA,2026-2027,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+df020177-f25d-548f-a720-a222a7dbd64d,COSC,BSBA,2026-2027,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+d440aa1c-2c27-554e-b77a-ead276855b36,COSC,BSBA,2026-2027,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+bba43110-ec58-5117-bcf1-008aeb7e2dd5,COSC,BSBA,2026-2027,NS2,Natural Science,3,LOWER,false,6,General Education
+bfc86841-ba96-5ead-a18e-41d6d0c7c686,COSC,BSBA,2026-2027,HUM1,Humanities I,3,LOWER,false,7,General Education
+fc86bb98-ba87-5758-bacf-bf1ca643eb59,COSC,BSBA,2026-2027,HUM2,Humanities II,3,LOWER,false,8,General Education
+e200b2dd-28d4-525f-9184-5d1eb0ff18e8,COSC,BSBA,2026-2027,SS1,Social Science I,3,LOWER,false,9,General Education
+3478559f-d3ff-51b4-b0a9-37782228b73d,COSC,BSBA,2026-2027,SS2,Social Science II,3,LOWER,false,10,General Education
+30ad1f94-393c-553c-b165-6ad0cbe01b56,COSC,BSBA,2026-2027,HIST,History,3,LOWER,false,11,General Education
+84f3fafe-4cf3-558d-baca-45309c2aaf38,COSC,BSBA,2026-2027,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+6c3668ce-3ee2-5ffb-ac41-5851da8eba5d,COSC,BSBA,2026-2027,ETHICS,Ethics,3,LOWER,false,13,General Education
+a8301512-b15d-55cd-8db6-63b23385f5ed,COSC,BSBA,2026-2027,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+908f246a-3a0e-5005-b241-86e92c7688bf,COSC,BSBA,2026-2027,BUS101,Introduction to Business,3,LOWER,false,15,Major
+8a220ed2-a3cf-5342-9243-155148e8efaf,COSC,BSBA,2026-2027,ACCT1,Financial Accounting,3,LOWER,false,16,Major
+6b5aa873-5472-528e-81f0-e06818aa0aa1,COSC,BSBA,2026-2027,ACCT2,Managerial Accounting,3,LOWER,false,17,Major
+965bb51a-4535-5a84-8490-b531bd803bae,COSC,BSBA,2026-2027,MICRO,Microeconomics,3,LOWER,false,18,Major
+6b1bce11-001c-5d04-951b-fd62130609e4,COSC,BSBA,2026-2027,MACRO,Macroeconomics,3,LOWER,false,19,Major
+e4546756-219b-53b6-af2a-16e92a941aab,COSC,BSBA,2026-2027,MGT,Principles of Management,3,LOWER,false,20,Major
+a0e8a774-a3ae-5fd9-a76f-afe72db40325,COSC,BSBA,2026-2027,MKT,Principles of Marketing,3,LOWER,false,21,Major
+76d97f46-853e-5ac4-822e-1d74e184b625,COSC,BSBA,2026-2027,BLAW,Business Law,3,LOWER,false,22,Major
+05949328-323e-5061-9cc8-a63bdd2baa2a,COSC,BSBA,2026-2027,FIN,Principles of Finance,3,UPPER,false,23,Major
+1002f536-eca5-56bc-92a8-ac0c3d489f95,COSC,BSBA,2026-2027,OB,Organizational Behavior,3,UPPER,false,24,Major
+a18aa7df-fc2b-5e82-997f-67f338ccbaed,COSC,BSBA,2026-2027,IS,Management Information Systems,3,LOWER,false,25,Major
+44ffa01e-818a-586f-a386-9ef9bdbcfd13,COSC,BSBA,2026-2027,OPS,Operations Management,3,UPPER,false,26,Major
+c350fa07-86f8-5dee-8683-5b717af83fc3,COSC,BSBA,2026-2027,HR,Human Resource Management,3,UPPER,false,27,Major
+0b781cff-4d38-5689-a29c-29095f8ad238,COSC,BSBA,2026-2027,STRAT,Strategic Management / Capstone,3,UPPER,true,28,Major
+550138ff-dbb5-50ee-bbbf-66bb9d1f172c,COSC,BSBA,2026-2027,BELEC1,Business Elective I,3,UPPER,false,29,Major
+12b350c3-4e2c-56fd-8b84-42b11825df6d,COSC,BSBA,2026-2027,BELEC2,Business Elective II,3,UPPER,false,30,Major
+a25e7387-7115-5161-8252-9c18a53bf377,COSC,BSBA,2026-2027,ELEC1,Free Elective I,3,LOWER,false,31,Major
+dceabf0a-3054-5c2c-ba2b-bc83d37d80da,COSC,BSBA,2026-2027,ELEC2,Free Elective II,3,LOWER,false,32,Major
+0339750f-d09d-5f83-bc0a-cef378dd5412,COSC,BSBA,2026-2027,ELEC3,Free Elective III,3,LOWER,false,33,Major
+15d51b88-1cc1-5f89-837b-e58ed42fcfaf,COSC,BSBA,2026-2027,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+0119b692-181d-5a42-a6e4-f9e9598e8349,COSC,BSCY,2026-2027,ENG1,English Composition I,3,LOWER,false,1,General Education
+9ec92ff7-1118-5a00-ae27-c593a0c85240,COSC,BSCY,2026-2027,ENG2,English Composition II,3,LOWER,false,2,General Education
+a079743b-7f7c-53f8-8f01-23c33152ca73,COSC,BSCY,2026-2027,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+359637e5-5a21-53cd-a59f-bd2a4fcb923d,COSC,BSCY,2026-2027,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+cffee657-1c70-5b93-af9b-22553beb1337,COSC,BSCY,2026-2027,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+c91b5fc6-07f4-5bdd-a2a0-a1d67b4fbb7e,COSC,BSCY,2026-2027,NS2,Natural Science,3,LOWER,false,6,General Education
+1b91b18d-bfd7-57e1-971c-f874e9f9140e,COSC,BSCY,2026-2027,HUM1,Humanities I,3,LOWER,false,7,General Education
+00005a1c-59a0-5d99-854a-4608b2fdc74e,COSC,BSCY,2026-2027,HUM2,Humanities II,3,LOWER,false,8,General Education
+a3e63094-4d7a-5382-bdda-bab01e0be905,COSC,BSCY,2026-2027,SS1,Social Science I,3,LOWER,false,9,General Education
+a8e5c701-e6da-5131-ba09-984432849be9,COSC,BSCY,2026-2027,SS2,Social Science II,3,LOWER,false,10,General Education
+86e402f7-ea5f-5535-8cdb-5d94e165412d,COSC,BSCY,2026-2027,HIST,History,3,LOWER,false,11,General Education
+ae7e0d9b-7319-55cb-8eaa-6a8c45fb7854,COSC,BSCY,2026-2027,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+4128fd6c-534d-56e1-89db-58f779055462,COSC,BSCY,2026-2027,ETHICS,Ethics,3,LOWER,false,13,General Education
+896d4d68-965c-5334-a871-5dbcb2012bc1,COSC,BSCY,2026-2027,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+7b441881-8722-5888-a883-ac7a49b1d48d,COSC,BSCY,2026-2027,IT101,Introduction to IT / Computing,3,LOWER,false,15,Major
+d6d9ce89-f9ce-59c2-917e-d17317e27ed1,COSC,BSCY,2026-2027,NET,Networking Fundamentals,3,LOWER,false,16,Major
+cd1cac52-3b76-5677-b69a-4eca2e386c58,COSC,BSCY,2026-2027,OS,Operating Systems,3,LOWER,false,17,Major
+eb325ce5-2d4e-5ae3-b107-2002e6a9c027,COSC,BSCY,2026-2027,SEC1,Introduction to Cybersecurity,3,LOWER,false,18,Major
+e403baf0-ab61-5a86-bbe6-9a82eaea1111,COSC,BSCY,2026-2027,PROG,Programming Fundamentals,3,LOWER,false,19,Major
+f7d874e6-fc03-51cd-9998-5153fc8380ca,COSC,BSCY,2026-2027,DB,Database Fundamentals,3,LOWER,false,20,Major
+a2156687-01dd-5d5b-85e5-919018372611,COSC,BSCY,2026-2027,WEB,Web Technologies,3,LOWER,false,21,Major
+e1e5adca-5982-5e0f-b8a8-926592d2fdcf,COSC,BSCY,2026-2027,RISK,Cyber Risk Management,3,UPPER,false,22,Major
+95cf5d14-c73e-59e8-aebc-54b795a23aa2,COSC,BSCY,2026-2027,LAW,Cybersecurity Law and Ethics,3,UPPER,false,23,Major
+92537c23-535e-585a-8e65-6636b03384cb,COSC,BSCY,2026-2027,CRYPT,Applied Cryptography,3,UPPER,false,24,Major
+c9f8e123-ab84-54e0-a071-809fc65aaa68,COSC,BSCY,2026-2027,FOR,Digital Forensics,3,UPPER,false,25,Major
+5e0e09e4-61fc-5039-b143-a6e23ab49265,COSC,BSCY,2026-2027,NETSEC,Network Security,3,UPPER,false,26,Major
+4b18945d-734f-53d9-8f62-8a1b2538e02a,COSC,BSCY,2026-2027,PTEST,Penetration Testing,3,UPPER,true,27,Major
+5f46e2dd-4476-552d-87d2-4be3b5d06872,COSC,BSCY,2026-2027,SEC2,Security Operations,3,UPPER,false,28,Major
+e4e990cf-b7ab-5ac1-8589-0dd7e13333e5,COSC,BSCY,2026-2027,CAP,Cybersecurity Capstone,3,UPPER,true,29,Major
+5c20f78c-fe4f-5b31-b3a4-3bcceafdf578,COSC,BSCY,2026-2027,CELEC1,Cyber Elective I,3,UPPER,false,30,Major
+96f9ed93-8b9e-5020-a54c-9a0a89f8d28d,COSC,BSCY,2026-2027,ELEC1,Free Elective I,3,LOWER,false,31,Major
+be5598b6-edbb-5cdb-adf4-1688dee54ce8,COSC,BSCY,2026-2027,ELEC2,Free Elective II,3,LOWER,false,32,Major
+d786cc45-1617-5089-959e-bb5c402b1c54,COSC,BSCY,2026-2027,ELEC3,Free Elective III,3,LOWER,false,33,Major
+8df0e5fb-0d52-5a46-8f60-ce52253e047a,COSC,BSCY,2026-2027,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+2b40440e-fa23-5e15-b8ff-141afa1f1f03,COSC,BSGS,2026-2027,ENG1,English Composition I,3,LOWER,false,1,General Education
+b38e2eb9-7970-5799-8f80-fee6a25dcb8e,COSC,BSGS,2026-2027,ENG2,English Composition II,3,LOWER,false,2,General Education
+5ec9527f-e363-5a41-8f89-9304df09abd8,COSC,BSGS,2026-2027,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+8c7ff613-7f83-5633-b143-2b03756863a3,COSC,BSGS,2026-2027,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+727fd4e1-8916-5188-ac45-89ae5028dcfa,COSC,BSGS,2026-2027,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+94c1a5c8-1a24-526c-be6d-aca500dcec4e,COSC,BSGS,2026-2027,NS2,Natural Science,3,LOWER,false,6,General Education
+df505231-9a6d-50a3-9c96-2102cc5c3e22,COSC,BSGS,2026-2027,HUM1,Humanities I,3,LOWER,false,7,General Education
+b3b5ca93-e96f-5315-b27e-c82bdd2d4a5b,COSC,BSGS,2026-2027,HUM2,Humanities II,3,LOWER,false,8,General Education
+b33d48f9-0be8-5640-ac3d-5b94c13b2525,COSC,BSGS,2026-2027,SS1,Social Science I,3,LOWER,false,9,General Education
+9521c3ef-63a7-51ad-8699-d56e90349050,COSC,BSGS,2026-2027,SS2,Social Science II,3,LOWER,false,10,General Education
+16dedd0f-84ce-597e-9daf-9f1ce857b84b,COSC,BSGS,2026-2027,HIST,History,3,LOWER,false,11,General Education
+94e70f5d-2aad-5603-b4fe-14905bb4c677,COSC,BSGS,2026-2027,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+dce07db9-bcad-51c3-9815-d3baa89ea25a,COSC,BSGS,2026-2027,ETHICS,Ethics,3,LOWER,false,13,General Education
+c4f9e5fc-ee33-5f33-909d-cac1f300ef7e,COSC,BSGS,2026-2027,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+2eb7d5a5-5fa5-5b24-b158-8670d4f2b666,COSC,BSGS,2026-2027,ILP,Degree Design / Information Literacy,3,LOWER,false,15,Major
+f913afe3-0697-58cf-b5b5-c048229e5926,COSC,BSGS,2026-2027,LEAD,Leadership / Organizational Behavior,3,UPPER,false,16,Major
+c436082b-b576-54db-ad3e-7c6b3610f82f,COSC,BSGS,2026-2027,PROFCOMM,Professional Communication,3,UPPER,false,17,Major
+a8b9838f-9bf6-5390-a292-deb0ff043487,COSC,BSGS,2026-2027,DATA,Applied Statistics / Decision Making,3,UPPER,false,18,Major
+86b17510-579f-5f0d-b131-7a0342e3b00d,COSC,BSGS,2026-2027,ETH2,Professional Ethics,3,UPPER,false,19,Major
+2d99c6a5-af84-58dc-9879-08a264b858cd,COSC,BSGS,2026-2027,RES,Applied Inquiry / Research Methods,3,UPPER,false,20,Major
+7ee510ac-4345-5332-bcb8-df5a63d4b383,COSC,BSGS,2026-2027,CONC1,Concentration / Applied Elective I,3,UPPER,false,21,Major
+477b04e3-f645-531c-9ca1-2a2f49da4844,COSC,BSGS,2026-2027,CONC2,Concentration / Applied Elective II,3,UPPER,false,22,Major
+6655b5b8-0fa3-5ea3-a264-bc8b2d98c528,COSC,BSGS,2026-2027,CONC3,Concentration / Applied Elective III,3,UPPER,false,23,Major
+ca794d59-aa3d-5d82-bb8d-f78e7c8c4f1b,COSC,BSGS,2026-2027,CONC4,Concentration / Applied Elective IV,3,UPPER,false,24,Major
+d89a2701-c95c-597d-ad3e-2a901eb46fdc,COSC,BSGS,2026-2027,ELEC1,Free Elective I,3,LOWER,false,25,Major
+ea8d97be-440b-52da-91e1-cdf66a434c83,COSC,BSGS,2026-2027,ELEC2,Free Elective II,3,LOWER,false,26,Major
+32b6d519-8ac0-5a11-975c-0646faf7257f,COSC,BSGS,2026-2027,ELEC3,Free Elective III,3,LOWER,false,27,Major
+e318df47-3b22-5394-8d21-5f5520b172e8,COSC,BSGS,2026-2027,ELEC4,Free Elective IV,3,LOWER,false,28,Major
+c61f7da7-ee7b-57f3-abd5-4ff518c497a7,COSC,BSGS,2026-2027,ELEC5,Free Elective V,3,LOWER,false,29,Major
+5d496643-e65e-5808-9618-3988f2982790,COSC,BSGS,2026-2027,ELEC6,Free Elective VI,3,LOWER,false,30,Major
+6b5aea9f-ef5d-5846-b38d-af9b6216389b,COSC,BSGS,2026-2027,CAP,Professional Studies / Liberal Studies Capstone,3,UPPER,true,31,Major
+8e1d7e8d-302e-562f-bc32-5f91b3474a0c,SNHU,BSBA,2026-2027,ENG1,English Composition I,3,LOWER,false,1,General Education
+4a61476f-064d-5e90-8900-d36b4ee6e112,SNHU,BSBA,2026-2027,ENG2,English Composition II,3,LOWER,false,2,General Education
+362f4c5b-25b8-5228-b1fa-3bd2a3b1472a,SNHU,BSBA,2026-2027,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+eeaaa313-33ad-5aab-b36a-2c2a092075ac,SNHU,BSBA,2026-2027,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+7a933bb5-70a1-5a93-8552-152bd6c0296e,SNHU,BSBA,2026-2027,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+da4b2bd9-c9ff-5461-bfde-6865380830ac,SNHU,BSBA,2026-2027,NS2,Natural Science,3,LOWER,false,6,General Education
+9c03e71a-e943-5463-a20c-cb9c54651044,SNHU,BSBA,2026-2027,HUM1,Humanities I,3,LOWER,false,7,General Education
+d51a4e66-4c2f-5985-904d-ba06e8ca4ec6,SNHU,BSBA,2026-2027,HUM2,Humanities II,3,LOWER,false,8,General Education
+d8118b79-74a0-56a9-bee4-fdebfd9969a5,SNHU,BSBA,2026-2027,SS1,Social Science I,3,LOWER,false,9,General Education
+35e71084-c7e0-58b2-a680-286e6f814761,SNHU,BSBA,2026-2027,SS2,Social Science II,3,LOWER,false,10,General Education
+810df877-2b4e-54f2-8189-119ddf87b868,SNHU,BSBA,2026-2027,HIST,History,3,LOWER,false,11,General Education
+6a1df9ff-8906-5f93-ad16-9d772f89bd93,SNHU,BSBA,2026-2027,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+433ba1d6-f73f-5de1-b446-ba7c0d593c39,SNHU,BSBA,2026-2027,ETHICS,Ethics,3,LOWER,false,13,General Education
+7ccd57ef-d4b4-5cc2-adb6-d8751cf4bbe6,SNHU,BSBA,2026-2027,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+835c32df-3e9b-57b2-bc32-768f5e5f1f5b,SNHU,BSBA,2026-2027,BUS101,Introduction to Business,3,LOWER,false,15,Major
+2a548f26-fc92-5af4-a553-311b6356e22a,SNHU,BSBA,2026-2027,ACCT1,Financial Accounting,3,LOWER,false,16,Major
+3be58e94-9681-54dc-98a8-b208b9c59403,SNHU,BSBA,2026-2027,ACCT2,Managerial Accounting,3,LOWER,false,17,Major
+b332ca88-8ee6-5558-84e0-20252d95d406,SNHU,BSBA,2026-2027,MICRO,Microeconomics,3,LOWER,false,18,Major
+753d7a9e-c0c6-524a-98a6-a1cafe4840f7,SNHU,BSBA,2026-2027,MACRO,Macroeconomics,3,LOWER,false,19,Major
+51dc3aa3-096d-54bb-9e48-1ae03ac2a7a0,SNHU,BSBA,2026-2027,MGT,Principles of Management,3,LOWER,false,20,Major
+076f1f01-37f3-5b4a-b123-141ad96b8536,SNHU,BSBA,2026-2027,MKT,Principles of Marketing,3,LOWER,false,21,Major
+9fabd5d9-a206-5ea6-8f91-c3301feca0eb,SNHU,BSBA,2026-2027,BLAW,Business Law,3,LOWER,false,22,Major
+a6cfeb37-037f-52bd-82cb-7e8641ec3c32,SNHU,BSBA,2026-2027,FIN,Principles of Finance,3,UPPER,false,23,Major
+8c049acb-5875-5556-8c92-ff88a9b2ada8,SNHU,BSBA,2026-2027,OB,Organizational Behavior,3,UPPER,false,24,Major
+77b9ec99-bbb4-5d90-8b48-fa85a68651fa,SNHU,BSBA,2026-2027,IS,Management Information Systems,3,LOWER,false,25,Major
+63cdd766-de07-5360-95bf-faeae335367e,SNHU,BSBA,2026-2027,OPS,Operations Management,3,UPPER,false,26,Major
+060032b0-bb50-5eb4-8514-e16d61c0bc35,SNHU,BSBA,2026-2027,HR,Human Resource Management,3,UPPER,false,27,Major
+27854507-a115-5b00-936f-3bdc43e7b145,SNHU,BSBA,2026-2027,STRAT,Strategic Management / Capstone,3,UPPER,true,28,Major
+ec500379-84ea-52ea-97df-fccd68424aff,SNHU,BSBA,2026-2027,BELEC1,Business Elective I,3,UPPER,false,29,Major
+180c2f67-5d05-5258-95a5-067a2a71defc,SNHU,BSBA,2026-2027,BELEC2,Business Elective II,3,UPPER,false,30,Major
+c908a327-181e-5655-9ae7-b46a354baa0c,SNHU,BSBA,2026-2027,ELEC1,Free Elective I,3,LOWER,false,31,Major
+7f935f7c-74d8-5abc-9be5-276bc64433e5,SNHU,BSBA,2026-2027,ELEC2,Free Elective II,3,LOWER,false,32,Major
+faf738b3-fc98-5c6e-91bb-f12c0891b225,SNHU,BSBA,2026-2027,ELEC3,Free Elective III,3,LOWER,false,33,Major
+5a1bc2c3-1fc3-5d7d-90e6-c0e36bcfbf38,SNHU,BSBA,2026-2027,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+a5120ff3-d630-550f-bbd6-911389481436,SNHU,BSCY,2026-2027,ENG1,English Composition I,3,LOWER,false,1,General Education
+eb0487e4-821a-5fdd-9851-acbd814cefc6,SNHU,BSCY,2026-2027,ENG2,English Composition II,3,LOWER,false,2,General Education
+895a75da-891a-52ad-9074-156549d9ca91,SNHU,BSCY,2026-2027,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+505c2c72-f58a-52bd-9973-d8cc12bed3bd,SNHU,BSCY,2026-2027,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+6592636d-1554-53e8-9b8f-342706fe579b,SNHU,BSCY,2026-2027,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+b23bafad-065f-575e-a74c-938001c0b4e3,SNHU,BSCY,2026-2027,NS2,Natural Science,3,LOWER,false,6,General Education
+ff5037e8-6da3-5db1-ac66-f8e474adb3bc,SNHU,BSCY,2026-2027,HUM1,Humanities I,3,LOWER,false,7,General Education
+7cb01a79-e6d3-51e4-92a9-7be53273248a,SNHU,BSCY,2026-2027,HUM2,Humanities II,3,LOWER,false,8,General Education
+f4d2a41f-5b64-5cf0-8f85-7ef66bbebe1d,SNHU,BSCY,2026-2027,SS1,Social Science I,3,LOWER,false,9,General Education
+70898634-9117-5291-b202-d38a82f8c27c,SNHU,BSCY,2026-2027,SS2,Social Science II,3,LOWER,false,10,General Education
+1af905ea-c54a-5d55-9171-d0e1813f1a12,SNHU,BSCY,2026-2027,HIST,History,3,LOWER,false,11,General Education
+d5673b69-e667-5445-81c2-b8423a49f4a3,SNHU,BSCY,2026-2027,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+867a5f37-1fe6-5eb7-8d46-98e72e3003ab,SNHU,BSCY,2026-2027,ETHICS,Ethics,3,LOWER,false,13,General Education
+fa5fb44f-837e-5b0d-beaf-0b4dd362dedb,SNHU,BSCY,2026-2027,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+a2bca508-bae6-5db7-94d2-8a6d612fb509,SNHU,BSCY,2026-2027,IT101,Introduction to IT / Computing,3,LOWER,false,15,Major
+630ff459-209d-5bfc-9063-a6a320427954,SNHU,BSCY,2026-2027,NET,Networking Fundamentals,3,LOWER,false,16,Major
+291f2d46-b44f-5c71-a72f-ac0a4b61bea3,SNHU,BSCY,2026-2027,OS,Operating Systems,3,LOWER,false,17,Major
+0bafd32e-ab13-5b9b-ac34-87e040c4ec70,SNHU,BSCY,2026-2027,SEC1,Introduction to Cybersecurity,3,LOWER,false,18,Major
+d9d0de99-5725-5684-aa25-47df2ec77653,SNHU,BSCY,2026-2027,PROG,Programming Fundamentals,3,LOWER,false,19,Major
+050c5034-c6da-5652-b152-0de2b9065f6b,SNHU,BSCY,2026-2027,DB,Database Fundamentals,3,LOWER,false,20,Major
+48d6e093-fca8-55c7-87c6-e0025eb74d69,SNHU,BSCY,2026-2027,WEB,Web Technologies,3,LOWER,false,21,Major
+6bf28a81-f3fd-52d2-b081-e7aff147027a,SNHU,BSCY,2026-2027,RISK,Cyber Risk Management,3,UPPER,false,22,Major
+167d57a2-0d6e-5afb-97ca-c02ce72e390e,SNHU,BSCY,2026-2027,LAW,Cybersecurity Law and Ethics,3,UPPER,false,23,Major
+8e05fc09-c732-58fc-99eb-b7bc62631d5a,SNHU,BSCY,2026-2027,CRYPT,Applied Cryptography,3,UPPER,false,24,Major
+d6ef8920-6543-5770-b383-97adb7a6b865,SNHU,BSCY,2026-2027,FOR,Digital Forensics,3,UPPER,false,25,Major
+9ab3b33c-2439-5d81-a4d4-031fedaf1221,SNHU,BSCY,2026-2027,NETSEC,Network Security,3,UPPER,false,26,Major
+d82fad72-5d1b-59cd-a531-bf0ac7cd6976,SNHU,BSCY,2026-2027,PTEST,Penetration Testing,3,UPPER,true,27,Major
+654b254c-7454-5cbf-ba21-68c8c7cdaf79,SNHU,BSCY,2026-2027,SEC2,Security Operations,3,UPPER,false,28,Major
+517af711-a6c0-58cb-81f4-6c34e6390cc5,SNHU,BSCY,2026-2027,CAP,Cybersecurity Capstone,3,UPPER,true,29,Major
+93c7d1eb-b1ad-50d2-a08f-244f007c0293,SNHU,BSCY,2026-2027,CELEC1,Cyber Elective I,3,UPPER,false,30,Major
+0f8a2770-ad80-53e3-ad54-2cab06f67dab,SNHU,BSCY,2026-2027,ELEC1,Free Elective I,3,LOWER,false,31,Major
+067b6460-61ea-59f5-884e-7df352337ca6,SNHU,BSCY,2026-2027,ELEC2,Free Elective II,3,LOWER,false,32,Major
+6d2e6e58-9db9-59d8-8ecc-61b9b8537e4d,SNHU,BSCY,2026-2027,ELEC3,Free Elective III,3,LOWER,false,33,Major
+4b481fed-bca2-50a5-b3f6-bc10bf7869f9,SNHU,BSCY,2026-2027,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+1175c21f-adb6-5168-a15a-8cb45c11ed95,SNHU,BAGS,2026-2027,ENG1,English Composition I,3,LOWER,false,1,General Education
+7c71ca24-eed3-5d78-ad2f-6f1e9f40cb06,SNHU,BAGS,2026-2027,ENG2,English Composition II,3,LOWER,false,2,General Education
+6871566e-0c6e-55c7-9d96-2d348b3792f7,SNHU,BAGS,2026-2027,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+05f571e8-f0f5-525c-85fb-d95a37817b6a,SNHU,BAGS,2026-2027,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+3f92638b-6dcb-5b88-b8eb-dc9466f22a0f,SNHU,BAGS,2026-2027,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+dc63dc1e-5cdb-53c5-ac5f-8d80dc9f7d30,SNHU,BAGS,2026-2027,NS2,Natural Science,3,LOWER,false,6,General Education
+1d338b72-30e0-5f04-8bf1-f4f9aab64e79,SNHU,BAGS,2026-2027,HUM1,Humanities I,3,LOWER,false,7,General Education
+d19cc480-30a6-5e41-92db-ba74910117ac,SNHU,BAGS,2026-2027,HUM2,Humanities II,3,LOWER,false,8,General Education
+622565aa-caaa-544c-a1e9-c5282823c96b,SNHU,BAGS,2026-2027,SS1,Social Science I,3,LOWER,false,9,General Education
+3c4608cb-3323-5a5e-a4ac-7aad2fe4b160,SNHU,BAGS,2026-2027,SS2,Social Science II,3,LOWER,false,10,General Education
+2108b15d-4a0f-59de-81a0-f2c766522d1b,SNHU,BAGS,2026-2027,HIST,History,3,LOWER,false,11,General Education
+fe80207c-f2f1-5ca5-9303-7e278fccd372,SNHU,BAGS,2026-2027,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+0cdf5bdb-4f01-5e2c-8494-03fd3e263824,SNHU,BAGS,2026-2027,ETHICS,Ethics,3,LOWER,false,13,General Education
+df5b677a-dac6-503c-915d-eb957186f02c,SNHU,BAGS,2026-2027,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+04c2059c-e50f-5702-912e-8d78a26790a2,SNHU,BAGS,2026-2027,ILP,Degree Design / Information Literacy,3,LOWER,false,15,Major
+7f9c4f21-1009-52b8-ad5e-3283dd3934a0,SNHU,BAGS,2026-2027,LEAD,Leadership / Organizational Behavior,3,UPPER,false,16,Major
+1865010a-83b6-54fe-a336-bfb2a398055b,SNHU,BAGS,2026-2027,PROFCOMM,Professional Communication,3,UPPER,false,17,Major
+adca7677-6291-5eb5-b324-9493b44d6a6c,SNHU,BAGS,2026-2027,DATA,Applied Statistics / Decision Making,3,UPPER,false,18,Major
+9566cf43-7c91-5492-93e8-cef461bd549a,SNHU,BAGS,2026-2027,ETH2,Professional Ethics,3,UPPER,false,19,Major
+62fde8ec-f78b-59c8-886e-fab3a64d16c0,SNHU,BAGS,2026-2027,RES,Applied Inquiry / Research Methods,3,UPPER,false,20,Major
+a1d26a91-a382-53ab-bc62-eec46d2dc2fe,SNHU,BAGS,2026-2027,CONC1,Concentration / Applied Elective I,3,UPPER,false,21,Major
+313a9b23-c31e-5283-b5be-c53c2dbf7e49,SNHU,BAGS,2026-2027,CONC2,Concentration / Applied Elective II,3,UPPER,false,22,Major
+8f94fae8-6d67-505a-8040-fe6683fedb27,SNHU,BAGS,2026-2027,CONC3,Concentration / Applied Elective III,3,UPPER,false,23,Major
+b0be9fcd-6bae-5ab7-9c62-dbcf88fce454,SNHU,BAGS,2026-2027,CONC4,Concentration / Applied Elective IV,3,UPPER,false,24,Major
+c7c04845-4a09-5a60-8e30-ee91fc68288c,SNHU,BAGS,2026-2027,ELEC1,Free Elective I,3,LOWER,false,25,Major
+f73d5e3b-4102-5e66-a705-8520295f46ed,SNHU,BAGS,2026-2027,ELEC2,Free Elective II,3,LOWER,false,26,Major
+5322f315-8ba4-593b-bc5a-50266da44826,SNHU,BAGS,2026-2027,ELEC3,Free Elective III,3,LOWER,false,27,Major
+3d0220d8-cc40-5b3a-a272-8515463f85e0,SNHU,BAGS,2026-2027,ELEC4,Free Elective IV,3,LOWER,false,28,Major
+7572c20f-3aa7-5e2a-ac17-6c7ffc824253,SNHU,BAGS,2026-2027,ELEC5,Free Elective V,3,LOWER,false,29,Major
+d306fcda-9c56-505b-a67b-f0fb803b52c5,SNHU,BAGS,2026-2027,ELEC6,Free Elective VI,3,LOWER,false,30,Major
+2b7cbeee-3911-5218-9235-8a28941f2d8e,SNHU,BAGS,2026-2027,CAP,Professional Studies / Liberal Studies Capstone,3,UPPER,true,31,Major
+05032803-d1b7-5637-ad6e-7ede9972518c,UMASS,BBA,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+2bccefcf-6f98-5de8-ab0b-4db8f35cbb50,UMASS,BBA,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+aaf715d0-39f4-5e25-88e5-b16439893ffc,UMASS,BBA,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+26ff2877-062b-59c2-8aba-7a80ff442828,UMASS,BBA,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+ac2a8fb1-4b8e-51fa-9d65-8dd731a1b4d4,UMASS,BBA,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+48396b1e-5120-50d6-b01f-e14481797225,UMASS,BBA,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+a80382a7-6d69-559a-b9b4-1a22d11d8e35,UMASS,BBA,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+ebc6748b-337f-5538-bd25-2c23ba9630e6,UMASS,BBA,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+c19d59c7-8c87-5776-a3b9-564ec157b75d,UMASS,BBA,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+4a855ea6-07f3-50f7-a39c-7394be51b45d,UMASS,BBA,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+f4038b7b-c0c3-59e8-a154-e33af88a6643,UMASS,BBA,2025-2026,HIST,History,3,LOWER,false,11,General Education
+25ec0d9b-15db-50ba-ab2d-1ae976a9a6fa,UMASS,BBA,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+e9db6f38-1307-5bd3-9942-6d55b12c7616,UMASS,BBA,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+832d6f4f-9015-5a76-a06b-ecfea699ab79,UMASS,BBA,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+89d0e60d-9264-5f94-b648-fe7f055da15f,UMASS,BBA,2025-2026,BUS101,Introduction to Business,3,LOWER,false,15,Major
+dd895fcf-dee3-530f-8473-2d03195b9513,UMASS,BBA,2025-2026,ACCT1,Financial Accounting,3,LOWER,false,16,Major
+13b496c4-4ff3-5074-9978-4f16eb7f3868,UMASS,BBA,2025-2026,ACCT2,Managerial Accounting,3,LOWER,false,17,Major
+22c6f96e-12c8-51c6-84cf-83972b0d4cd1,UMASS,BBA,2025-2026,MICRO,Microeconomics,3,LOWER,false,18,Major
+65e92c4e-ec83-58b1-887b-2557986b0a08,UMASS,BBA,2025-2026,MACRO,Macroeconomics,3,LOWER,false,19,Major
+6bc76c43-546c-5f41-ad46-a13333ae69ef,UMASS,BBA,2025-2026,MGT,Principles of Management,3,LOWER,false,20,Major
+473faf23-18d4-5138-ac45-3678b1cc5b00,UMASS,BBA,2025-2026,MKT,Principles of Marketing,3,LOWER,false,21,Major
+3a22370e-7496-5907-8b1a-12b7f9fe6eca,UMASS,BBA,2025-2026,BLAW,Business Law,3,LOWER,false,22,Major
+c8059ec6-163b-5121-851b-4cafd5a44850,UMASS,BBA,2025-2026,FIN,Principles of Finance,3,UPPER,false,23,Major
+acea2e0b-49b0-5d15-91f2-88024ba3261a,UMASS,BBA,2025-2026,OB,Organizational Behavior,3,UPPER,false,24,Major
+6aae350b-c394-59a4-9eca-6b7a33dd48aa,UMASS,BBA,2025-2026,IS,Management Information Systems,3,LOWER,false,25,Major
+3f61a766-09c6-5344-8296-91389223495d,UMASS,BBA,2025-2026,OPS,Operations Management,3,UPPER,false,26,Major
+5a9e50a6-d965-55e8-ba98-2064bfcb1ec8,UMASS,BBA,2025-2026,HR,Human Resource Management,3,UPPER,false,27,Major
+708d4cf7-bb84-5021-a695-611f3c8de726,UMASS,BBA,2025-2026,STRAT,Strategic Management / Capstone,3,UPPER,true,28,Major
+0bf26e76-c3fc-5e11-8875-dead0a06175b,UMASS,BBA,2025-2026,BELEC1,Business Elective I,3,UPPER,false,29,Major
+23ba66b8-a507-5d3a-8a01-63ef2df0c8e9,UMASS,BBA,2025-2026,BELEC2,Business Elective II,3,UPPER,false,30,Major
+f47dc87e-8fe0-581a-b8b4-fb0e619d363d,UMASS,BBA,2025-2026,ELEC1,Free Elective I,3,LOWER,false,31,Major
+8ea6b185-5ac2-577a-b497-1b8848e34ab7,UMASS,BBA,2025-2026,ELEC2,Free Elective II,3,LOWER,false,32,Major
+782ee823-a2e4-5686-b06a-3f0ebbd782e0,UMASS,BBA,2025-2026,ELEC3,Free Elective III,3,LOWER,false,33,Major
+f815da10-582e-56f5-907b-714755bed10c,UMASS,BBA,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+46c9ef9d-2fb9-5bd8-b777-9b3dff4769c9,UMASS,BSIT,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+6ad65997-0970-55c3-8702-c865139f2f52,UMASS,BSIT,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+14b2f969-51a0-5dff-8382-bef858963931,UMASS,BSIT,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+bee97106-f99c-5712-822e-2ecb354fd469,UMASS,BSIT,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+eb06af6a-03a2-57cf-bb52-6bf6fbe172a1,UMASS,BSIT,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+8478391a-96be-570f-80af-d4fd1967eaa9,UMASS,BSIT,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+d166cff3-fad6-5033-a26d-9ec39b6b5c99,UMASS,BSIT,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+eb1daf98-d025-5a51-a090-22ae9e324b6e,UMASS,BSIT,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+2af53d40-a0ac-5471-9f49-54eede89f2c6,UMASS,BSIT,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+f1c47580-2dd6-5395-ae83-344a35d651c8,UMASS,BSIT,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+ce2b7f01-ee3c-5704-9f5a-4bc219ba8dad,UMASS,BSIT,2025-2026,HIST,History,3,LOWER,false,11,General Education
+fc05c472-b990-5d5a-9da0-a6ecd50a66ba,UMASS,BSIT,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+1c4e6a2f-cb02-5f17-8c52-070d2126feac,UMASS,BSIT,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+074afe1d-53c0-55ce-9bdb-b70fe9083d62,UMASS,BSIT,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+0c3ded27-b077-5c7d-a173-bb4f347faaca,UMASS,BSIT,2025-2026,IT101,Introduction to IT / Computing,3,LOWER,false,15,Major
+dbffb0b8-fb4a-5c9e-8ddf-a863f4b3d208,UMASS,BSIT,2025-2026,NET,Networking Fundamentals,3,LOWER,false,16,Major
+f75dbdf3-4006-5ca7-8fd8-1c4c7b3a1547,UMASS,BSIT,2025-2026,OS,Operating Systems,3,LOWER,false,17,Major
+d5a22447-a074-5ccd-afd4-85ba2cc1003d,UMASS,BSIT,2025-2026,SEC1,Introduction to Cybersecurity,3,LOWER,false,18,Major
+53047c3b-fe43-55d3-a687-2dac1d78a09f,UMASS,BSIT,2025-2026,PROG,Programming Fundamentals,3,LOWER,false,19,Major
+c052410d-3963-5d0f-b2cd-fdaaa007ffdd,UMASS,BSIT,2025-2026,DB,Database Fundamentals,3,LOWER,false,20,Major
+d7164375-b68f-5b09-8bad-35988e58f387,UMASS,BSIT,2025-2026,WEB,Web Technologies,3,LOWER,false,21,Major
+d3439395-1807-5262-a495-e2a823d4dca9,UMASS,BSIT,2025-2026,RISK,Cyber Risk Management,3,UPPER,false,22,Major
+a80802bb-b6d2-56e7-aa36-8ce7037fe3a5,UMASS,BSIT,2025-2026,LAW,Cybersecurity Law and Ethics,3,UPPER,false,23,Major
+8ad741a2-109c-5ffa-95d8-c148cfafb4a5,UMASS,BSIT,2025-2026,CRYPT,Applied Cryptography,3,UPPER,false,24,Major
+155f4175-64b0-509a-9854-cdcd43138002,UMASS,BSIT,2025-2026,FOR,Digital Forensics,3,UPPER,false,25,Major
+d197113f-a04c-545f-84a8-864abe1cf556,UMASS,BSIT,2025-2026,NETSEC,Network Security,3,UPPER,false,26,Major
+530b556f-5627-5d4b-96d6-247683134afa,UMASS,BSIT,2025-2026,PTEST,Penetration Testing,3,UPPER,true,27,Major
+00796320-5fda-5817-bcda-54d2030db6d1,UMASS,BSIT,2025-2026,SEC2,Security Operations,3,UPPER,false,28,Major
+f491abfe-f524-54d8-806f-c8dee8bf2ddb,UMASS,BSIT,2025-2026,CAP,Cybersecurity Capstone,3,UPPER,true,29,Major
+cc8ef56b-fb66-5500-a8f7-6ffb8cb2d351,UMASS,BSIT,2025-2026,CELEC1,Cyber Elective I,3,UPPER,false,30,Major
+0f2d2ea1-3e98-5852-a1ec-059f78e67c86,UMASS,BSIT,2025-2026,ELEC1,Free Elective I,3,LOWER,false,31,Major
+491cbe57-2397-5358-a50d-f88b16050fe0,UMASS,BSIT,2025-2026,ELEC2,Free Elective II,3,LOWER,false,32,Major
+21b16519-a903-58fb-bf6f-29539a051be3,UMASS,BSIT,2025-2026,ELEC3,Free Elective III,3,LOWER,false,33,Major
+43dafc56-a17d-56b2-9746-05ab82d67b02,UMASS,BSIT,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+2176d2ed-3393-5e8c-8839-d91b2a153a4c,UMASS,BAAS,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+8f47199e-a1ff-5375-b4d1-35d52c697ddb,UMASS,BAAS,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+795e340b-13dd-597a-b1db-807cd0fc9230,UMASS,BAAS,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+73b88332-a56b-5c0c-b552-2c925e77bc4d,UMASS,BAAS,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+67e3e025-f04d-5db4-94b0-c3d2197ba7e7,UMASS,BAAS,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+28cab031-fe4e-56b5-8298-6b6efd94e979,UMASS,BAAS,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+db644d4d-ba45-59b0-bd9a-8f3dc98ce62f,UMASS,BAAS,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+81c6d236-85af-56f9-9651-612d36d6104b,UMASS,BAAS,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+3832a78e-0231-5f7d-9f0d-3102da7fe216,UMASS,BAAS,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+929a5314-331a-5c78-bd7f-2b098709a848,UMASS,BAAS,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+ce11cd54-bfc4-5f1e-933e-5c130dfb13bd,UMASS,BAAS,2025-2026,HIST,History,3,LOWER,false,11,General Education
+ad097f97-c287-5ec9-9db8-f2d7f0554d74,UMASS,BAAS,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+ed6269fe-e903-5788-9ed4-778d1224ad7f,UMASS,BAAS,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+768a8b2d-e0bc-5301-a045-d04f0ff05840,UMASS,BAAS,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+accbccc6-e06b-5301-8887-579e021d67b5,UMASS,BAAS,2025-2026,ILP,Degree Design / Information Literacy,3,LOWER,false,15,Major
+3b9b605c-2365-5dd3-9c32-2255df7e8992,UMASS,BAAS,2025-2026,LEAD,Leadership / Organizational Behavior,3,UPPER,false,16,Major
+dd176b94-1179-5b23-a8bd-04cad5d53cf5,UMASS,BAAS,2025-2026,PROFCOMM,Professional Communication,3,UPPER,false,17,Major
+ec0bb2c1-a5ea-5022-a8f9-b336736ec83d,UMASS,BAAS,2025-2026,DATA,Applied Statistics / Decision Making,3,UPPER,false,18,Major
+e6242f28-2abc-5273-9bc5-bd39d55c5fbf,UMASS,BAAS,2025-2026,ETH2,Professional Ethics,3,UPPER,false,19,Major
+7fabe1dc-7cc8-5465-94c5-d2c5822354a1,UMASS,BAAS,2025-2026,RES,Applied Inquiry / Research Methods,3,UPPER,false,20,Major
+7fb6b003-c399-5434-806d-df9e863fd65d,UMASS,BAAS,2025-2026,CONC1,Concentration / Applied Elective I,3,UPPER,false,21,Major
+a9ba2490-ad45-5dcc-b7ae-50eb7f3871fd,UMASS,BAAS,2025-2026,CONC2,Concentration / Applied Elective II,3,UPPER,false,22,Major
+e701df03-d9a2-57a5-83ad-2b831caf0400,UMASS,BAAS,2025-2026,CONC3,Concentration / Applied Elective III,3,UPPER,false,23,Major
+79e7edbd-0453-525f-92df-8fa849e06fd9,UMASS,BAAS,2025-2026,CONC4,Concentration / Applied Elective IV,3,UPPER,false,24,Major
+22e0ec56-c17c-5a09-bbcb-e5d3d5022328,UMASS,BAAS,2025-2026,ELEC1,Free Elective I,3,LOWER,false,25,Major
+5af45027-e098-5b1b-95e4-f45fb8c489bf,UMASS,BAAS,2025-2026,ELEC2,Free Elective II,3,LOWER,false,26,Major
+1860d8df-0169-57a8-b8d0-21975a08de4e,UMASS,BAAS,2025-2026,ELEC3,Free Elective III,3,LOWER,false,27,Major
+ce04f035-bdc9-57bf-a1ac-568f820aed8f,UMASS,BAAS,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,28,Major
+5704f97d-ab72-572c-b195-8c9d4ad05e61,UMASS,BAAS,2025-2026,ELEC5,Free Elective V,3,LOWER,false,29,Major
+cf4b2c8a-f1e7-5380-a7ce-61f31118558e,UMASS,BAAS,2025-2026,ELEC6,Free Elective VI,3,LOWER,false,30,Major
+c645b9a3-52ca-5ecc-96c5-d97501f052d8,UMASS,BAAS,2025-2026,CAP,Professional Studies / Liberal Studies Capstone,3,UPPER,true,31,Major
+f4452f96-3c8d-56a3-b6e8-6361c613bc3c,PG,BSBA,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+7a0d3a38-4005-5b18-9d92-003322789bea,PG,BSBA,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+90bc92b7-223b-5712-8d2f-f34defaa9b6f,PG,BSBA,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+ef5aeed2-ee0f-5fe4-b333-5bd2291d533f,PG,BSBA,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+68fa7646-62cc-54b9-a338-93c959e7cb7a,PG,BSBA,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+ee5e3680-9355-5f7c-a3bc-f0d3e353367d,PG,BSBA,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+6e89ef77-ff82-5b2e-8758-b9ffea7f2991,PG,BSBA,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+c4e8410d-6cb9-5c75-bfd7-2f45d8536654,PG,BSBA,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+69ae0ff1-4f14-5349-be56-24ffdc97a68d,PG,BSBA,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+ca193136-17b8-520f-805d-d6c28d444761,PG,BSBA,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+f5a4751e-a4f5-5b89-8f89-20c9c168f57e,PG,BSBA,2025-2026,HIST,History,3,LOWER,false,11,General Education
+b84f1da4-1ffe-5d1f-b4a8-b702bfc8e9ac,PG,BSBA,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+9e28161e-8056-52a0-8b6d-3850cf53978c,PG,BSBA,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+e3214179-f3c8-57aa-823b-5b94cd49e469,PG,BSBA,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+15381199-0d79-50ea-adb3-674851d51add,PG,BSBA,2025-2026,BUS101,Introduction to Business,3,LOWER,false,15,Major
+663eeb98-21f6-5ad6-bca6-98bcc40106f5,PG,BSBA,2025-2026,ACCT1,Financial Accounting,3,LOWER,false,16,Major
+80afb7af-b1c3-5074-b9f3-c7591106b81f,PG,BSBA,2025-2026,ACCT2,Managerial Accounting,3,LOWER,false,17,Major
+87450e1e-4174-52bb-9340-71858c989501,PG,BSBA,2025-2026,MICRO,Microeconomics,3,LOWER,false,18,Major
+aac80ffe-2159-5f93-b252-84a95887ec84,PG,BSBA,2025-2026,MACRO,Macroeconomics,3,LOWER,false,19,Major
+230eae6b-f028-51a7-9cf1-a5805c5ee6a3,PG,BSBA,2025-2026,MGT,Principles of Management,3,LOWER,false,20,Major
+5f3d074a-4c8c-50b9-9660-dbdb0d6b084c,PG,BSBA,2025-2026,MKT,Principles of Marketing,3,LOWER,false,21,Major
+734d2711-2a58-5e16-80f6-c097aff00268,PG,BSBA,2025-2026,BLAW,Business Law,3,LOWER,false,22,Major
+459ad371-aef7-57ed-b966-b577218f8cbe,PG,BSBA,2025-2026,FIN,Principles of Finance,3,UPPER,false,23,Major
+d4dcc0b2-288b-57e0-8a95-98d1a6505599,PG,BSBA,2025-2026,OB,Organizational Behavior,3,UPPER,false,24,Major
+1e7e4ae1-cdb5-5043-8cc6-783b99167cea,PG,BSBA,2025-2026,IS,Management Information Systems,3,LOWER,false,25,Major
+c927ec77-d646-5681-964f-588be14de506,PG,BSBA,2025-2026,OPS,Operations Management,3,UPPER,false,26,Major
+b680bf4b-17a7-5cd7-aa68-ef29994c6cd2,PG,BSBA,2025-2026,HR,Human Resource Management,3,UPPER,false,27,Major
+89694c9b-2eb5-5bcd-9439-9f5922e126ef,PG,BSBA,2025-2026,STRAT,Strategic Management / Capstone,3,UPPER,true,28,Major
+74b263aa-7f4c-57b0-98ee-6591eeec2552,PG,BSBA,2025-2026,BELEC1,Business Elective I,3,UPPER,false,29,Major
+a75b3de1-e2bd-5ad4-ab15-0647cb456467,PG,BSBA,2025-2026,BELEC2,Business Elective II,3,UPPER,false,30,Major
+5e797fa0-6173-5b08-afda-bce948b16593,PG,BSBA,2025-2026,ELEC1,Free Elective I,3,LOWER,false,31,Major
+b8ca5949-3fe1-5559-95de-b7547ae2bc47,PG,BSBA,2025-2026,ELEC2,Free Elective II,3,LOWER,false,32,Major
+d31f78a9-75f3-5618-abee-ba364eb81813,PG,BSBA,2025-2026,ELEC3,Free Elective III,3,LOWER,false,33,Major
+b7df5d2e-1ad5-573d-a133-f425428ef3ef,PG,BSBA,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+a9ec8113-da0f-5faf-a8f5-854fce758183,PG,BSCY,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+9393a589-cdb6-5317-a901-b779e0aefbda,PG,BSCY,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+a1600bac-53b4-50bc-a0b9-93461eeafa7b,PG,BSCY,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+8ba65b66-b9f6-5715-97ce-60c9333f2048,PG,BSCY,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+24a1eae7-7ff4-5f41-9b0d-656b688a0642,PG,BSCY,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+685c5d20-f913-5692-a826-a578f63afbf0,PG,BSCY,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+fa77ff51-31e1-5787-b09e-38af74735343,PG,BSCY,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+430b115d-178c-5057-ad94-3dd7e0a10688,PG,BSCY,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+6d1fcf83-a06e-5108-ab41-97ef27eefdae,PG,BSCY,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+8571b305-f398-5946-b4e9-7e6e267ec412,PG,BSCY,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+cece144b-d85d-5ccd-9168-c5c3545f454d,PG,BSCY,2025-2026,HIST,History,3,LOWER,false,11,General Education
+39e71a89-c876-5bf5-8116-315ca5d75ec9,PG,BSCY,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+8e77ef2d-e4bf-5369-a7e2-4fc975819873,PG,BSCY,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+70438751-fdea-5b8c-be47-0a201209c609,PG,BSCY,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+f4846bf2-9264-57b7-98c7-e2667ef7ea41,PG,BSCY,2025-2026,IT101,Introduction to IT / Computing,3,LOWER,false,15,Major
+73cfa220-78da-5f48-8174-05599ee81cfb,PG,BSCY,2025-2026,NET,Networking Fundamentals,3,LOWER,false,16,Major
+30ecbb29-dfdc-55fe-875f-321a6f0957c0,PG,BSCY,2025-2026,OS,Operating Systems,3,LOWER,false,17,Major
+f69d54e5-e472-5787-baa1-51a788ef1a85,PG,BSCY,2025-2026,SEC1,Introduction to Cybersecurity,3,LOWER,false,18,Major
+2811c818-fbb3-5695-8e30-a7a6c822f2cb,PG,BSCY,2025-2026,PROG,Programming Fundamentals,3,LOWER,false,19,Major
+0ff8c79e-92d0-575a-83c5-b20a70cc698b,PG,BSCY,2025-2026,DB,Database Fundamentals,3,LOWER,false,20,Major
+5cfe8111-e4a8-5e64-814a-1618b37eddfb,PG,BSCY,2025-2026,WEB,Web Technologies,3,LOWER,false,21,Major
+ba2c7569-56ca-54cf-a6e9-4552bab36f24,PG,BSCY,2025-2026,RISK,Cyber Risk Management,3,UPPER,false,22,Major
+ef9cd870-1818-5787-b44c-7f6a1f6bf1d2,PG,BSCY,2025-2026,LAW,Cybersecurity Law and Ethics,3,UPPER,false,23,Major
+4c8fbace-ca25-5b0b-8d17-cb7b08473b0b,PG,BSCY,2025-2026,CRYPT,Applied Cryptography,3,UPPER,false,24,Major
+8f256650-c92c-5cbb-98b8-442dbbfa7d1b,PG,BSCY,2025-2026,FOR,Digital Forensics,3,UPPER,false,25,Major
+d9792bb2-ca3d-5dcb-bbb8-a71ac81ac0bb,PG,BSCY,2025-2026,NETSEC,Network Security,3,UPPER,false,26,Major
+d2805908-4088-5748-a980-52428b56194c,PG,BSCY,2025-2026,PTEST,Penetration Testing,3,UPPER,true,27,Major
+92b3a674-865f-53f5-acca-3c096d384f31,PG,BSCY,2025-2026,SEC2,Security Operations,3,UPPER,false,28,Major
+c7fb3857-706b-562f-a7c0-882bfcee87b8,PG,BSCY,2025-2026,CAP,Cybersecurity Capstone,3,UPPER,true,29,Major
+3d3a5fbe-aecc-5e33-943e-836268a4f22f,PG,BSCY,2025-2026,CELEC1,Cyber Elective I,3,UPPER,false,30,Major
+530cb099-1224-54f7-a6bb-964c6a7104c2,PG,BSCY,2025-2026,ELEC1,Free Elective I,3,LOWER,false,31,Major
+98bbcb75-ff99-5f06-aa33-d409bb622126,PG,BSCY,2025-2026,ELEC2,Free Elective II,3,LOWER,false,32,Major
+c4b6b8f9-5630-555b-8ffd-3596c44b04a3,PG,BSCY,2025-2026,ELEC3,Free Elective III,3,LOWER,false,33,Major
+81902ba5-7968-55de-9962-a328ec5088e7,PG,BSCY,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+57d3699e-351e-53f1-8920-5398365dd804,PG,BSPS,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+fdabfc93-7779-5251-9df1-44d052854282,PG,BSPS,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+5bf6119b-b3c1-5ba0-836e-99a5db141fcf,PG,BSPS,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+b401196b-b050-5ccb-8b1c-3c3652b09aed,PG,BSPS,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+a2705c7d-081d-5bb0-b899-2a321def9e2b,PG,BSPS,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+52795478-01ee-5996-bdb9-f6e2a6f5000c,PG,BSPS,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+8d33fb5f-d611-5dcc-90fe-7db6b536c6a2,PG,BSPS,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+f961e8c1-3070-5779-90d7-ea9a69e052bf,PG,BSPS,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+caba6e3b-c1b8-50ee-9d6d-a9cdcae4a918,PG,BSPS,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+426e04c7-3d3b-5b43-84b7-04ddd8995b40,PG,BSPS,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+0c27d5e8-4682-5a52-aea1-09fdddb323d2,PG,BSPS,2025-2026,HIST,History,3,LOWER,false,11,General Education
+afa14af2-2170-5659-8f33-5dda1c7a45cd,PG,BSPS,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+c2048f12-950d-5545-a2d8-13dd87f82456,PG,BSPS,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+3c73bd62-8742-5287-bd57-a66e5f989fa0,PG,BSPS,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+4019e39f-022f-5263-8c52-63a1ea078105,PG,BSPS,2025-2026,ILP,Degree Design / Information Literacy,3,LOWER,false,15,Major
+103aa5c7-3f57-5878-befb-e36e71ca5a12,PG,BSPS,2025-2026,LEAD,Leadership / Organizational Behavior,3,UPPER,false,16,Major
+0055029b-04e6-549b-b0ae-13ec4181fdd5,PG,BSPS,2025-2026,PROFCOMM,Professional Communication,3,UPPER,false,17,Major
+9d5ed9a9-6257-5bd2-98a2-2a22521ede5b,PG,BSPS,2025-2026,DATA,Applied Statistics / Decision Making,3,UPPER,false,18,Major
+1fa58ba4-d0bb-5831-956d-f3f389d98e2f,PG,BSPS,2025-2026,ETH2,Professional Ethics,3,UPPER,false,19,Major
+c3fe19ba-3150-5235-beaa-94e0f18e420a,PG,BSPS,2025-2026,RES,Applied Inquiry / Research Methods,3,UPPER,false,20,Major
+1737acb0-2810-54d8-afda-33a5f27df1a4,PG,BSPS,2025-2026,CONC1,Concentration / Applied Elective I,3,UPPER,false,21,Major
+fad811bd-ea34-5dac-b9ec-338203bc6e7e,PG,BSPS,2025-2026,CONC2,Concentration / Applied Elective II,3,UPPER,false,22,Major
+42564da6-4c2d-5517-a20f-b987352487d7,PG,BSPS,2025-2026,CONC3,Concentration / Applied Elective III,3,UPPER,false,23,Major
+fbc3d185-1a20-5cd3-8f88-ae9f8186d8d1,PG,BSPS,2025-2026,CONC4,Concentration / Applied Elective IV,3,UPPER,false,24,Major
+95110e5b-5175-5602-b4f4-2158fc9978d7,PG,BSPS,2025-2026,ELEC1,Free Elective I,3,LOWER,false,25,Major
+f42db2bd-efd7-531b-b4da-708f4067cdb1,PG,BSPS,2025-2026,ELEC2,Free Elective II,3,LOWER,false,26,Major
+5b123beb-6e78-5df6-bacd-cdcccdc7ce0b,PG,BSPS,2025-2026,ELEC3,Free Elective III,3,LOWER,false,27,Major
+8fab0c92-12ee-5f4e-a940-30a43203decb,PG,BSPS,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,28,Major
+12b1faab-13c7-574f-8d0c-e6bc1687bfae,PG,BSPS,2025-2026,ELEC5,Free Elective V,3,LOWER,false,29,Major
+57f583b6-9f31-506a-8a7e-bdc41a839d70,PG,BSPS,2025-2026,ELEC6,Free Elective VI,3,LOWER,false,30,Major
+91faa2eb-2b72-51ea-a624-e303e2313585,PG,BSPS,2025-2026,CAP,Professional Studies / Liberal Studies Capstone,3,UPPER,true,31,Major
+29366e35-edae-5082-83ca-3f5332b3c6a6,UMPI,BAPSY,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+dd8f37bc-7891-5022-bb79-2d9110768b11,UMPI,BAPSY,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+fffa0fc2-dcdf-59c9-8363-ffc9616f3b9d,UMPI,BAPSY,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+a8529b67-01c2-501a-a65f-8b3549cf5e8e,UMPI,BAPSY,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+19881906-be89-5c8e-a1ca-32aff588df9d,UMPI,BAPSY,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+c76efa25-8a97-5174-bef1-cfdd8fbebe6a,UMPI,BAPSY,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+7570cb0c-cbe2-5e48-b41c-4ae35b5daa7d,UMPI,BAPSY,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+1b994c6c-9350-5d16-9727-b7f395e7c52b,UMPI,BAPSY,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+8b3275c4-e744-5f05-bf04-78bf1527a8f3,UMPI,BAPSY,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+78093128-1f9d-5576-b324-371f90fc792b,UMPI,BAPSY,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+c4ff1567-5bc6-552d-9db9-52059d052a87,UMPI,BAPSY,2025-2026,HIST,History,3,LOWER,false,11,General Education
+1d2afcfd-9a67-522a-9dca-3b11d893c932,UMPI,BAPSY,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+9ec25096-299e-502b-8e15-7aef0a05782e,UMPI,BAPSY,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+a207be8d-06b7-59b7-bfce-a1952ca22741,UMPI,BAPSY,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+4b5700be-4ef8-58a2-afb5-443cd9dbb246,UMPI,BAPSY,2025-2026,PSY1,Introduction to Psychology,3,LOWER,false,15,Major
+4f163931-1ccd-5bc2-b841-a4edd7f3365a,UMPI,BAPSY,2025-2026,DEV,Lifespan / Developmental Psychology,3,LOWER,false,16,Major
+e96855d2-de57-545b-a9d2-ec8c3a6604ae,UMPI,BAPSY,2025-2026,BIOPSY,Biological / Physiological Psychology,3,UPPER,false,17,Major
+fe61c3dd-5021-5c55-8bc7-e06fe768a91a,UMPI,BAPSY,2025-2026,SOCPSY,Social Psychology,3,UPPER,false,18,Major
+cf402fa7-76d6-57b5-8fbb-571c2d172f01,UMPI,BAPSY,2025-2026,ABPSY,Abnormal Psychology,3,UPPER,false,19,Major
+d0e844fd-7b55-5a77-9474-5455c6d3820b,UMPI,BAPSY,2025-2026,PERS,Personality Psychology,3,UPPER,false,20,Major
+2f90d43c-a294-5865-9b1c-ffe6411a375d,UMPI,BAPSY,2025-2026,COG,Cognitive Psychology,3,UPPER,false,21,Major
+edf92fd1-b059-5c8d-bd1a-735a03ecd5ed,UMPI,BAPSY,2025-2026,STATS,Psychological Statistics,3,LOWER,false,22,Major
+f85459fa-6b78-5fdd-a82f-fd0db26e1aca,UMPI,BAPSY,2025-2026,RESM,Research Methods in Psychology,3,UPPER,false,23,Major
+8f4b2481-8d58-5793-937b-96979537018c,UMPI,BAPSY,2025-2026,LEARN,Learning / Behavioral Psychology,3,UPPER,false,24,Major
+29eaa5ca-f0e9-5f9a-935c-f638131043f5,UMPI,BAPSY,2025-2026,HISTPSY,History and Systems of Psychology,3,UPPER,false,25,Major
+51b88db6-85f7-5f75-8786-924369b20777,UMPI,BAPSY,2025-2026,ETHPSY,Ethics in Psychology / Social Science,3,UPPER,false,26,Major
+69b58447-d9cb-57cd-be61-f6a219d16cf1,UMPI,BAPSY,2025-2026,PELEC1,Psychology Elective I,3,UPPER,false,27,Major
+5dda7329-b5cf-5afe-8e55-a940d6f3da7d,UMPI,BAPSY,2025-2026,PELEC2,Psychology Elective II,3,UPPER,false,28,Major
+bd5371cd-fc3d-575e-932f-cc21a102268e,UMPI,BAPSY,2025-2026,CAP,Psychology Capstone,3,UPPER,true,29,Major
+b9d9039a-290e-5a1c-a0fe-d523a898faa2,UMPI,BAPSY,2025-2026,ELEC1,Free Elective I,3,LOWER,false,30,Major
+ac95003a-569b-53a6-af4f-86eabdbeed6b,UMPI,BAPSY,2025-2026,ELEC2,Free Elective II,3,LOWER,false,31,Major
+824883a0-2290-54af-8d44-061362b74d9e,UMPI,BAPSY,2025-2026,ELEC3,Free Elective III,3,LOWER,false,32,Major
+0bb405ad-b240-5ffb-a6b2-b23706492ccb,UMPI,BAPSY,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+9f7ba8be-385a-56de-b554-0b53105faa19,UMPI,BSHA,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+b1cfca30-93ef-5e05-bd43-edc69cfac5df,UMPI,BSHA,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+1df21b93-243d-5da7-8618-6d98acdbab36,UMPI,BSHA,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+6c57d14b-1cd7-5457-8424-10ccdd58ba35,UMPI,BSHA,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+d6a63b84-6b16-58db-8ad9-96e0e1b8a836,UMPI,BSHA,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+32ce722a-ad20-50c4-af10-619b3352ab58,UMPI,BSHA,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+1277f0ef-f223-5cad-b56d-9af7cadef9b2,UMPI,BSHA,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+c44d8164-69f6-51da-aa09-d986d84737f6,UMPI,BSHA,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+6a3a3bc5-6e5d-581d-b297-a667d4036712,UMPI,BSHA,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+60e7e4fd-2aac-56dc-8c50-821c12ab78df,UMPI,BSHA,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+4f0e285b-fe61-59b2-8990-80804c8f0694,UMPI,BSHA,2025-2026,HIST,History,3,LOWER,false,11,General Education
+4df6059e-6008-5cef-ad56-fc6a8f5025cd,UMPI,BSHA,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+594add18-f7a0-51d8-b7f7-e5460ca44b64,UMPI,BSHA,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+67c9041f-b474-5a8b-806e-682af13a7be9,UMPI,BSHA,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+72f0188f-ccb5-5121-b01b-66ba0bfd8d78,UMPI,BSHA,2025-2026,HCA1,Introduction to Healthcare / Health Systems,3,LOWER,false,15,Major
+7f9e7782-edef-5370-81e3-b38875c09876,UMPI,BSHA,2025-2026,HCAORG,Healthcare Organizations and Delivery,3,LOWER,false,16,Major
+14875e56-e544-5937-9f2b-726b93704400,UMPI,BSHA,2025-2026,HCAMGT,Healthcare Management / Administration,3,UPPER,false,17,Major
+e7316f15-8ef1-50eb-8940-5b52e338d42b,UMPI,BSHA,2025-2026,HCALAW,"Healthcare Law, Policy, and Compliance",3,UPPER,false,18,Major
+c3504160-9408-5092-beae-abbe3a4109ea,UMPI,BSHA,2025-2026,HCAETH,Healthcare Ethics,3,UPPER,false,19,Major
+e10b4998-51e4-5b14-9c13-85e51bd641e8,UMPI,BSHA,2025-2026,HCAFIN,Healthcare Finance / Reimbursement,3,UPPER,false,20,Major
+37c81a7d-66c0-5caf-9e4d-0c97bbbf10c6,UMPI,BSHA,2025-2026,HCAQI,Quality Improvement / Patient Safety,3,UPPER,false,21,Major
+438ce341-ca64-5cb7-80f9-242d85961435,UMPI,BSHA,2025-2026,HCAHR,Human Resources in Healthcare,3,UPPER,false,22,Major
+b0ad6919-5054-5d98-abae-6ddc2290f854,UMPI,BSHA,2025-2026,HCAINFO,Health Information Systems,3,LOWER,false,23,Major
+4eced0c5-e7ab-5b87-afea-e18be3b95767,UMPI,BSHA,2025-2026,HCAST,Healthcare Statistics / Epidemiology,3,UPPER,false,24,Major
+503b088a-8893-5b36-91c7-36b854959b33,UMPI,BSHA,2025-2026,MEDTERM,Medical Terminology,3,LOWER,false,25,Major
+d3f0b0bb-8092-5ecd-974e-64dc443aeeaf,UMPI,BSHA,2025-2026,AANDP,Anatomy and Physiology,4,LOWER,false,26,Major
+42910859-0f8e-5779-aa35-58a32d84d2c3,UMPI,BSHA,2025-2026,HELEC1,Healthcare Elective I,3,UPPER,false,27,Major
+8cf2ba42-e50e-5746-b490-94e9939d622d,UMPI,BSHA,2025-2026,HELEC2,Healthcare Elective II,3,UPPER,false,28,Major
+952a332b-0a33-520a-b9c9-605e2cde7aa1,UMPI,BSHA,2025-2026,CAP,Healthcare Administration Capstone,3,UPPER,true,29,Major
+a14bd7e9-9673-5f70-8ca1-c6eb9ab73308,UMPI,BSHA,2025-2026,ELEC1,Free Elective I,3,LOWER,false,30,Major
+6cfce5ea-f175-50dd-9387-38ddf3e0a2cf,UMPI,BSHA,2025-2026,ELEC2,Free Elective II,3,LOWER,false,31,Major
+d052108c-bfe0-5956-a4bd-cb8fd030de6a,UMPI,BSHA,2025-2026,ELEC3,Free Elective III,3,LOWER,false,32,Major
+c9e2f1a6-e677-579a-8034-12bd5e18aaa8,UMPI,BSHA,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+2bc9a65a-9b3c-5637-814f-a64b261e0852,UMPI,BACJ,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+89651270-cb8c-59c3-a05c-8efd59f80336,UMPI,BACJ,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+38107954-be82-52e9-9b98-dac0492d8f0a,UMPI,BACJ,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+9e657643-9f06-5622-ab84-b880ac3fae1d,UMPI,BACJ,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+b60eb3df-9bd6-5080-81af-b09d2f0b51e1,UMPI,BACJ,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+c4f1c0d1-d0a0-5051-8580-d39e7d909bf2,UMPI,BACJ,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+aecb86af-8a3d-5cda-a19f-e322956e08df,UMPI,BACJ,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+da79e2e8-1b3e-5783-b071-dda1f42b3acb,UMPI,BACJ,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+64e353e0-ee5e-5865-a5bc-5797089d5c35,UMPI,BACJ,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+2a8b1f62-1a00-510b-b322-a3b5f8dcc9d4,UMPI,BACJ,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+354c9a26-f9ee-5eba-a0bd-6c554a0985d6,UMPI,BACJ,2025-2026,HIST,History,3,LOWER,false,11,General Education
+3a1d5fe5-5b63-5506-83b1-5d1054726df4,UMPI,BACJ,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+e445eb6b-1866-558d-8309-410f4a8f4c91,UMPI,BACJ,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+5fca813b-7eb1-5a8e-b767-3df12b9d7f53,UMPI,BACJ,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+3486913e-c0fe-5a00-a75d-023083d26656,UMPI,BACJ,2025-2026,CJ1,Introduction to Criminal Justice,3,LOWER,false,15,Major
+a3976dab-1216-5d12-8845-06541323ebd0,UMPI,BACJ,2025-2026,CRIM,Criminology,3,LOWER,false,16,Major
+8dc49e83-1112-5951-ae2e-1dfc78bdeb8e,UMPI,BACJ,2025-2026,CJPOL,Policing / Law Enforcement,3,LOWER,false,17,Major
+3624c0d7-36b3-53e3-9d18-6cd7b00354af,UMPI,BACJ,2025-2026,COURTS,Courts and Judicial Process,3,LOWER,false,18,Major
+205e95d4-fa6e-541f-a9ac-ca0d256b2a79,UMPI,BACJ,2025-2026,CORR,Corrections,3,LOWER,false,19,Major
+6660ee08-ff24-5a9d-b07b-89dab4e790cd,UMPI,BACJ,2025-2026,CJL,Criminal Law,3,UPPER,false,20,Major
+fd8f17b9-997c-5b1e-89ef-92df4b8040a5,UMPI,BACJ,2025-2026,CJPROC,Criminal Procedure and Evidence,3,UPPER,false,21,Major
+180d75e3-fcb8-5310-97e7-5e067b126fa8,UMPI,BACJ,2025-2026,CJETH,Ethics in Criminal Justice,3,UPPER,false,22,Major
+485e6bea-8686-5f78-b481-a16ba554c8a8,UMPI,BACJ,2025-2026,CJRES,Research Methods in Criminal Justice,3,UPPER,false,23,Major
+165bdf33-6162-547a-869d-7b43be22f29f,UMPI,BACJ,2025-2026,JUV,Juvenile Justice,3,UPPER,false,24,Major
+f9aea84f-a7e5-5d42-89e0-47ade3b2d61f,UMPI,BACJ,2025-2026,FORS,Forensic Science / Investigation,3,UPPER,false,25,Major
+76507d0b-9cc7-5643-b0aa-818493cff318,UMPI,BACJ,2025-2026,CJDIV,Multicultural Issues in Criminal Justice,3,UPPER,false,26,Major
+dc30ce05-9745-5a29-a531-80f03b1537b1,UMPI,BACJ,2025-2026,HLS,Homeland Security / Terrorism,3,UPPER,false,27,Major
+afbce069-0738-5ffb-832b-a5a9cd7750e9,UMPI,BACJ,2025-2026,CJELEC1,Criminal Justice Elective I,3,UPPER,false,28,Major
+23f3c13f-b61e-525e-9fe8-aeb814df1017,UMPI,BACJ,2025-2026,CAP,Criminal Justice Capstone,3,UPPER,true,29,Major
+0e519375-3e39-5d95-afff-d371bba43f35,UMPI,BACJ,2025-2026,ELEC1,Free Elective I,3,LOWER,false,30,Major
+91484a0c-6c7f-57d6-8410-5104dde1c29d,UMPI,BACJ,2025-2026,ELEC2,Free Elective II,3,LOWER,false,31,Major
+dfe1f96f-401c-5d37-8df8-89f1c5c57415,UMPI,BACJ,2025-2026,ELEC3,Free Elective III,3,LOWER,false,32,Major
+69a13360-558c-5798-abc5-af5cdc7c12f5,UMPI,BACJ,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+b6af23f8-482c-5790-860f-cfe3aa82dc89,UMPI,BLS,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+17db9f62-5ba3-561d-86ca-6ffee19b5dbc,UMPI,BLS,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+96e2f967-517a-5b93-a87c-d5a624ccba10,UMPI,BLS,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+bf165488-f114-5b6d-9d9c-9d39133ba5a2,UMPI,BLS,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+84ef1f20-e2ae-5c77-91df-b77ab6ca1e7b,UMPI,BLS,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+e5d8dda3-cbfd-5b1d-8d55-e35b2abf2712,UMPI,BLS,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+54e99589-d0ca-5051-aa16-2c8e9db070ac,UMPI,BLS,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+6555463d-4bae-5921-8d9a-823c5f15bf32,UMPI,BLS,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+eab65839-b48e-5b62-89b5-30f3bc9430db,UMPI,BLS,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+e105b34a-d909-5538-a29a-60185c66ea15,UMPI,BLS,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+b9221b8a-bc05-50f8-924f-651e7dc407d2,UMPI,BLS,2025-2026,HIST,History,3,LOWER,false,11,General Education
+98503d9c-6968-5b51-914b-272ae84df580,UMPI,BLS,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+71474c41-6692-5ed2-ae93-11a1a07c96fa,UMPI,BLS,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+48f628ff-1a3a-5c2d-b2a8-cd415463febb,UMPI,BLS,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+160a4e07-2eca-5049-9a49-49412759035b,UMPI,BLS,2025-2026,ILP,Degree Design / Information Literacy,3,LOWER,false,15,Major
+6fa0e98d-818d-556a-ace1-1df505e5da0c,UMPI,BLS,2025-2026,LEAD,Leadership / Organizational Behavior,3,UPPER,false,16,Major
+125ef64a-f473-5ca2-97b0-049627843227,UMPI,BLS,2025-2026,PROFCOMM,Professional Communication,3,UPPER,false,17,Major
+a30c9750-8fb8-52c4-bc06-3464f77a00ed,UMPI,BLS,2025-2026,DATA,Applied Statistics / Decision Making,3,UPPER,false,18,Major
+6691b458-69cb-585a-8b64-fa8f7ecff256,UMPI,BLS,2025-2026,ETH2,Professional Ethics,3,UPPER,false,19,Major
+e61a882c-9617-570d-bba6-a7976355ff50,UMPI,BLS,2025-2026,RES,Applied Inquiry / Research Methods,3,UPPER,false,20,Major
+d9c12799-cc96-5b0a-84a4-746b8e2472bb,UMPI,BLS,2025-2026,CONC1,Concentration / Applied Elective I,3,UPPER,false,21,Major
+f94f23e9-bd92-545a-be96-deba218da32f,UMPI,BLS,2025-2026,CONC2,Concentration / Applied Elective II,3,UPPER,false,22,Major
+649a7b31-7872-5b22-8bb7-c11c5c7f0a5e,UMPI,BLS,2025-2026,CONC3,Concentration / Applied Elective III,3,UPPER,false,23,Major
+a0ab4013-d24d-52e6-9adb-7818b940934b,UMPI,BLS,2025-2026,CONC4,Concentration / Applied Elective IV,3,UPPER,false,24,Major
+dfb2ad53-c4fa-5a75-af5a-63f38688f03c,UMPI,BLS,2025-2026,ELEC1,Free Elective I,3,LOWER,false,25,Major
+baeb22dc-561c-59a2-ae84-777f0fb13d4a,UMPI,BLS,2025-2026,ELEC2,Free Elective II,3,LOWER,false,26,Major
+d3c75956-d452-5518-8d3e-197cf1735bfc,UMPI,BLS,2025-2026,ELEC3,Free Elective III,3,LOWER,false,27,Major
+86dbef65-75be-58ff-aa11-9288601e4f09,UMPI,BLS,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,28,Major
+957f2c71-1e11-54a0-a992-889e37e6c8df,UMPI,BLS,2025-2026,ELEC5,Free Elective V,3,LOWER,false,29,Major
+a53b1897-d0a1-54ab-a718-f752972c8b34,UMPI,BLS,2025-2026,ELEC6,Free Elective VI,3,LOWER,false,30,Major
+b59f62c2-0d97-50f0-b4c0-3a3684b4ac18,UMPI,BLS,2025-2026,CAP,Professional Studies / Liberal Studies Capstone,3,UPPER,true,31,Major
+573773c3-211c-5944-9552-fe90c1adfe21,WGU,BSPSY,2026-03,ENG1,English Composition I,3,LOWER,false,1,General Education
+cbafb51d-3a4e-5a95-a41c-2f0622e42895,WGU,BSPSY,2026-03,ENG2,English Composition II,3,LOWER,false,2,General Education
+0d0121ae-8f5d-5c10-a0d1-fb6b3bc9c92e,WGU,BSPSY,2026-03,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+6cd5baaa-6f02-554f-b6a9-f6121fdc9a11,WGU,BSPSY,2026-03,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+0e96b9b3-7f9a-58c7-aaf5-de686233ce9e,WGU,BSPSY,2026-03,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+7ceaaeda-ba66-57f6-9263-08be1db8d4ad,WGU,BSPSY,2026-03,NS2,Natural Science,3,LOWER,false,6,General Education
+3aa4d5d1-a2f4-5b7a-9441-af5b8ca48e05,WGU,BSPSY,2026-03,HUM1,Humanities I,3,LOWER,false,7,General Education
+9029df4e-eba1-5058-b378-d8fea393c8fe,WGU,BSPSY,2026-03,HUM2,Humanities II,3,LOWER,false,8,General Education
+6a167eca-ccb5-5e1d-b533-1205988a89a2,WGU,BSPSY,2026-03,SS1,Social Science I,3,LOWER,false,9,General Education
+d6492610-a63e-527f-b738-668da1c83ef2,WGU,BSPSY,2026-03,SS2,Social Science II,3,LOWER,false,10,General Education
+36d72f07-4ec4-5f87-929f-65c212f30e3c,WGU,BSPSY,2026-03,HIST,History,3,LOWER,false,11,General Education
+c24c5bcc-e294-5ad6-8ebe-a88d31909f70,WGU,BSPSY,2026-03,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+b9ed0ae6-ac2a-5c9a-86b3-9b17b207dc73,WGU,BSPSY,2026-03,ETHICS,Ethics,3,LOWER,false,13,General Education
+ac5a29a0-4f2a-512b-a511-7d0b0feeec35,WGU,BSPSY,2026-03,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+055f774b-9f2b-5bec-bafe-a2172db5a8d4,WGU,BSPSY,2026-03,PSY1,Introduction to Psychology,3,LOWER,false,15,Major
+caf0fe47-ab59-50d8-8b24-f42ff2d8b8fa,WGU,BSPSY,2026-03,DEV,Lifespan / Developmental Psychology,3,LOWER,false,16,Major
+57779373-d711-558e-8758-a1654e2f9388,WGU,BSPSY,2026-03,BIOPSY,Biological / Physiological Psychology,3,UPPER,false,17,Major
+a9b13508-c462-5ff2-adb8-2d08655fae6f,WGU,BSPSY,2026-03,SOCPSY,Social Psychology,3,UPPER,false,18,Major
+0e5aea66-f3ed-587e-9904-3546ba97a5f6,WGU,BSPSY,2026-03,ABPSY,Abnormal Psychology,3,UPPER,false,19,Major
+a3428f68-b16e-583c-807b-73ef076a710c,WGU,BSPSY,2026-03,PERS,Personality Psychology,3,UPPER,false,20,Major
+28072089-7fb5-524d-8255-56ce006de4c8,WGU,BSPSY,2026-03,COG,Cognitive Psychology,3,UPPER,false,21,Major
+a223b1c3-7b29-5dc4-ba6f-9203439a74da,WGU,BSPSY,2026-03,STATS,Psychological Statistics,3,LOWER,false,22,Major
+6345e199-9d12-5a6d-8ef9-9e073d08e5cd,WGU,BSPSY,2026-03,RESM,Research Methods in Psychology,3,UPPER,false,23,Major
+659609c5-5f79-5ad9-9f04-48a11569ed2c,WGU,BSPSY,2026-03,LEARN,Learning / Behavioral Psychology,3,UPPER,false,24,Major
+b46b148d-c59d-51a6-93ef-35f056e8f38b,WGU,BSPSY,2026-03,HISTPSY,History and Systems of Psychology,3,UPPER,false,25,Major
+fb4a1787-8f94-512f-8395-7221f121dfe3,WGU,BSPSY,2026-03,ETHPSY,Ethics in Psychology / Social Science,3,UPPER,false,26,Major
+3cbedac4-603a-5ec2-9853-6707427ac6bb,WGU,BSPSY,2026-03,PELEC1,Psychology Elective I,3,UPPER,false,27,Major
+aa26aeca-4d4f-5c55-bd72-2e5bc1cef2b3,WGU,BSPSY,2026-03,PELEC2,Psychology Elective II,3,UPPER,false,28,Major
+d650e532-7a5b-5af7-bd7a-62ff6713e81b,WGU,BSPSY,2026-03,CAP,Psychology Capstone,3,UPPER,true,29,Major
+fcbd6318-9e32-5e9e-b7dd-1840714a8b82,WGU,BSPSY,2026-03,ELEC1,Free Elective I,3,LOWER,false,30,Major
+d9709c12-6cbc-5c2f-b79c-f9b8c35134ab,WGU,BSPSY,2026-03,ELEC2,Free Elective II,3,LOWER,false,31,Major
+541b11c6-2dad-541b-8802-c13928e2d491,WGU,BSPSY,2026-03,ELEC3,Free Elective III,3,LOWER,false,32,Major
+260f20d2-0f88-51c4-8e6c-549242f37cc6,WGU,BSPSY,2026-03,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+de3b48e7-d147-58f2-af44-70a867dcec75,WGU,BSHA,2026-03,ENG1,English Composition I,3,LOWER,false,1,General Education
+27b93336-9059-577d-9572-4503998e63b4,WGU,BSHA,2026-03,ENG2,English Composition II,3,LOWER,false,2,General Education
+b109c9c2-21b1-57c6-9ec0-1ac309e7378a,WGU,BSHA,2026-03,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+82236744-3f0f-5ffa-84c8-f0fdd2c99b9a,WGU,BSHA,2026-03,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+9694308b-b83c-5506-9d13-87fbc5ced8c6,WGU,BSHA,2026-03,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+439bb76a-efe8-5ca6-8546-9699c7677d58,WGU,BSHA,2026-03,NS2,Natural Science,3,LOWER,false,6,General Education
+1a672dba-d00c-5b08-a29a-d0418b0d361c,WGU,BSHA,2026-03,HUM1,Humanities I,3,LOWER,false,7,General Education
+886de472-8902-5ec6-a8a7-e67f61ee9fe0,WGU,BSHA,2026-03,HUM2,Humanities II,3,LOWER,false,8,General Education
+ccc07d39-3302-508c-8863-aeabbe2aa2e0,WGU,BSHA,2026-03,SS1,Social Science I,3,LOWER,false,9,General Education
+903d6eb1-d455-5596-a5f8-c507c4b45b51,WGU,BSHA,2026-03,SS2,Social Science II,3,LOWER,false,10,General Education
+90a42102-0e2c-5c69-b5c3-df7e9503fa9e,WGU,BSHA,2026-03,HIST,History,3,LOWER,false,11,General Education
+5686dc9d-3bb9-533a-9b7c-69557e2f83b1,WGU,BSHA,2026-03,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+b4355176-2775-5b46-b1c4-83d3e7c79419,WGU,BSHA,2026-03,ETHICS,Ethics,3,LOWER,false,13,General Education
+0d938e51-1a41-5429-805d-821c0ac06afb,WGU,BSHA,2026-03,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+8ce95b01-9867-5424-94fa-639c2d56c06b,WGU,BSHA,2026-03,HCA1,Introduction to Healthcare / Health Systems,3,LOWER,false,15,Major
+8828238d-b50d-508b-890b-c282835cdc3a,WGU,BSHA,2026-03,HCAORG,Healthcare Organizations and Delivery,3,LOWER,false,16,Major
+fef66228-463f-599a-b14b-a2728ca4eb79,WGU,BSHA,2026-03,HCAMGT,Healthcare Management / Administration,3,UPPER,false,17,Major
+5cf07bc1-6e65-5539-b0cc-5fe064f53bdd,WGU,BSHA,2026-03,HCALAW,"Healthcare Law, Policy, and Compliance",3,UPPER,false,18,Major
+a9d0832b-0134-5c34-9366-fece2e6bfed3,WGU,BSHA,2026-03,HCAETH,Healthcare Ethics,3,UPPER,false,19,Major
+005ba942-65c1-57f1-bd83-06762d689405,WGU,BSHA,2026-03,HCAFIN,Healthcare Finance / Reimbursement,3,UPPER,false,20,Major
+5ea8c502-d71a-5447-8b33-72f0923d9eb4,WGU,BSHA,2026-03,HCAQI,Quality Improvement / Patient Safety,3,UPPER,false,21,Major
+741eebae-f009-5864-b689-374b3f06cfa3,WGU,BSHA,2026-03,HCAHR,Human Resources in Healthcare,3,UPPER,false,22,Major
+06043a7f-2cfe-5b9e-82c7-a7b5eded74af,WGU,BSHA,2026-03,HCAINFO,Health Information Systems,3,LOWER,false,23,Major
+db988114-2d89-5b23-b761-0f5980a7d556,WGU,BSHA,2026-03,HCAST,Healthcare Statistics / Epidemiology,3,UPPER,false,24,Major
+a90e5757-e9e5-5f6f-be8a-53a7c03bff8e,WGU,BSHA,2026-03,MEDTERM,Medical Terminology,3,LOWER,false,25,Major
+48d1f8cb-cc9e-5654-bfcd-afa74c9b855d,WGU,BSHA,2026-03,AANDP,Anatomy and Physiology,4,LOWER,false,26,Major
+b7be1bb9-53ac-558b-b476-4c63db804980,WGU,BSHA,2026-03,HELEC1,Healthcare Elective I,3,UPPER,false,27,Major
+123bc20f-f25d-57e0-8fa8-f6ed51d44fac,WGU,BSHA,2026-03,HELEC2,Healthcare Elective II,3,UPPER,false,28,Major
+2b6820b4-023c-5135-a624-c6ca7c2506a0,WGU,BSHA,2026-03,CAP,Healthcare Administration Capstone,3,UPPER,true,29,Major
+c9602167-f246-506a-903f-f28ccb6c1814,WGU,BSHA,2026-03,ELEC1,Free Elective I,3,LOWER,false,30,Major
+c791d8ef-8db4-5363-a188-eff4f99cca0e,WGU,BSHA,2026-03,ELEC2,Free Elective II,3,LOWER,false,31,Major
+2f2827e2-28d0-5027-9a36-c2d49c89f6db,WGU,BSHA,2026-03,ELEC3,Free Elective III,3,LOWER,false,32,Major
+3406723c-ac56-54d0-9f0b-3e4e24fbec66,WGU,BSHA,2026-03,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+5485eefb-77ed-5bb0-bb61-e288cb1afe6f,WGU,BSSWE,2026-03,ENG1,English Composition I,3,LOWER,false,1,General Education
+407b80e2-8f50-51d7-bbab-d40bde4d9faa,WGU,BSSWE,2026-03,ENG2,English Composition II,3,LOWER,false,2,General Education
+86bb182f-caaa-5fd5-8556-947ac344dfe0,WGU,BSSWE,2026-03,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+8cb47328-a1b9-58df-b891-2edddf2de5bc,WGU,BSSWE,2026-03,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+40573ed8-93f5-577f-b69f-416d8d7cdec8,WGU,BSSWE,2026-03,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+56995636-af5a-5326-9a82-ba25c76cba2d,WGU,BSSWE,2026-03,NS2,Natural Science,3,LOWER,false,6,General Education
+1e5a2f31-770a-5f9f-8e1c-a4aa93f6ecec,WGU,BSSWE,2026-03,HUM1,Humanities I,3,LOWER,false,7,General Education
+c76e5ce0-4c71-5134-8a55-99ef1c4b3c23,WGU,BSSWE,2026-03,HUM2,Humanities II,3,LOWER,false,8,General Education
+186888bf-314c-527d-a8c2-a1fbe185db89,WGU,BSSWE,2026-03,SS1,Social Science I,3,LOWER,false,9,General Education
+97c7b604-32d5-5a68-8380-ecdfbb7fb0ff,WGU,BSSWE,2026-03,SS2,Social Science II,3,LOWER,false,10,General Education
+b803a007-ca56-5116-8a1f-0b9664b134ea,WGU,BSSWE,2026-03,HIST,History,3,LOWER,false,11,General Education
+c77199c0-392d-5453-aba2-19c836acb466,WGU,BSSWE,2026-03,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+609fe408-0087-5da1-bdf8-5a95ce810d5f,WGU,BSSWE,2026-03,ETHICS,Ethics,3,LOWER,false,13,General Education
+361ef93d-b8a6-5645-a4da-71cd16896ae5,WGU,BSSWE,2026-03,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+903c83dd-8d18-586c-82ae-eb8b33508816,WGU,BSSWE,2026-03,IT101,Introduction to IT / Computing,3,LOWER,false,15,Major
+58f84310-635d-5b6e-9cdd-b500f531bbe6,WGU,BSSWE,2026-03,PROG,Programming Fundamentals,3,LOWER,false,16,Major
+aaf5c1f5-538e-5c88-ac65-642d80e46c83,WGU,BSSWE,2026-03,PROG2,Object-Oriented / Intermediate Programming,3,LOWER,false,17,Major
+fbf0d0f8-8f9b-54e5-b089-5fb888218bed,WGU,BSSWE,2026-03,DS,Data Structures and Algorithms,3,UPPER,false,18,Major
+eceaafac-294d-53b6-b6a4-145d64aabed5,WGU,BSSWE,2026-03,DB,Database Fundamentals,3,LOWER,false,19,Major
+3190203c-e7c6-5e3f-a548-3c33f764d7e1,WGU,BSSWE,2026-03,WEB,Web Technologies,3,LOWER,false,20,Major
+b6c38431-3e8a-5541-9cd9-ca40a0e67468,WGU,BSSWE,2026-03,OS,Operating Systems,3,LOWER,false,21,Major
+5b505e6f-e722-5d7a-963b-8eb69f4bb54f,WGU,BSSWE,2026-03,NET,Networking Fundamentals,3,LOWER,false,22,Major
+b794655d-0f46-5276-8098-607f1e81bfdb,WGU,BSSWE,2026-03,SWE1,Software Engineering Practices,3,UPPER,false,23,Major
+25f94ffe-c2f3-55c4-b9d1-04b1c54a7831,WGU,BSSWE,2026-03,AGILE,Agile / Scrum Software Process,3,UPPER,false,24,Major
+8c2d0cce-f374-5d2c-8edb-8aa8a0873232,WGU,BSSWE,2026-03,TEST,Software Testing and Quality,3,UPPER,false,25,Major
+a0a80455-c842-562f-82ef-9b2d0818e158,WGU,BSSWE,2026-03,SECDEV,Secure Software / Application Security,3,UPPER,false,26,Major
+452936be-c36f-56f7-b6fd-c538a3102169,WGU,BSSWE,2026-03,ARCH,Software Architecture / Design,3,UPPER,false,27,Major
+09659cbf-a42e-554f-9d0d-fd0bc7d2f706,WGU,BSSWE,2026-03,CLOUD,Cloud / DevOps Foundations,3,UPPER,false,28,Major
+c3ada2b2-809f-50e0-8aff-1732ebc22d66,WGU,BSSWE,2026-03,CAP,Software Engineering Capstone,3,UPPER,true,29,Major
+8c19e4e4-3c70-5719-9b08-5ce542bf2c37,WGU,BSSWE,2026-03,SELEC1,Software Elective I,3,UPPER,false,30,Major
+b712d7f1-8359-5bdb-8b7c-d6f29513524f,WGU,BSSWE,2026-03,ELEC1,Free Elective I,3,LOWER,false,31,Major
+322d72a4-86b7-599e-9899-16a9a6ecfad5,WGU,BSSWE,2026-03,ELEC2,Free Elective II,3,LOWER,false,32,Major
+c1e2d84e-4994-5b21-813a-3f6c43ec557a,WGU,BSSWE,2026-03,ELEC3,Free Elective III,3,LOWER,false,33,Major
+4fc27abd-0c82-51f0-9048-4def5a3dd890,WGU,BSSWE,2026-03,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+35edd9a1-31b5-55b2-959d-84e1b4911b8a,TESU,BAPSY,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+380b78dc-9db8-5996-baad-8fb20c1fccb0,TESU,BAPSY,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+f31e9dca-4fb8-59b2-b372-f9c3460c6f22,TESU,BAPSY,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+b2d7e642-8621-5cf0-affb-6062ced4d09d,TESU,BAPSY,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+677ca021-d258-549f-ae51-c9851664925b,TESU,BAPSY,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+fc9ad417-75be-5061-95a9-6dccc759c223,TESU,BAPSY,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+8157a3f7-bf2f-5838-a378-3b1c1342b81a,TESU,BAPSY,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+ba63c8a5-c2b1-5017-9bf3-2d3d53de621c,TESU,BAPSY,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+605f67fb-adae-5924-ae5c-98321f700cfa,TESU,BAPSY,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+755d47da-682f-5542-bdde-0c6f9656b8e0,TESU,BAPSY,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+4efa34d4-055b-5a55-9744-10f47cab094a,TESU,BAPSY,2025-2026,HIST,History,3,LOWER,false,11,General Education
+e0b5a2d5-043f-5743-af48-cd13f614b1d2,TESU,BAPSY,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+6a2b7383-8b8a-5cb4-be82-9a90dfa3e2c0,TESU,BAPSY,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+381f178e-f000-5f6f-9a8b-464ee85e6d05,TESU,BAPSY,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+867b27a7-2bfc-5910-9527-d73467258434,TESU,BAPSY,2025-2026,PSY1,Introduction to Psychology,3,LOWER,false,15,Major
+6723b0d1-e629-52e3-88c5-608972d26c8d,TESU,BAPSY,2025-2026,DEV,Lifespan / Developmental Psychology,3,LOWER,false,16,Major
+76f7ca29-2497-54ba-bbaa-953d300ed186,TESU,BAPSY,2025-2026,BIOPSY,Biological / Physiological Psychology,3,UPPER,false,17,Major
+936100ae-e557-5071-a296-e340e2962ccd,TESU,BAPSY,2025-2026,SOCPSY,Social Psychology,3,UPPER,false,18,Major
+848c7848-f2f1-5125-9a62-f1626def8000,TESU,BAPSY,2025-2026,ABPSY,Abnormal Psychology,3,UPPER,false,19,Major
+427c7026-8035-5833-a8f8-6f77ab3bbc19,TESU,BAPSY,2025-2026,PERS,Personality Psychology,3,UPPER,false,20,Major
+fd7a39c5-69ff-52bc-af06-85dfa676aa23,TESU,BAPSY,2025-2026,COG,Cognitive Psychology,3,UPPER,false,21,Major
+b593cd9a-f3f4-5b37-8a69-92e504f86bbb,TESU,BAPSY,2025-2026,STATS,Psychological Statistics,3,LOWER,false,22,Major
+ca26c265-692b-576a-bafb-328a0a0ed1f5,TESU,BAPSY,2025-2026,RESM,Research Methods in Psychology,3,UPPER,false,23,Major
+f622aaee-f3c9-59af-ab58-c5e326b41931,TESU,BAPSY,2025-2026,LEARN,Learning / Behavioral Psychology,3,UPPER,false,24,Major
+2ad029b3-a48b-540f-b428-7f55e1520fb4,TESU,BAPSY,2025-2026,HISTPSY,History and Systems of Psychology,3,UPPER,false,25,Major
+bb40aecd-38a8-5172-ae8c-0ae9702a40ea,TESU,BAPSY,2025-2026,ETHPSY,Ethics in Psychology / Social Science,3,UPPER,false,26,Major
+4aeb6e70-b958-5900-8759-e3537f3715f4,TESU,BAPSY,2025-2026,PELEC1,Psychology Elective I,3,UPPER,false,27,Major
+46d1a5a2-0db1-5a6a-8661-c71475a6206c,TESU,BAPSY,2025-2026,PELEC2,Psychology Elective II,3,UPPER,false,28,Major
+4619a088-5f42-5240-bf22-2c34489d8b9e,TESU,BAPSY,2025-2026,CAP,Psychology Capstone,3,UPPER,true,29,Major
+6a67446a-3174-506d-8817-f5f6258f4ef1,TESU,BAPSY,2025-2026,ELEC1,Free Elective I,3,LOWER,false,30,Major
+f82886e7-218d-5cfc-966d-d889780d6e61,TESU,BAPSY,2025-2026,ELEC2,Free Elective II,3,LOWER,false,31,Major
+ae02bfbb-be5c-50dc-95ba-fc1535679ab4,TESU,BAPSY,2025-2026,ELEC3,Free Elective III,3,LOWER,false,32,Major
+e528c2a8-edb6-54c8-b93d-cc3cf223b3d1,TESU,BAPSY,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+b5064e39-a363-5674-ae19-37324aff235a,TESU,BSCJ,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+17624bde-d18c-5ff9-b0dd-7c6d5e750681,TESU,BSCJ,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+7e224c88-34d7-5d69-acd4-7b6618ae2365,TESU,BSCJ,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+a67b389a-78a9-547c-9b14-5ecd5cfa66f2,TESU,BSCJ,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+20e8d24a-d8cf-5ff4-9a3e-95d24b4c008b,TESU,BSCJ,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+5364f67b-a6a4-5245-973a-6c9eacfc600f,TESU,BSCJ,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+d58b6fc8-5461-5ab2-86fe-d6268873cdac,TESU,BSCJ,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+e9c54ee2-137f-57b9-bd67-09ecbd587496,TESU,BSCJ,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+d669f38c-8b2d-58b3-b948-504aae1dda16,TESU,BSCJ,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+0b34f997-21d0-504e-bf49-e9f438d14e04,TESU,BSCJ,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+ed749f32-0d3c-551c-bd88-4d523dcfdd95,TESU,BSCJ,2025-2026,HIST,History,3,LOWER,false,11,General Education
+35fe4a47-c7e8-5f66-916d-0f86338b0a41,TESU,BSCJ,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+12906821-7c5a-50fa-b8c6-ad46e61ebfc9,TESU,BSCJ,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+a12f167c-2b3e-5c92-9ae8-b685f2aeb7e2,TESU,BSCJ,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+fbd9ed27-13d6-54b2-a2ae-85654153f634,TESU,BSCJ,2025-2026,CJ1,Introduction to Criminal Justice,3,LOWER,false,15,Major
+81c3ceba-ecb4-5ffd-b8a0-db6e6f61ca51,TESU,BSCJ,2025-2026,CRIM,Criminology,3,LOWER,false,16,Major
+9aaffa2d-0936-5de2-bf88-29a6a6aa0fc5,TESU,BSCJ,2025-2026,CJPOL,Policing / Law Enforcement,3,LOWER,false,17,Major
+e9be0f95-6dfa-52a6-b148-4b293d84803e,TESU,BSCJ,2025-2026,COURTS,Courts and Judicial Process,3,LOWER,false,18,Major
+b2c313c8-e06d-56b4-8e93-bb2eb7c15e97,TESU,BSCJ,2025-2026,CORR,Corrections,3,LOWER,false,19,Major
+61c935f8-d806-5081-abc8-78243b741c9e,TESU,BSCJ,2025-2026,CJL,Criminal Law,3,UPPER,false,20,Major
+b03823b7-58f0-5e91-b1e1-e43d6e7a0212,TESU,BSCJ,2025-2026,CJPROC,Criminal Procedure and Evidence,3,UPPER,false,21,Major
+64433ca9-54d0-5557-b64f-17e3eb03516e,TESU,BSCJ,2025-2026,CJETH,Ethics in Criminal Justice,3,UPPER,false,22,Major
+b1cef172-6544-5405-ad6a-3a13a13c3a27,TESU,BSCJ,2025-2026,CJRES,Research Methods in Criminal Justice,3,UPPER,false,23,Major
+2cd7aabb-fab8-51b7-9b38-b46a96f50a2a,TESU,BSCJ,2025-2026,JUV,Juvenile Justice,3,UPPER,false,24,Major
+7551abb5-c05a-5866-9cd5-b379040c0123,TESU,BSCJ,2025-2026,FORS,Forensic Science / Investigation,3,UPPER,false,25,Major
+5103dd53-44d1-5f5d-be49-b6bfdbf75b9b,TESU,BSCJ,2025-2026,CJDIV,Multicultural Issues in Criminal Justice,3,UPPER,false,26,Major
+8deff374-f157-5b14-91b7-9119458f8a89,TESU,BSCJ,2025-2026,HLS,Homeland Security / Terrorism,3,UPPER,false,27,Major
+15a1d8e5-3da4-50d8-8b83-e984ecf3a2ca,TESU,BSCJ,2025-2026,CJELEC1,Criminal Justice Elective I,3,UPPER,false,28,Major
+99cfdfd0-1647-5160-92e6-cabdcc420960,TESU,BSCJ,2025-2026,CAP,Criminal Justice Capstone,3,UPPER,true,29,Major
+908647df-0ef8-5556-80cd-1b65399cd1fd,TESU,BSCJ,2025-2026,ELEC1,Free Elective I,3,LOWER,false,30,Major
+c2a1ee27-6539-5074-9d92-73b8897e1e61,TESU,BSCJ,2025-2026,ELEC2,Free Elective II,3,LOWER,false,31,Major
+955ed044-a37f-5e0e-a8ed-bb307b88d736,TESU,BSCJ,2025-2026,ELEC3,Free Elective III,3,LOWER,false,32,Major
+993c3881-10f2-5454-91ba-5a8ad15a2014,TESU,BSCJ,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+880a7f20-ad48-5e2d-9efe-e04fe2112fb1,TESU,BSIT,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+dfef96d1-9241-59ee-98dd-efc2360dd822,TESU,BSIT,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+87d4f44d-4bc1-52d3-9c95-c212b2e4aad9,TESU,BSIT,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+b7bca47a-10a2-5b96-ac9f-bae28885de73,TESU,BSIT,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+490a1b6f-64fd-5a67-a362-3a4c311e8f19,TESU,BSIT,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+152c6852-7f26-56cc-a64b-2796550690a1,TESU,BSIT,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+b6570ce4-1ae5-5721-8d39-1135f6d64396,TESU,BSIT,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+73734364-140e-5d3c-8fa6-8d70dfce0d93,TESU,BSIT,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+3c1025ae-f529-55f1-89c3-f3196ce1e10c,TESU,BSIT,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+43ff27a7-dbcb-520d-8889-9ed4f39094a2,TESU,BSIT,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+76175fef-82ea-5750-afe7-09b513fcf6f0,TESU,BSIT,2025-2026,HIST,History,3,LOWER,false,11,General Education
+b6905bfe-4210-5075-949a-fcddbe14f410,TESU,BSIT,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+887b93dc-1d8e-5197-95d4-a035d2f60a56,TESU,BSIT,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+8bb81353-c651-5480-b0e8-3f780bd32192,TESU,BSIT,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+6888f96a-85c0-5a8b-9d53-4198c3942e28,TESU,BSIT,2025-2026,IT101,Introduction to IT / Computing,3,LOWER,false,15,Major
+1d23cea0-61ea-5785-8473-9d731d40e7f4,TESU,BSIT,2025-2026,PROG,Programming Fundamentals,3,LOWER,false,16,Major
+57f54a2e-c2de-5a78-8681-f113a04f67f9,TESU,BSIT,2025-2026,PROG2,Object-Oriented / Intermediate Programming,3,LOWER,false,17,Major
+96791471-95f0-5236-bc0c-63469160e415,TESU,BSIT,2025-2026,DS,Data Structures and Algorithms,3,UPPER,false,18,Major
+5d0117d4-4632-58f3-9f0c-a9f2c4b40f0b,TESU,BSIT,2025-2026,DB,Database Fundamentals,3,LOWER,false,19,Major
+2d2df7fb-6fab-569f-a7eb-b3fc07e0fe5f,TESU,BSIT,2025-2026,WEB,Web Technologies,3,LOWER,false,20,Major
+559c23a0-8fa6-5e51-a996-5caac78be861,TESU,BSIT,2025-2026,OS,Operating Systems,3,LOWER,false,21,Major
+1130e083-4fc7-5c36-8e7f-6877cbc25318,TESU,BSIT,2025-2026,NET,Networking Fundamentals,3,LOWER,false,22,Major
+1775d55c-924a-5c72-94d2-960be5a30db1,TESU,BSIT,2025-2026,SWE1,Software Engineering Practices,3,UPPER,false,23,Major
+c0390fbe-2013-5393-8574-af34406dc687,TESU,BSIT,2025-2026,AGILE,Agile / Scrum Software Process,3,UPPER,false,24,Major
+37fd6289-2727-5696-9c95-4a05c8049d5b,TESU,BSIT,2025-2026,TEST,Software Testing and Quality,3,UPPER,false,25,Major
+95e7ea65-f176-5e32-9155-9806419ac7e1,TESU,BSIT,2025-2026,SECDEV,Secure Software / Application Security,3,UPPER,false,26,Major
+63ca6428-b568-5e3b-b3ed-7a24cb4c99b1,TESU,BSIT,2025-2026,ARCH,Software Architecture / Design,3,UPPER,false,27,Major
+5c9e0762-c129-54f5-9b86-a68561ab468d,TESU,BSIT,2025-2026,CLOUD,Cloud / DevOps Foundations,3,UPPER,false,28,Major
+a1731936-1728-5ff9-b6db-98d84f5c1d5e,TESU,BSIT,2025-2026,CAP,Software Engineering Capstone,3,UPPER,true,29,Major
+bd8113c7-5895-563c-90a3-f3a4ecf092cc,TESU,BSIT,2025-2026,SELEC1,Software Elective I,3,UPPER,false,30,Major
+c23c87b1-41e4-52ad-a1b6-b595a379e11b,TESU,BSIT,2025-2026,ELEC1,Free Elective I,3,LOWER,false,31,Major
+c5a0dfcd-a073-5e77-86ba-7bc4ef36aef4,TESU,BSIT,2025-2026,ELEC2,Free Elective II,3,LOWER,false,32,Major
+9a30f07e-5f15-511b-9e30-efe1b7adfbff,TESU,BSIT,2025-2026,ELEC3,Free Elective III,3,LOWER,false,33,Major
+20168899-7a14-5f67-84ed-dcf6036b0d59,TESU,BSIT,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+940d43fb-596b-523c-813d-a0e1aea9f653,TESU,BSHS,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+b50497e3-edfa-5045-a456-0d1ef0c81975,TESU,BSHS,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+90e3939a-0027-59b9-ab62-78af39d1786c,TESU,BSHS,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+f5446cf9-9841-55de-81d3-0a2dc17920cd,TESU,BSHS,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+21c6539c-93c3-5a03-b19c-708285d147fa,TESU,BSHS,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+467f1bb5-3ba6-587e-b7eb-213aa2da6774,TESU,BSHS,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+d41a360f-7fdf-5c27-91a8-184642722017,TESU,BSHS,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+2c260b58-d0e0-5947-8533-a630836ab4a6,TESU,BSHS,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+15805eef-6a47-51ee-8b3e-7669e54f9486,TESU,BSHS,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+62b8752d-b9ae-51a1-a869-57fe28ef25fd,TESU,BSHS,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+0e80b496-797a-5571-80b3-96737a39cdb0,TESU,BSHS,2025-2026,HIST,History,3,LOWER,false,11,General Education
+5449d767-887e-5ec0-ae5f-a28d7bb4e612,TESU,BSHS,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+8359a40b-6068-5ec6-83ee-b1d4ecd31dc7,TESU,BSHS,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+5f2fede5-eb02-5f86-bc2d-b37969577338,TESU,BSHS,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+ef2d6386-0361-5c5b-8658-10e259818c96,TESU,BSHS,2025-2026,HCA1,Introduction to Healthcare / Health Systems,3,LOWER,false,15,Major
+c6c1237b-cf4c-5ddb-8175-23946e7d019f,TESU,BSHS,2025-2026,HCAORG,Healthcare Organizations and Delivery,3,LOWER,false,16,Major
+cf80f407-099e-50bc-96af-5f4e6d184d5b,TESU,BSHS,2025-2026,HCAMGT,Healthcare Management / Administration,3,UPPER,false,17,Major
+1cd84585-9bfc-5a0d-8171-2dedd660e745,TESU,BSHS,2025-2026,HCALAW,"Healthcare Law, Policy, and Compliance",3,UPPER,false,18,Major
+4b834c54-f484-523f-b54d-f8e28d2fca90,TESU,BSHS,2025-2026,HCAETH,Healthcare Ethics,3,UPPER,false,19,Major
+e8871423-6583-5f4e-8290-d2fe672cf0b8,TESU,BSHS,2025-2026,HCAFIN,Healthcare Finance / Reimbursement,3,UPPER,false,20,Major
+8fb522b0-8736-53a3-ae03-34f153df1ba6,TESU,BSHS,2025-2026,HCAQI,Quality Improvement / Patient Safety,3,UPPER,false,21,Major
+ef742585-5ae1-5db4-808e-ca5a04d8352c,TESU,BSHS,2025-2026,HCAHR,Human Resources in Healthcare,3,UPPER,false,22,Major
+2d98f691-1556-59bb-9671-90ad5dac8d88,TESU,BSHS,2025-2026,HCAINFO,Health Information Systems,3,LOWER,false,23,Major
+2708ec4f-83f8-54bd-a971-1e9a11a243fc,TESU,BSHS,2025-2026,HCAST,Healthcare Statistics / Epidemiology,3,UPPER,false,24,Major
+b3000407-823f-5f61-8537-5ef99c6cac92,TESU,BSHS,2025-2026,MEDTERM,Medical Terminology,3,LOWER,false,25,Major
+d0299047-8341-5a05-abfa-33948b7237af,TESU,BSHS,2025-2026,AANDP,Anatomy and Physiology,4,LOWER,false,26,Major
+3c6e8035-2be0-5d09-ab65-51afa63b18ae,TESU,BSHS,2025-2026,HELEC1,Healthcare Elective I,3,UPPER,false,27,Major
+abb63081-df22-5bbf-867c-c354bb865bb5,TESU,BSHS,2025-2026,HELEC2,Healthcare Elective II,3,UPPER,false,28,Major
+296d7b7d-ff56-5dff-bd94-bb048c5cd0ea,TESU,BSHS,2025-2026,CAP,Healthcare Administration Capstone,3,UPPER,true,29,Major
+5af4b9ea-3896-577f-917a-8122f1a86ab8,TESU,BSHS,2025-2026,ELEC1,Free Elective I,3,LOWER,false,30,Major
+dccdbed3-4e39-530f-9719-5b97832941de,TESU,BSHS,2025-2026,ELEC2,Free Elective II,3,LOWER,false,31,Major
+1d8a09e6-3423-5a04-8e32-f8176ebb12ed,TESU,BSHS,2025-2026,ELEC3,Free Elective III,3,LOWER,false,32,Major
+e931d6ea-309e-5123-89b6-8c64398f4190,TESU,BSHS,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+b8b55930-c5e6-57f9-8a4f-79036c9b6b7a,EXCELSIOR,BSPSY,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+4640811e-acbe-577b-9bec-11d62fe73f35,EXCELSIOR,BSPSY,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+8aea8eeb-87df-52f1-ae57-e540a973306f,EXCELSIOR,BSPSY,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+a8e61ef1-248b-5034-81d5-5eaad049cde9,EXCELSIOR,BSPSY,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+63177b57-e1d2-5930-9db5-659a2b8fb784,EXCELSIOR,BSPSY,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+5c4968cc-5cdd-5295-a468-ff2c27edc1b6,EXCELSIOR,BSPSY,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+7a78e614-6082-5005-8507-3ddf82a904b7,EXCELSIOR,BSPSY,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+843f56fc-e963-523f-941d-c7219385d0d6,EXCELSIOR,BSPSY,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+1d1afe3d-5423-5776-9a2a-c301fc5ae071,EXCELSIOR,BSPSY,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+1feb0e1b-3ccd-53bf-899a-10889566a21e,EXCELSIOR,BSPSY,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+372cf892-bb23-5803-a58d-fb44e5142e8d,EXCELSIOR,BSPSY,2025-2026,HIST,History,3,LOWER,false,11,General Education
+1c225c0a-dc9f-5676-95a8-7b9746d81b4d,EXCELSIOR,BSPSY,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+7b22d71a-da53-570d-a56c-ef5ae356d5e2,EXCELSIOR,BSPSY,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+a753eac0-6315-5ad8-a161-a1d0051b3c12,EXCELSIOR,BSPSY,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+ab76ef10-a93f-50a7-876f-24c8a984ac83,EXCELSIOR,BSPSY,2025-2026,PSY1,Introduction to Psychology,3,LOWER,false,15,Major
+059bae8a-b852-5b03-a801-0f3268c69812,EXCELSIOR,BSPSY,2025-2026,DEV,Lifespan / Developmental Psychology,3,LOWER,false,16,Major
+0edfa200-7597-520c-a9fb-e3d71ac2ea5c,EXCELSIOR,BSPSY,2025-2026,BIOPSY,Biological / Physiological Psychology,3,UPPER,false,17,Major
+9753ddb5-6587-5a10-9187-5027ee4e88e8,EXCELSIOR,BSPSY,2025-2026,SOCPSY,Social Psychology,3,UPPER,false,18,Major
+437bff9e-5ebd-51c5-a8b6-a164708bc751,EXCELSIOR,BSPSY,2025-2026,ABPSY,Abnormal Psychology,3,UPPER,false,19,Major
+f69b961c-39bb-5eba-a6f0-dd5039d47949,EXCELSIOR,BSPSY,2025-2026,PERS,Personality Psychology,3,UPPER,false,20,Major
+1a575d62-d657-5355-a715-3c8aa0b5484d,EXCELSIOR,BSPSY,2025-2026,COG,Cognitive Psychology,3,UPPER,false,21,Major
+7eb3982e-2411-53d1-b365-f9d2bbb2b9e6,EXCELSIOR,BSPSY,2025-2026,STATS,Psychological Statistics,3,LOWER,false,22,Major
+952d2542-7e6f-509e-9719-71c11041fdb8,EXCELSIOR,BSPSY,2025-2026,RESM,Research Methods in Psychology,3,UPPER,false,23,Major
+fbad1813-5d90-5128-baa3-5eb1dd4b7475,EXCELSIOR,BSPSY,2025-2026,LEARN,Learning / Behavioral Psychology,3,UPPER,false,24,Major
+dcc4d53f-a271-5213-9014-98409158000b,EXCELSIOR,BSPSY,2025-2026,HISTPSY,History and Systems of Psychology,3,UPPER,false,25,Major
+74f302fb-ba39-5f4e-abfa-e0165729df5f,EXCELSIOR,BSPSY,2025-2026,ETHPSY,Ethics in Psychology / Social Science,3,UPPER,false,26,Major
+74dd1b10-c383-54bd-947c-94412c5c793f,EXCELSIOR,BSPSY,2025-2026,PELEC1,Psychology Elective I,3,UPPER,false,27,Major
+540ad064-0bb5-5118-8d85-a3b709e32370,EXCELSIOR,BSPSY,2025-2026,PELEC2,Psychology Elective II,3,UPPER,false,28,Major
+eb25af14-44cf-56ec-b1ef-0306a2b4653c,EXCELSIOR,BSPSY,2025-2026,CAP,Psychology Capstone,3,UPPER,true,29,Major
+31e133f6-debe-53d4-a4c5-00a1aa03ff00,EXCELSIOR,BSPSY,2025-2026,ELEC1,Free Elective I,3,LOWER,false,30,Major
+e3626e12-f127-5a47-9873-ab0163fcbab9,EXCELSIOR,BSPSY,2025-2026,ELEC2,Free Elective II,3,LOWER,false,31,Major
+8b704f56-b1df-5370-89a6-2b926056a074,EXCELSIOR,BSPSY,2025-2026,ELEC3,Free Elective III,3,LOWER,false,32,Major
+1ca49eb3-a424-5e5d-8e1c-dd536189217d,EXCELSIOR,BSPSY,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+61bb46ee-975c-5b3c-ab14-7a9e7c31f729,EXCELSIOR,BSCJ,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+5750d6ac-5adb-5678-9513-f7e4be0bd45e,EXCELSIOR,BSCJ,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+c7426ab4-6d4a-546d-9c8c-1233717c9321,EXCELSIOR,BSCJ,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+49ec0c7b-4764-5623-8011-2df056e8bd70,EXCELSIOR,BSCJ,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+ffa025cd-c77c-5926-b7c1-a6ef06f9097a,EXCELSIOR,BSCJ,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+40062dad-71d6-5647-813a-44735af6942f,EXCELSIOR,BSCJ,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+66efee49-20a9-5afa-97e8-07c04ba98c5f,EXCELSIOR,BSCJ,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+c1675141-975b-5f1c-806a-810c755adca7,EXCELSIOR,BSCJ,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+55387a1b-7847-526f-a57b-828efacd1a75,EXCELSIOR,BSCJ,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+1486ea0d-f3c8-5e8f-94fb-829299744ff3,EXCELSIOR,BSCJ,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+1b5c7c0a-ae31-589e-b8e1-859ef69341cd,EXCELSIOR,BSCJ,2025-2026,HIST,History,3,LOWER,false,11,General Education
+cd838190-b411-5351-8077-96c3081a6c0b,EXCELSIOR,BSCJ,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+bdfbaf67-3274-56f3-b010-36f7de5ab997,EXCELSIOR,BSCJ,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+dd937091-a61c-50ee-9916-da0b039e728b,EXCELSIOR,BSCJ,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+6542db27-571a-576a-9575-b8400f897ea3,EXCELSIOR,BSCJ,2025-2026,CJ1,Introduction to Criminal Justice,3,LOWER,false,15,Major
+a6b666f0-fc19-56a5-8c35-668b031011ba,EXCELSIOR,BSCJ,2025-2026,CRIM,Criminology,3,LOWER,false,16,Major
+2ac24048-96cd-539d-ba57-22d3fe7bc565,EXCELSIOR,BSCJ,2025-2026,CJPOL,Policing / Law Enforcement,3,LOWER,false,17,Major
+2f311f73-a7f3-5e70-a8f0-d6bf0e0a9e12,EXCELSIOR,BSCJ,2025-2026,COURTS,Courts and Judicial Process,3,LOWER,false,18,Major
+0077e2cb-1710-586d-a076-57c89c7612dd,EXCELSIOR,BSCJ,2025-2026,CORR,Corrections,3,LOWER,false,19,Major
+4da8fe75-3428-5de2-9ae4-73debe3564f5,EXCELSIOR,BSCJ,2025-2026,CJL,Criminal Law,3,UPPER,false,20,Major
+2a324671-8ae6-5341-99d9-cbf24e516246,EXCELSIOR,BSCJ,2025-2026,CJPROC,Criminal Procedure and Evidence,3,UPPER,false,21,Major
+181bf9ab-61e0-5f07-a233-ec8fb606c54c,EXCELSIOR,BSCJ,2025-2026,CJETH,Ethics in Criminal Justice,3,UPPER,false,22,Major
+2e8a2dda-64de-51e3-8fd6-6bfa91a2b591,EXCELSIOR,BSCJ,2025-2026,CJRES,Research Methods in Criminal Justice,3,UPPER,false,23,Major
+9c43ddfe-2cc5-54d3-a874-fd3492d792e4,EXCELSIOR,BSCJ,2025-2026,JUV,Juvenile Justice,3,UPPER,false,24,Major
+b45af65c-e1e4-58d2-84f2-583f3f70aae4,EXCELSIOR,BSCJ,2025-2026,FORS,Forensic Science / Investigation,3,UPPER,false,25,Major
+bbfb24b3-ffa4-5f4c-a369-6cb987ae3baa,EXCELSIOR,BSCJ,2025-2026,CJDIV,Multicultural Issues in Criminal Justice,3,UPPER,false,26,Major
+dc93f006-85fa-5a4d-a658-e87c8ac86963,EXCELSIOR,BSCJ,2025-2026,HLS,Homeland Security / Terrorism,3,UPPER,false,27,Major
+6f8ee6c1-2271-585b-83e2-4745bf77f731,EXCELSIOR,BSCJ,2025-2026,CJELEC1,Criminal Justice Elective I,3,UPPER,false,28,Major
+234264fc-51c2-5f9c-ae73-65297bcb14aa,EXCELSIOR,BSCJ,2025-2026,CAP,Criminal Justice Capstone,3,UPPER,true,29,Major
+203fa8eb-6775-533f-b800-9efdca6b8a14,EXCELSIOR,BSCJ,2025-2026,ELEC1,Free Elective I,3,LOWER,false,30,Major
+c58cd69f-9b3b-570c-a899-fef67d1dfbef,EXCELSIOR,BSCJ,2025-2026,ELEC2,Free Elective II,3,LOWER,false,31,Major
+4caba443-3a25-5357-aae4-420d6e2c1f57,EXCELSIOR,BSCJ,2025-2026,ELEC3,Free Elective III,3,LOWER,false,32,Major
+1da18e07-a1b8-5ea3-8b99-e96a956eef7e,EXCELSIOR,BSCJ,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+d8ed570f-a291-5b2b-8440-40714f588b4b,EXCELSIOR,BSIT,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+7d3a167b-c7bf-5475-8894-07f0b46a6761,EXCELSIOR,BSIT,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+3d611043-3cec-55e1-bc16-0375d09cd889,EXCELSIOR,BSIT,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+c6810f0d-32e4-5d30-a2c6-b35a099a5775,EXCELSIOR,BSIT,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+f18311af-1dff-594e-8967-660bafe0353b,EXCELSIOR,BSIT,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+38920a9b-3abc-510f-8425-3a5a131a7213,EXCELSIOR,BSIT,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+a6b4e6db-3596-5ff5-a615-46f546e1500d,EXCELSIOR,BSIT,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+4ae0d127-a6db-5096-87f0-3b087cb0141a,EXCELSIOR,BSIT,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+385067be-9281-55dc-9ff6-3322d9400fd2,EXCELSIOR,BSIT,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+74c15244-e8ae-56ce-83f7-7ecbe061bb65,EXCELSIOR,BSIT,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+a8bd4d11-0041-5f8c-817a-29cafba3af1a,EXCELSIOR,BSIT,2025-2026,HIST,History,3,LOWER,false,11,General Education
+5e71f52f-2ae4-5da5-9d00-82aa3ee7cac4,EXCELSIOR,BSIT,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+4188ef2f-1ccc-553e-b50e-074fe96d1e4c,EXCELSIOR,BSIT,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+9daee8da-39b3-585d-b23b-4a2de5e70c8a,EXCELSIOR,BSIT,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+e08b26c0-c8da-50e0-9a9a-640bf46b1110,EXCELSIOR,BSIT,2025-2026,IT101,Introduction to IT / Computing,3,LOWER,false,15,Major
+6d231e86-74e3-53c9-bcdf-c7f2cd7eb086,EXCELSIOR,BSIT,2025-2026,PROG,Programming Fundamentals,3,LOWER,false,16,Major
+e0fa0739-16a1-5af5-94f0-b08beece9611,EXCELSIOR,BSIT,2025-2026,PROG2,Object-Oriented / Intermediate Programming,3,LOWER,false,17,Major
+c7494c8f-b686-549f-9089-f2a05e219446,EXCELSIOR,BSIT,2025-2026,DS,Data Structures and Algorithms,3,UPPER,false,18,Major
+ed022627-7a4a-5f85-ac64-543bebe40744,EXCELSIOR,BSIT,2025-2026,DB,Database Fundamentals,3,LOWER,false,19,Major
+1e987cad-6b29-5a7e-abc6-9c1d5a674d74,EXCELSIOR,BSIT,2025-2026,WEB,Web Technologies,3,LOWER,false,20,Major
+da1479d4-4463-5215-b103-db29fd0faf00,EXCELSIOR,BSIT,2025-2026,OS,Operating Systems,3,LOWER,false,21,Major
+0008c910-fcd8-5332-b347-de9f28497a6f,EXCELSIOR,BSIT,2025-2026,NET,Networking Fundamentals,3,LOWER,false,22,Major
+dcc73c87-d592-53f8-a170-4e1cb8ede102,EXCELSIOR,BSIT,2025-2026,SWE1,Software Engineering Practices,3,UPPER,false,23,Major
+06008709-5343-5813-8453-1262b56794bc,EXCELSIOR,BSIT,2025-2026,AGILE,Agile / Scrum Software Process,3,UPPER,false,24,Major
+c5d62676-88c1-5823-b149-606205c146c7,EXCELSIOR,BSIT,2025-2026,TEST,Software Testing and Quality,3,UPPER,false,25,Major
+355a0795-607d-528d-8578-2902081b9aea,EXCELSIOR,BSIT,2025-2026,SECDEV,Secure Software / Application Security,3,UPPER,false,26,Major
+2911f20e-1a84-5cac-86f4-f4d12ca0fbfe,EXCELSIOR,BSIT,2025-2026,ARCH,Software Architecture / Design,3,UPPER,false,27,Major
+03807c63-e855-5f5b-917b-40f17c2c84f4,EXCELSIOR,BSIT,2025-2026,CLOUD,Cloud / DevOps Foundations,3,UPPER,false,28,Major
+eb5857ad-c26b-59c4-ad2a-dc9bb32f1e66,EXCELSIOR,BSIT,2025-2026,CAP,Software Engineering Capstone,3,UPPER,true,29,Major
+c822d767-3ab0-5a0b-a08f-a903b5088d75,EXCELSIOR,BSIT,2025-2026,SELEC1,Software Elective I,3,UPPER,false,30,Major
+638337b3-91d4-571c-8df3-3a7cb7c67ab9,EXCELSIOR,BSIT,2025-2026,ELEC1,Free Elective I,3,LOWER,false,31,Major
+34ccdc9c-4aa7-50fc-8fef-1100acd21eae,EXCELSIOR,BSIT,2025-2026,ELEC2,Free Elective II,3,LOWER,false,32,Major
+40b0446c-27eb-5e71-9afd-1e772ca8ec61,EXCELSIOR,BSIT,2025-2026,ELEC3,Free Elective III,3,LOWER,false,33,Major
+40066102-97af-5f6e-8dd1-48f4e9bce7d2,EXCELSIOR,BSIT,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+f1e5af07-d219-5058-8c0a-a80d9f66ee61,EXCELSIOR,BSHS,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+404bcbd5-217a-545e-9260-cc78a205b45c,EXCELSIOR,BSHS,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+7dad819f-524b-5517-ad83-7acbcfdb0536,EXCELSIOR,BSHS,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+e0ab4d7e-a803-5076-9e1d-e673897ca7bd,EXCELSIOR,BSHS,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+4e6765ff-2d2a-5c7b-85b2-232dfa4ff3da,EXCELSIOR,BSHS,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+d5546a6c-d531-5166-b0f0-e63de7e9c670,EXCELSIOR,BSHS,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+9c605564-3208-5d9c-bb32-93254d8f9bdb,EXCELSIOR,BSHS,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+f43231ac-219f-55a4-bed2-8a0fbe6e1f96,EXCELSIOR,BSHS,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+4a9282e4-40a7-516a-8b1a-19e871dd8b39,EXCELSIOR,BSHS,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+4635a0bb-4a19-51df-8d74-dcfb8fa02a79,EXCELSIOR,BSHS,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+261ee71c-47e6-501d-9711-a08da87b86e7,EXCELSIOR,BSHS,2025-2026,HIST,History,3,LOWER,false,11,General Education
+4e19163d-87fb-5bb8-bcba-0299f121a9d4,EXCELSIOR,BSHS,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+da54a3e0-187c-5a09-8e05-dae777430200,EXCELSIOR,BSHS,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+ddb56c36-4583-59df-bf66-8acaac21beba,EXCELSIOR,BSHS,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+6a903257-4f6d-5b59-95c6-3c8083580ebf,EXCELSIOR,BSHS,2025-2026,HCA1,Introduction to Healthcare / Health Systems,3,LOWER,false,15,Major
+cfeb5fa7-2917-57af-b9ce-0a04d6093c4b,EXCELSIOR,BSHS,2025-2026,HCAORG,Healthcare Organizations and Delivery,3,LOWER,false,16,Major
+f2d71b7a-925a-5f5e-b853-91cf821ef4b1,EXCELSIOR,BSHS,2025-2026,HCAMGT,Healthcare Management / Administration,3,UPPER,false,17,Major
+aab98f2c-9dde-5974-9c69-facc41267907,EXCELSIOR,BSHS,2025-2026,HCALAW,"Healthcare Law, Policy, and Compliance",3,UPPER,false,18,Major
+726d7c3b-e28b-5cc0-a34d-cd3b9868b629,EXCELSIOR,BSHS,2025-2026,HCAETH,Healthcare Ethics,3,UPPER,false,19,Major
+b7be5cfc-91ad-5f5f-9a2a-367902398778,EXCELSIOR,BSHS,2025-2026,HCAFIN,Healthcare Finance / Reimbursement,3,UPPER,false,20,Major
+eddb7911-8b3f-561a-a3ae-5f58d8674cea,EXCELSIOR,BSHS,2025-2026,HCAQI,Quality Improvement / Patient Safety,3,UPPER,false,21,Major
+46d86e4d-59f9-5082-8b33-5d080b719edd,EXCELSIOR,BSHS,2025-2026,HCAHR,Human Resources in Healthcare,3,UPPER,false,22,Major
+9f295e44-a720-5ce7-966b-697957aeb288,EXCELSIOR,BSHS,2025-2026,HCAINFO,Health Information Systems,3,LOWER,false,23,Major
+c7a49aea-995b-595c-8e3a-c3823357e3e0,EXCELSIOR,BSHS,2025-2026,HCAST,Healthcare Statistics / Epidemiology,3,UPPER,false,24,Major
+921bb524-3e95-5eb6-bc9c-74742b975279,EXCELSIOR,BSHS,2025-2026,MEDTERM,Medical Terminology,3,LOWER,false,25,Major
+876662ab-300a-5b2e-8363-25ee4c272ab8,EXCELSIOR,BSHS,2025-2026,AANDP,Anatomy and Physiology,4,LOWER,false,26,Major
+6c358497-7765-5553-8ad4-e9746c20a5fe,EXCELSIOR,BSHS,2025-2026,HELEC1,Healthcare Elective I,3,UPPER,false,27,Major
+cd9a28e3-924d-50f3-ab95-f102c04eecef,EXCELSIOR,BSHS,2025-2026,HELEC2,Healthcare Elective II,3,UPPER,false,28,Major
+0c38a3ea-b62a-5f8c-aa75-42d7d6eb1cf7,EXCELSIOR,BSHS,2025-2026,CAP,Healthcare Administration Capstone,3,UPPER,true,29,Major
+2c58d44d-dadb-5402-9f8c-11bd73a9e555,EXCELSIOR,BSHS,2025-2026,ELEC1,Free Elective I,3,LOWER,false,30,Major
+b5c0ea4f-7940-5eef-aca7-1e30822397a1,EXCELSIOR,BSHS,2025-2026,ELEC2,Free Elective II,3,LOWER,false,31,Major
+e62022e2-28b7-570c-b88f-17213f798bf9,EXCELSIOR,BSHS,2025-2026,ELEC3,Free Elective III,3,LOWER,false,32,Major
+525bd7db-1e6c-5a94-97d0-487702f88bc6,EXCELSIOR,BSHS,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+b4bf2f42-17a4-5eff-8d3c-2080b30fbe1d,COSC,BSPSY,2026-2027,ENG1,English Composition I,3,LOWER,false,1,General Education
+6b686cc0-7906-55b4-b1b1-c1efdaf8d9fd,COSC,BSPSY,2026-2027,ENG2,English Composition II,3,LOWER,false,2,General Education
+ec42b6cb-bb6a-50c0-a889-952b6b2b699f,COSC,BSPSY,2026-2027,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+6730c1cb-0a8a-54be-8e5c-4bf6e4b8e289,COSC,BSPSY,2026-2027,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+8dc8f7c9-d77c-5c02-b44d-088325bbd491,COSC,BSPSY,2026-2027,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+311fe8ac-8558-5bd4-adc1-ce85c1b7c9b6,COSC,BSPSY,2026-2027,NS2,Natural Science,3,LOWER,false,6,General Education
+e559ce51-46a6-521b-837e-8979da6fb0bd,COSC,BSPSY,2026-2027,HUM1,Humanities I,3,LOWER,false,7,General Education
+4f114876-d6f9-5dfd-92ac-7322fe68d959,COSC,BSPSY,2026-2027,HUM2,Humanities II,3,LOWER,false,8,General Education
+cd356212-db87-5209-a968-3c6a708d8069,COSC,BSPSY,2026-2027,SS1,Social Science I,3,LOWER,false,9,General Education
+c67af3ae-e518-5eb3-94c9-4c354dd34fb7,COSC,BSPSY,2026-2027,SS2,Social Science II,3,LOWER,false,10,General Education
+b89b458c-6097-5345-8327-83d912414a33,COSC,BSPSY,2026-2027,HIST,History,3,LOWER,false,11,General Education
+b3a43e12-346b-54c1-9437-1d66c6242899,COSC,BSPSY,2026-2027,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+e8260e3c-badb-5291-b0c1-fe0fff0f1d72,COSC,BSPSY,2026-2027,ETHICS,Ethics,3,LOWER,false,13,General Education
+2f15f790-d4c5-5b3e-9734-9dc9d64101ef,COSC,BSPSY,2026-2027,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+a9ea46ac-f26f-5617-80cc-3b591d40c175,COSC,BSPSY,2026-2027,PSY1,Introduction to Psychology,3,LOWER,false,15,Major
+1fd3fc9d-3008-58c3-872e-272c0c040d5b,COSC,BSPSY,2026-2027,DEV,Lifespan / Developmental Psychology,3,LOWER,false,16,Major
+4d86842f-db09-5329-8d38-9c0b3a422d6b,COSC,BSPSY,2026-2027,BIOPSY,Biological / Physiological Psychology,3,UPPER,false,17,Major
+49ce9373-b383-5528-8673-5c59e535063b,COSC,BSPSY,2026-2027,SOCPSY,Social Psychology,3,UPPER,false,18,Major
+0ce8ad35-eccd-5643-962a-1fbce25b7756,COSC,BSPSY,2026-2027,ABPSY,Abnormal Psychology,3,UPPER,false,19,Major
+4eff12c0-dea6-5990-9f87-6a83158457ec,COSC,BSPSY,2026-2027,PERS,Personality Psychology,3,UPPER,false,20,Major
+27fc89ab-5093-547e-b90a-c2de690eb948,COSC,BSPSY,2026-2027,COG,Cognitive Psychology,3,UPPER,false,21,Major
+cd215376-0c30-5618-b42e-b6ca2bd6405d,COSC,BSPSY,2026-2027,STATS,Psychological Statistics,3,LOWER,false,22,Major
+1aacc38b-0a2b-5ece-8083-50c6aec70038,COSC,BSPSY,2026-2027,RESM,Research Methods in Psychology,3,UPPER,false,23,Major
+364552d4-2fd2-5268-a575-e3b22a9efa0f,COSC,BSPSY,2026-2027,LEARN,Learning / Behavioral Psychology,3,UPPER,false,24,Major
+2695782e-3122-5318-9aaf-558305102ef3,COSC,BSPSY,2026-2027,HISTPSY,History and Systems of Psychology,3,UPPER,false,25,Major
+96624a4f-4b4d-5529-9783-dd8d5aac452e,COSC,BSPSY,2026-2027,ETHPSY,Ethics in Psychology / Social Science,3,UPPER,false,26,Major
+ba85a56c-e727-5561-9b3c-116022adcacf,COSC,BSPSY,2026-2027,PELEC1,Psychology Elective I,3,UPPER,false,27,Major
+69962d89-952f-51d8-bc83-0c2e6b3bef92,COSC,BSPSY,2026-2027,PELEC2,Psychology Elective II,3,UPPER,false,28,Major
+12e46fbd-02d5-52a6-a695-74e315014aa5,COSC,BSPSY,2026-2027,CAP,Psychology Capstone,3,UPPER,true,29,Major
+6bc945b4-70ec-5801-ae04-ec1541ad67be,COSC,BSPSY,2026-2027,ELEC1,Free Elective I,3,LOWER,false,30,Major
+869dcfd0-4a2e-57aa-b62b-2eb871bc1704,COSC,BSPSY,2026-2027,ELEC2,Free Elective II,3,LOWER,false,31,Major
+ed567afd-ce5a-5aca-b476-e0bf9c71db41,COSC,BSPSY,2026-2027,ELEC3,Free Elective III,3,LOWER,false,32,Major
+eb985e4a-a744-5805-8956-8e327b49212e,COSC,BSPSY,2026-2027,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+9f253d60-271f-5ce1-8c41-2e4e55250934,COSC,BSHA,2026-2027,ENG1,English Composition I,3,LOWER,false,1,General Education
+bc9ae45c-86e5-571e-b52e-cafcb644bb03,COSC,BSHA,2026-2027,ENG2,English Composition II,3,LOWER,false,2,General Education
+6c2104d3-341c-58c9-9694-84c54e8acee6,COSC,BSHA,2026-2027,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+3e269e98-c2d2-58ac-93f2-5a8561a0a192,COSC,BSHA,2026-2027,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+edb2fb29-0241-56d8-a6fb-d417017f1c54,COSC,BSHA,2026-2027,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+73bfe92a-1518-5e4e-bb41-901c8b060388,COSC,BSHA,2026-2027,NS2,Natural Science,3,LOWER,false,6,General Education
+b45d9376-32b4-5ef9-aa07-b82c15f8ca3d,COSC,BSHA,2026-2027,HUM1,Humanities I,3,LOWER,false,7,General Education
+f9ecc873-3fa0-5642-88ea-101c20281267,COSC,BSHA,2026-2027,HUM2,Humanities II,3,LOWER,false,8,General Education
+6048e919-f45d-5410-9b72-3c412c10f594,COSC,BSHA,2026-2027,SS1,Social Science I,3,LOWER,false,9,General Education
+75654300-b979-5707-aada-90ddaf5fee5e,COSC,BSHA,2026-2027,SS2,Social Science II,3,LOWER,false,10,General Education
+09f8694e-25fe-5fb2-9e2a-8883cf572366,COSC,BSHA,2026-2027,HIST,History,3,LOWER,false,11,General Education
+3b1c9636-8c08-59f2-be0c-3593d29306d7,COSC,BSHA,2026-2027,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+40f58825-96a8-5ea4-b93f-9ef225bb8c06,COSC,BSHA,2026-2027,ETHICS,Ethics,3,LOWER,false,13,General Education
+bb51d8e4-cb4a-53a1-8d12-d0b4250a6726,COSC,BSHA,2026-2027,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+bd7d71f7-31a6-5fcd-aea8-d25b29470786,COSC,BSHA,2026-2027,HCA1,Introduction to Healthcare / Health Systems,3,LOWER,false,15,Major
+4d84c2f1-6628-5de2-b096-400a435f64c8,COSC,BSHA,2026-2027,HCAORG,Healthcare Organizations and Delivery,3,LOWER,false,16,Major
+f9b37a65-3e4b-5589-995a-ba403b070d4f,COSC,BSHA,2026-2027,HCAMGT,Healthcare Management / Administration,3,UPPER,false,17,Major
+c431ff68-0b94-528f-ae27-4361e47cd045,COSC,BSHA,2026-2027,HCALAW,"Healthcare Law, Policy, and Compliance",3,UPPER,false,18,Major
+95d634dd-ff20-5d98-9d11-b54944d8418d,COSC,BSHA,2026-2027,HCAETH,Healthcare Ethics,3,UPPER,false,19,Major
+86dc7321-955b-541f-9dcb-6d9700e1c019,COSC,BSHA,2026-2027,HCAFIN,Healthcare Finance / Reimbursement,3,UPPER,false,20,Major
+268a06de-511a-55cd-8f2f-73405bfc42c7,COSC,BSHA,2026-2027,HCAQI,Quality Improvement / Patient Safety,3,UPPER,false,21,Major
+a60d6840-c052-547b-a89f-fdc517e484bf,COSC,BSHA,2026-2027,HCAHR,Human Resources in Healthcare,3,UPPER,false,22,Major
+ae6858f2-8aa8-524e-a0e4-70067c6b8e04,COSC,BSHA,2026-2027,HCAINFO,Health Information Systems,3,LOWER,false,23,Major
+3ee3f5ec-56b8-5ab6-ac94-84e4b380d97d,COSC,BSHA,2026-2027,HCAST,Healthcare Statistics / Epidemiology,3,UPPER,false,24,Major
+34e8955c-a8bf-5584-b17d-47cc5de0a5c3,COSC,BSHA,2026-2027,MEDTERM,Medical Terminology,3,LOWER,false,25,Major
+44021c31-2053-5b0a-907a-f2f3eb1be771,COSC,BSHA,2026-2027,AANDP,Anatomy and Physiology,4,LOWER,false,26,Major
+1b3d55db-b325-5229-86f0-67ef9ba20ebc,COSC,BSHA,2026-2027,HELEC1,Healthcare Elective I,3,UPPER,false,27,Major
+258a8990-5c95-56b4-8d02-362ae2c644a1,COSC,BSHA,2026-2027,HELEC2,Healthcare Elective II,3,UPPER,false,28,Major
+ce278db8-5747-520c-b48b-01590520b68d,COSC,BSHA,2026-2027,CAP,Healthcare Administration Capstone,3,UPPER,true,29,Major
+e8d45845-b176-5d92-bf34-58f6438dd08f,COSC,BSHA,2026-2027,ELEC1,Free Elective I,3,LOWER,false,30,Major
+176e7aad-645d-5462-816b-7a2c8e0b573e,COSC,BSHA,2026-2027,ELEC2,Free Elective II,3,LOWER,false,31,Major
+fc05548a-c988-52cc-a411-4acba6ad79ba,COSC,BSHA,2026-2027,ELEC3,Free Elective III,3,LOWER,false,32,Major
+fa552c1a-b3ca-54df-b7a2-8162d9c364a1,COSC,BSHA,2026-2027,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+65a7a2c1-60d9-5d3a-a401-54f9af486a29,COSC,BSCJ,2026-2027,ENG1,English Composition I,3,LOWER,false,1,General Education
+6ee47f6f-556f-5701-b61d-2a39a961c312,COSC,BSCJ,2026-2027,ENG2,English Composition II,3,LOWER,false,2,General Education
+7d0f57a3-578c-58ad-80f4-b3dbcb896d3e,COSC,BSCJ,2026-2027,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+2c9d6b07-7bf8-51e5-9699-f0266e36476e,COSC,BSCJ,2026-2027,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+6980279f-cbee-5eae-b8fa-016414979ffd,COSC,BSCJ,2026-2027,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+bcb4d86c-7feb-5450-a6fc-35de76812795,COSC,BSCJ,2026-2027,NS2,Natural Science,3,LOWER,false,6,General Education
+bbdb69e7-c086-5552-a25d-6f82dcd01701,COSC,BSCJ,2026-2027,HUM1,Humanities I,3,LOWER,false,7,General Education
+74ca99c0-d294-5c6a-849f-b83e5c3eb7a9,COSC,BSCJ,2026-2027,HUM2,Humanities II,3,LOWER,false,8,General Education
+e9322e9e-096f-59b4-aee5-9040cdd997f7,COSC,BSCJ,2026-2027,SS1,Social Science I,3,LOWER,false,9,General Education
+7ad142c3-4a08-5bf7-bc82-0b28afe5d342,COSC,BSCJ,2026-2027,SS2,Social Science II,3,LOWER,false,10,General Education
+dc4c9df1-36f5-59c6-8659-17022af54dd8,COSC,BSCJ,2026-2027,HIST,History,3,LOWER,false,11,General Education
+eb87fbac-a4bd-527f-b967-f03160103030,COSC,BSCJ,2026-2027,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+b20ca1f8-171d-57d3-a9b1-8061195888a8,COSC,BSCJ,2026-2027,ETHICS,Ethics,3,LOWER,false,13,General Education
+b2e9978c-7b77-5641-acc2-afb0e2353e82,COSC,BSCJ,2026-2027,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+a46f70a8-e660-53ed-94da-6534f7a52382,COSC,BSCJ,2026-2027,CJ1,Introduction to Criminal Justice,3,LOWER,false,15,Major
+ed737562-6306-5a2b-b901-112600c4a5b8,COSC,BSCJ,2026-2027,CRIM,Criminology,3,LOWER,false,16,Major
+0f36971c-1269-50e3-bdcb-79b6f50e35b1,COSC,BSCJ,2026-2027,CJPOL,Policing / Law Enforcement,3,LOWER,false,17,Major
+356cba8a-be9e-5afb-adf0-1592b52a51f8,COSC,BSCJ,2026-2027,COURTS,Courts and Judicial Process,3,LOWER,false,18,Major
+f1eae84d-4611-5b76-aa7e-594a2b7cd1af,COSC,BSCJ,2026-2027,CORR,Corrections,3,LOWER,false,19,Major
+7013cec1-28d8-50c3-8654-7834a357e730,COSC,BSCJ,2026-2027,CJL,Criminal Law,3,UPPER,false,20,Major
+ec0b4b0e-32f3-543a-b888-a3f81d3b333c,COSC,BSCJ,2026-2027,CJPROC,Criminal Procedure and Evidence,3,UPPER,false,21,Major
+c6b9ea86-6bfc-53e5-afe1-e7d8cca54258,COSC,BSCJ,2026-2027,CJETH,Ethics in Criminal Justice,3,UPPER,false,22,Major
+6866e71b-e005-5556-a714-170eb5a24628,COSC,BSCJ,2026-2027,CJRES,Research Methods in Criminal Justice,3,UPPER,false,23,Major
+f6788bf3-4a97-5314-b4b5-9c02e0f247a7,COSC,BSCJ,2026-2027,JUV,Juvenile Justice,3,UPPER,false,24,Major
+c081a832-7488-5ebb-8232-2e466e96b34a,COSC,BSCJ,2026-2027,FORS,Forensic Science / Investigation,3,UPPER,false,25,Major
+c7ee3575-8dc1-52c7-a5bb-b935c02d8e9f,COSC,BSCJ,2026-2027,CJDIV,Multicultural Issues in Criminal Justice,3,UPPER,false,26,Major
+10abba5e-60fe-5fc5-80d5-54f1a520570f,COSC,BSCJ,2026-2027,HLS,Homeland Security / Terrorism,3,UPPER,false,27,Major
+f9c45ee3-f11d-5cb4-a97d-1afce0bb329b,COSC,BSCJ,2026-2027,CJELEC1,Criminal Justice Elective I,3,UPPER,false,28,Major
+5a37d685-219d-54de-80ed-3cda920b5d55,COSC,BSCJ,2026-2027,CAP,Criminal Justice Capstone,3,UPPER,true,29,Major
+56e142be-1ab4-546c-9c24-7e60cc92c10c,COSC,BSCJ,2026-2027,ELEC1,Free Elective I,3,LOWER,false,30,Major
+0e227612-4bb7-5eb9-8698-10492e1bdd3a,COSC,BSCJ,2026-2027,ELEC2,Free Elective II,3,LOWER,false,31,Major
+de6abf43-6834-54f2-a0f5-3913dcbc2066,COSC,BSCJ,2026-2027,ELEC3,Free Elective III,3,LOWER,false,32,Major
+1849b417-3c6a-516f-8ab8-f7e021ac85e8,COSC,BSCJ,2026-2027,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+6e1d69b0-b257-5c8e-a9e9-68c515d0894d,COSC,BSSWD,2026-2027,ENG1,English Composition I,3,LOWER,false,1,General Education
+2c0adb46-91f1-5bfb-a6e5-456bf01323a7,COSC,BSSWD,2026-2027,ENG2,English Composition II,3,LOWER,false,2,General Education
+fde5786d-5f23-5a24-a68c-3c1bb320e67f,COSC,BSSWD,2026-2027,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+3f912975-86c2-57cf-8a83-0021a163fb5d,COSC,BSSWD,2026-2027,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+65d6bc4f-a558-5010-a004-406c926546a7,COSC,BSSWD,2026-2027,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+b2ea8dd9-c5d7-5372-8499-db30f9ed6590,COSC,BSSWD,2026-2027,NS2,Natural Science,3,LOWER,false,6,General Education
+00180eb3-389c-5cf5-8e3d-d9f1b5b20326,COSC,BSSWD,2026-2027,HUM1,Humanities I,3,LOWER,false,7,General Education
+d5bbdf24-e665-5e2c-a030-129f32d75357,COSC,BSSWD,2026-2027,HUM2,Humanities II,3,LOWER,false,8,General Education
+470a8301-bf70-5ef2-9bc0-d1d6d71381ef,COSC,BSSWD,2026-2027,SS1,Social Science I,3,LOWER,false,9,General Education
+766898bc-28a2-57de-a93e-86a66f7b0173,COSC,BSSWD,2026-2027,SS2,Social Science II,3,LOWER,false,10,General Education
+d326753c-22d7-5e80-9b1d-657a40e0634e,COSC,BSSWD,2026-2027,HIST,History,3,LOWER,false,11,General Education
+1edbf6e6-507e-5a52-91c6-26c843062480,COSC,BSSWD,2026-2027,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+236aa85d-5330-5f2b-933c-0326edbd089e,COSC,BSSWD,2026-2027,ETHICS,Ethics,3,LOWER,false,13,General Education
+6120b9fe-615e-5dcb-b53f-7af16357549e,COSC,BSSWD,2026-2027,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+d22522f8-2f29-5185-b0b0-4ce4eb273914,COSC,BSSWD,2026-2027,IT101,Introduction to IT / Computing,3,LOWER,false,15,Major
+91a1328d-b867-5232-803b-1714e79762d2,COSC,BSSWD,2026-2027,PROG,Programming Fundamentals,3,LOWER,false,16,Major
+5e0d68eb-af65-5e4c-923d-e43c61989d06,COSC,BSSWD,2026-2027,PROG2,Object-Oriented / Intermediate Programming,3,LOWER,false,17,Major
+950b307d-2660-580e-8160-73d9d34be3d4,COSC,BSSWD,2026-2027,DS,Data Structures and Algorithms,3,UPPER,false,18,Major
+35fa5d22-243d-5301-ad00-b3b33911e605,COSC,BSSWD,2026-2027,DB,Database Fundamentals,3,LOWER,false,19,Major
+acf34990-f664-5e21-a344-73b8784c52fc,COSC,BSSWD,2026-2027,WEB,Web Technologies,3,LOWER,false,20,Major
+601db527-b631-55c0-b256-b7c98d06bb1f,COSC,BSSWD,2026-2027,OS,Operating Systems,3,LOWER,false,21,Major
+690a05ea-1975-5f33-b511-2fa22ab61300,COSC,BSSWD,2026-2027,NET,Networking Fundamentals,3,LOWER,false,22,Major
+ff24d025-3fca-5b9b-b6c4-a48a6a675f48,COSC,BSSWD,2026-2027,SWE1,Software Engineering Practices,3,UPPER,false,23,Major
+8cb323d1-b619-5e56-b115-37f14967c730,COSC,BSSWD,2026-2027,AGILE,Agile / Scrum Software Process,3,UPPER,false,24,Major
+5dadd6c3-711c-5e22-8654-ea05d3a0c6b0,COSC,BSSWD,2026-2027,TEST,Software Testing and Quality,3,UPPER,false,25,Major
+36d2fcd5-7ed3-5833-b1f4-9b267b730105,COSC,BSSWD,2026-2027,SECDEV,Secure Software / Application Security,3,UPPER,false,26,Major
+d36e6e1e-d601-53e8-8120-d1bba3ba823b,COSC,BSSWD,2026-2027,ARCH,Software Architecture / Design,3,UPPER,false,27,Major
+eb90dee7-0037-5523-abe7-9db4ad030d91,COSC,BSSWD,2026-2027,CLOUD,Cloud / DevOps Foundations,3,UPPER,false,28,Major
+19a5bac3-e789-56f2-8226-6d77ec142a13,COSC,BSSWD,2026-2027,CAP,Software Engineering Capstone,3,UPPER,true,29,Major
+b03e454e-82a7-580d-b539-1b91bc56bf1c,COSC,BSSWD,2026-2027,SELEC1,Software Elective I,3,UPPER,false,30,Major
+2436a844-0e0d-5f6c-80c1-c2d305e6659b,COSC,BSSWD,2026-2027,ELEC1,Free Elective I,3,LOWER,false,31,Major
+c7c2d505-fe33-5933-9c36-8a6ae1e2c3fc,COSC,BSSWD,2026-2027,ELEC2,Free Elective II,3,LOWER,false,32,Major
+b821f7e6-6ee2-5f8d-a875-7926078a87e9,COSC,BSSWD,2026-2027,ELEC3,Free Elective III,3,LOWER,false,33,Major
+aadd1254-e3de-57c5-ba62-ae1a54c64618,COSC,BSSWD,2026-2027,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+7876b729-d07b-54c5-a9b5-fff7a83dc722,SNHU,BAPSY,2026-2027,ENG1,English Composition I,3,LOWER,false,1,General Education
+5a6b4bcd-8f9c-5768-bea3-0fb49fbbdfad,SNHU,BAPSY,2026-2027,ENG2,English Composition II,3,LOWER,false,2,General Education
+a7b2e0a5-441d-556e-b50e-7f124cb7f479,SNHU,BAPSY,2026-2027,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+c32732a2-9ff3-582f-adf3-d620b6b8f4f0,SNHU,BAPSY,2026-2027,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+7e8d8489-8897-5e75-bd54-1f8cb82e9022,SNHU,BAPSY,2026-2027,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+b0461e63-5efd-5770-8427-87f2322a9707,SNHU,BAPSY,2026-2027,NS2,Natural Science,3,LOWER,false,6,General Education
+342e7fee-a1fa-5644-a32b-5596c203542e,SNHU,BAPSY,2026-2027,HUM1,Humanities I,3,LOWER,false,7,General Education
+2d78e3e4-f9fa-51ef-9667-480f16deca71,SNHU,BAPSY,2026-2027,HUM2,Humanities II,3,LOWER,false,8,General Education
+67e82b01-6598-5644-9332-2265d571bafa,SNHU,BAPSY,2026-2027,SS1,Social Science I,3,LOWER,false,9,General Education
+54849cc6-29eb-5455-a409-7f1be500d952,SNHU,BAPSY,2026-2027,SS2,Social Science II,3,LOWER,false,10,General Education
+0cb680f4-4202-51d2-962b-23331913ffa9,SNHU,BAPSY,2026-2027,HIST,History,3,LOWER,false,11,General Education
+25de88ef-d2c2-5624-8195-1e797382c788,SNHU,BAPSY,2026-2027,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+fc5840f0-3214-543d-9d3a-d6a569b9b2f3,SNHU,BAPSY,2026-2027,ETHICS,Ethics,3,LOWER,false,13,General Education
+470c4319-d59f-5a69-9bb6-b9e026bea131,SNHU,BAPSY,2026-2027,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+72fcafc1-27dc-5dd1-8cbf-981c0389b7b7,SNHU,BAPSY,2026-2027,PSY1,Introduction to Psychology,3,LOWER,false,15,Major
+b691a0e5-270e-5db2-9d2c-3e04f5b30295,SNHU,BAPSY,2026-2027,DEV,Lifespan / Developmental Psychology,3,LOWER,false,16,Major
+63a131c8-d8e7-5f09-97af-5d7454bfeb64,SNHU,BAPSY,2026-2027,BIOPSY,Biological / Physiological Psychology,3,UPPER,false,17,Major
+6f30a2e0-97b9-5fb2-9bcc-167a88cb5813,SNHU,BAPSY,2026-2027,SOCPSY,Social Psychology,3,UPPER,false,18,Major
+c0087827-c8c4-5b22-aa39-23f112a34a62,SNHU,BAPSY,2026-2027,ABPSY,Abnormal Psychology,3,UPPER,false,19,Major
+10abcdb0-d7d1-50a2-bec5-9e868a00b21e,SNHU,BAPSY,2026-2027,PERS,Personality Psychology,3,UPPER,false,20,Major
+52a646c8-d71a-55bf-a285-821b7d8e12be,SNHU,BAPSY,2026-2027,COG,Cognitive Psychology,3,UPPER,false,21,Major
+96c03c5d-4ad8-55c8-b3da-fa7226d6700f,SNHU,BAPSY,2026-2027,STATS,Psychological Statistics,3,LOWER,false,22,Major
+c5fae877-35fe-50c5-a409-7200d8902db1,SNHU,BAPSY,2026-2027,RESM,Research Methods in Psychology,3,UPPER,false,23,Major
+34b94116-e5db-5185-b758-a485a92d82c1,SNHU,BAPSY,2026-2027,LEARN,Learning / Behavioral Psychology,3,UPPER,false,24,Major
+1ef8cb3f-4704-50df-beda-f31ee4f5ac15,SNHU,BAPSY,2026-2027,HISTPSY,History and Systems of Psychology,3,UPPER,false,25,Major
+66b3efd2-d789-5afb-b0bc-d9a75b16f9a6,SNHU,BAPSY,2026-2027,ETHPSY,Ethics in Psychology / Social Science,3,UPPER,false,26,Major
+c90d3d0a-f09d-5d34-8f3a-8fc0798bc9fd,SNHU,BAPSY,2026-2027,PELEC1,Psychology Elective I,3,UPPER,false,27,Major
+78e4ae59-963e-500a-b223-8fb24a828569,SNHU,BAPSY,2026-2027,PELEC2,Psychology Elective II,3,UPPER,false,28,Major
+aa5ee159-1d87-5167-ab82-059b317be7d2,SNHU,BAPSY,2026-2027,CAP,Psychology Capstone,3,UPPER,true,29,Major
+fa5e112b-eafe-5c41-b489-52e190f51cc9,SNHU,BAPSY,2026-2027,ELEC1,Free Elective I,3,LOWER,false,30,Major
+b31e41a4-f708-5588-9734-a061ece0f2e0,SNHU,BAPSY,2026-2027,ELEC2,Free Elective II,3,LOWER,false,31,Major
+1abaf1f6-9713-5400-99ef-de911423207c,SNHU,BAPSY,2026-2027,ELEC3,Free Elective III,3,LOWER,false,32,Major
+9cc25ecf-3643-5c31-ad54-bd7a118d8569,SNHU,BAPSY,2026-2027,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+1a5165c1-300a-5399-96f1-3c9c3aae5649,SNHU,BSHA,2026-2027,ENG1,English Composition I,3,LOWER,false,1,General Education
+9cb3e46a-e28e-5edd-bcb0-b4cb58429297,SNHU,BSHA,2026-2027,ENG2,English Composition II,3,LOWER,false,2,General Education
+9e253909-48f7-5dbb-9292-3b55ac7b4c7c,SNHU,BSHA,2026-2027,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+f9b0d54b-a80f-57ca-a8d0-25b633c9d86a,SNHU,BSHA,2026-2027,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+74884397-d168-5b1c-9f06-09fb2161ad2d,SNHU,BSHA,2026-2027,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+4936ebd0-18ab-5fbf-824f-735bfac97838,SNHU,BSHA,2026-2027,NS2,Natural Science,3,LOWER,false,6,General Education
+bd6858c0-07d2-58e6-a515-138555d0acc8,SNHU,BSHA,2026-2027,HUM1,Humanities I,3,LOWER,false,7,General Education
+d6f6cfb3-d467-587a-a575-121b4d8525a3,SNHU,BSHA,2026-2027,HUM2,Humanities II,3,LOWER,false,8,General Education
+11de7d6c-0bf7-5a60-b759-16d058c7c6eb,SNHU,BSHA,2026-2027,SS1,Social Science I,3,LOWER,false,9,General Education
+4e9980b0-f3bf-54f7-9c10-0aef7b3deaa5,SNHU,BSHA,2026-2027,SS2,Social Science II,3,LOWER,false,10,General Education
+f6cbfe1d-14bf-5dc7-bd40-98222dd95508,SNHU,BSHA,2026-2027,HIST,History,3,LOWER,false,11,General Education
+0d2a53ba-4d67-50cf-8887-6c3aaad16664,SNHU,BSHA,2026-2027,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+d98eaf02-a6ee-54da-bf78-55bab653e5ce,SNHU,BSHA,2026-2027,ETHICS,Ethics,3,LOWER,false,13,General Education
+d0c267b8-b1b1-535e-a1ba-b5d81107e168,SNHU,BSHA,2026-2027,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+1c0a2ff6-3b1f-5223-824c-45df26c38d31,SNHU,BSHA,2026-2027,HCA1,Introduction to Healthcare / Health Systems,3,LOWER,false,15,Major
+d4713a1d-7dce-5514-9b1c-a635a732d511,SNHU,BSHA,2026-2027,HCAORG,Healthcare Organizations and Delivery,3,LOWER,false,16,Major
+59ff9f7c-7424-5ab5-bc61-bc4e98d6f5cc,SNHU,BSHA,2026-2027,HCAMGT,Healthcare Management / Administration,3,UPPER,false,17,Major
+f464d8c5-e820-5183-a788-969868cc1b30,SNHU,BSHA,2026-2027,HCALAW,"Healthcare Law, Policy, and Compliance",3,UPPER,false,18,Major
+10be7a94-0947-5da3-beeb-f30f2c1e8670,SNHU,BSHA,2026-2027,HCAETH,Healthcare Ethics,3,UPPER,false,19,Major
+e8380014-d551-51c8-bf21-0b5553cb7e15,SNHU,BSHA,2026-2027,HCAFIN,Healthcare Finance / Reimbursement,3,UPPER,false,20,Major
+34ca630c-f4e6-57ad-9363-34931db4f72b,SNHU,BSHA,2026-2027,HCAQI,Quality Improvement / Patient Safety,3,UPPER,false,21,Major
+e2560f5d-0aea-5cc6-b9a1-5d3e0d704a4f,SNHU,BSHA,2026-2027,HCAHR,Human Resources in Healthcare,3,UPPER,false,22,Major
+9537a389-c2b6-5cc9-977b-a0809d4f5ef5,SNHU,BSHA,2026-2027,HCAINFO,Health Information Systems,3,LOWER,false,23,Major
+57af080c-d774-5cb8-9664-9f41bd16552f,SNHU,BSHA,2026-2027,HCAST,Healthcare Statistics / Epidemiology,3,UPPER,false,24,Major
+7115c6f4-1e31-58b6-88d9-c80f17e3d24e,SNHU,BSHA,2026-2027,MEDTERM,Medical Terminology,3,LOWER,false,25,Major
+dd74629c-a338-57c3-bfda-8e824efe7074,SNHU,BSHA,2026-2027,AANDP,Anatomy and Physiology,4,LOWER,false,26,Major
+caa1bbb1-1ff3-56d2-aae0-03123e32a1f4,SNHU,BSHA,2026-2027,HELEC1,Healthcare Elective I,3,UPPER,false,27,Major
+eaaf075b-1834-5e51-a916-61761e871719,SNHU,BSHA,2026-2027,HELEC2,Healthcare Elective II,3,UPPER,false,28,Major
+9e803be5-db9c-5bfb-ad10-3e30d3c0996b,SNHU,BSHA,2026-2027,CAP,Healthcare Administration Capstone,3,UPPER,true,29,Major
+8a7552db-ac27-5c75-8fab-9cc4640fc55e,SNHU,BSHA,2026-2027,ELEC1,Free Elective I,3,LOWER,false,30,Major
+7fe29ea8-7d70-59d9-9d5c-95824d2da126,SNHU,BSHA,2026-2027,ELEC2,Free Elective II,3,LOWER,false,31,Major
+ea7586f3-6a19-5373-8d04-ae3ccba2a15f,SNHU,BSHA,2026-2027,ELEC3,Free Elective III,3,LOWER,false,32,Major
+22609165-c779-5c95-abde-22bfb46b9c9d,SNHU,BSHA,2026-2027,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+d6005cd0-ef5c-555b-8015-19410fe1cad7,SNHU,BSCJ,2026-2027,ENG1,English Composition I,3,LOWER,false,1,General Education
+066bb2f0-ed2a-53ba-b52f-9b2912cce185,SNHU,BSCJ,2026-2027,ENG2,English Composition II,3,LOWER,false,2,General Education
+a944f833-c838-50a8-9475-de21827c5411,SNHU,BSCJ,2026-2027,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+6c430f2e-65d2-514c-9386-a8ee2a3a774d,SNHU,BSCJ,2026-2027,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+382b7c34-825e-575c-9321-54c54ef8003b,SNHU,BSCJ,2026-2027,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+8dceb2d4-34e8-58b6-a04b-5fd8e897119e,SNHU,BSCJ,2026-2027,NS2,Natural Science,3,LOWER,false,6,General Education
+de1dbcf2-dcfd-51bb-92ab-f38f1e2136c8,SNHU,BSCJ,2026-2027,HUM1,Humanities I,3,LOWER,false,7,General Education
+c3baea7f-05b4-5889-adbe-209c0973d7d9,SNHU,BSCJ,2026-2027,HUM2,Humanities II,3,LOWER,false,8,General Education
+02a7872b-f86f-557e-88b7-02dc796baa1b,SNHU,BSCJ,2026-2027,SS1,Social Science I,3,LOWER,false,9,General Education
+51d459c0-a34b-54a4-a953-ee6192cca98b,SNHU,BSCJ,2026-2027,SS2,Social Science II,3,LOWER,false,10,General Education
+b4bcd617-fae7-504b-a7b7-263f13640082,SNHU,BSCJ,2026-2027,HIST,History,3,LOWER,false,11,General Education
+755afb88-5618-58d1-a9fe-0ba42722438e,SNHU,BSCJ,2026-2027,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+e909896e-d4f4-590c-b966-296ca71c7adb,SNHU,BSCJ,2026-2027,ETHICS,Ethics,3,LOWER,false,13,General Education
+975d104d-167d-5556-80ff-acc50abc2cb1,SNHU,BSCJ,2026-2027,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+b93a4044-27af-52ca-8f2f-f611f0eb81cb,SNHU,BSCJ,2026-2027,CJ1,Introduction to Criminal Justice,3,LOWER,false,15,Major
+6de9b69a-b0a0-5c1d-a070-28181725dde5,SNHU,BSCJ,2026-2027,CRIM,Criminology,3,LOWER,false,16,Major
+c821b812-028b-5593-9c69-c98718f6c85b,SNHU,BSCJ,2026-2027,CJPOL,Policing / Law Enforcement,3,LOWER,false,17,Major
+2d93efad-01de-504e-9167-e9aeed8dd61d,SNHU,BSCJ,2026-2027,COURTS,Courts and Judicial Process,3,LOWER,false,18,Major
+2380a5b5-661d-51bd-b243-82592d69a48f,SNHU,BSCJ,2026-2027,CORR,Corrections,3,LOWER,false,19,Major
+d97ef5f2-3be6-5f4c-ae13-8acac6df0ecc,SNHU,BSCJ,2026-2027,CJL,Criminal Law,3,UPPER,false,20,Major
+aa7d230e-87cf-5620-a002-4350577c2aa3,SNHU,BSCJ,2026-2027,CJPROC,Criminal Procedure and Evidence,3,UPPER,false,21,Major
+876152d7-a54c-5056-b394-8af2ff1c725d,SNHU,BSCJ,2026-2027,CJETH,Ethics in Criminal Justice,3,UPPER,false,22,Major
+5e70109c-2064-5d16-88bf-b98e15856921,SNHU,BSCJ,2026-2027,CJRES,Research Methods in Criminal Justice,3,UPPER,false,23,Major
+b2b14137-5bed-55a7-b95f-361d946bb06d,SNHU,BSCJ,2026-2027,JUV,Juvenile Justice,3,UPPER,false,24,Major
+918269f6-9723-5deb-b9a2-51609f59be1a,SNHU,BSCJ,2026-2027,FORS,Forensic Science / Investigation,3,UPPER,false,25,Major
+a4a5433f-bb62-5a03-9794-0d68d32b1e45,SNHU,BSCJ,2026-2027,CJDIV,Multicultural Issues in Criminal Justice,3,UPPER,false,26,Major
+6fb153a1-a65c-5beb-8482-5221e8fa0825,SNHU,BSCJ,2026-2027,HLS,Homeland Security / Terrorism,3,UPPER,false,27,Major
+4757eb62-abbd-5f50-beb6-da3dad296332,SNHU,BSCJ,2026-2027,CJELEC1,Criminal Justice Elective I,3,UPPER,false,28,Major
+01c316c9-0c42-5c3a-a5ca-5f6e2add8314,SNHU,BSCJ,2026-2027,CAP,Criminal Justice Capstone,3,UPPER,true,29,Major
+f007d572-6dfe-5d31-8f71-cc778e8df01e,SNHU,BSCJ,2026-2027,ELEC1,Free Elective I,3,LOWER,false,30,Major
+51d9a3a6-14a8-5dab-9803-f1d024c725db,SNHU,BSCJ,2026-2027,ELEC2,Free Elective II,3,LOWER,false,31,Major
+f5abb59e-4bb7-5ab0-be3e-4ba9fc7aa45e,SNHU,BSCJ,2026-2027,ELEC3,Free Elective III,3,LOWER,false,32,Major
+343796c3-eba4-5f57-bfa2-1aaaf589ac7f,SNHU,BSCJ,2026-2027,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+b66f6e76-39bc-53a2-b2ea-80847681c983,SNHU,BSCS,2026-2027,ENG1,English Composition I,3,LOWER,false,1,General Education
+bf800dca-ddd6-546c-8189-1e2bdeea8f37,SNHU,BSCS,2026-2027,ENG2,English Composition II,3,LOWER,false,2,General Education
+5e2f006d-2434-52ce-91ab-43be8a90c2f3,SNHU,BSCS,2026-2027,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+a246f0c4-2b46-54fc-acb3-378eca5bd280,SNHU,BSCS,2026-2027,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+2c2afa57-90c3-52ec-ae0c-d95a228f0f8f,SNHU,BSCS,2026-2027,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+0f48b129-e9ac-59c0-90d4-7c5e600bec4d,SNHU,BSCS,2026-2027,NS2,Natural Science,3,LOWER,false,6,General Education
+293f385b-a366-5c4d-93bb-ea5627fdee20,SNHU,BSCS,2026-2027,HUM1,Humanities I,3,LOWER,false,7,General Education
+6b4bf270-111d-5470-9c25-ff41270571df,SNHU,BSCS,2026-2027,HUM2,Humanities II,3,LOWER,false,8,General Education
+4620429b-4349-50e4-8582-19560705bcb6,SNHU,BSCS,2026-2027,SS1,Social Science I,3,LOWER,false,9,General Education
+bcc6e147-2232-590c-9da6-0ebc21e1aadb,SNHU,BSCS,2026-2027,SS2,Social Science II,3,LOWER,false,10,General Education
+878f079c-6c4c-5cdb-a8fd-8baec2441eb0,SNHU,BSCS,2026-2027,HIST,History,3,LOWER,false,11,General Education
+5a20d689-762b-5ddc-bb5c-7d585ea82809,SNHU,BSCS,2026-2027,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+017ca6c0-18c1-5da4-b17b-c9a80df51f2a,SNHU,BSCS,2026-2027,ETHICS,Ethics,3,LOWER,false,13,General Education
+67e303ae-5555-5d44-a7cc-b7760ab0df0b,SNHU,BSCS,2026-2027,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+6a70969d-e317-58d8-ab94-224fbb83d119,SNHU,BSCS,2026-2027,IT101,Introduction to IT / Computing,3,LOWER,false,15,Major
+d207d74a-e379-5005-b85a-e1314801dcf3,SNHU,BSCS,2026-2027,PROG,Programming Fundamentals,3,LOWER,false,16,Major
+bd3f45bb-194e-56b0-8153-b98328f7b1c5,SNHU,BSCS,2026-2027,PROG2,Object-Oriented / Intermediate Programming,3,LOWER,false,17,Major
+226f782f-01ec-5574-8727-61eef7effcfe,SNHU,BSCS,2026-2027,DS,Data Structures and Algorithms,3,UPPER,false,18,Major
+9da74b3d-f8ba-5c02-9ca0-f2abd6ada637,SNHU,BSCS,2026-2027,DB,Database Fundamentals,3,LOWER,false,19,Major
+a5a07cf6-0e6b-593c-a0f0-1456fe54f238,SNHU,BSCS,2026-2027,WEB,Web Technologies,3,LOWER,false,20,Major
+d1473f65-09b9-5735-9c3c-00b599afd657,SNHU,BSCS,2026-2027,OS,Operating Systems,3,LOWER,false,21,Major
+2723427b-02e9-5f43-aa71-d2899267e430,SNHU,BSCS,2026-2027,NET,Networking Fundamentals,3,LOWER,false,22,Major
+476f98d3-7962-5dc4-87b4-2119841176a8,SNHU,BSCS,2026-2027,SWE1,Software Engineering Practices,3,UPPER,false,23,Major
+865ad69d-db93-5729-8bbb-85c0006d909f,SNHU,BSCS,2026-2027,AGILE,Agile / Scrum Software Process,3,UPPER,false,24,Major
+27b1290a-f926-5f73-b95e-52f371ac9c91,SNHU,BSCS,2026-2027,TEST,Software Testing and Quality,3,UPPER,false,25,Major
+9d3c9a4b-419f-54f7-bd3d-9df46307af52,SNHU,BSCS,2026-2027,SECDEV,Secure Software / Application Security,3,UPPER,false,26,Major
+f3492b7b-3d4d-5440-842c-804476cb2c07,SNHU,BSCS,2026-2027,ARCH,Software Architecture / Design,3,UPPER,false,27,Major
+50556853-7fd6-55ca-b30d-ec9db38b4843,SNHU,BSCS,2026-2027,CLOUD,Cloud / DevOps Foundations,3,UPPER,false,28,Major
+f9e129f0-6230-509d-8e1b-3bfabdc2cc6d,SNHU,BSCS,2026-2027,CAP,Software Engineering Capstone,3,UPPER,true,29,Major
+e4f1cc9e-1a7e-5d6f-9415-2728d8effaad,SNHU,BSCS,2026-2027,SELEC1,Software Elective I,3,UPPER,false,30,Major
+82b91c64-c818-5ac5-9e8a-6b1064663f37,SNHU,BSCS,2026-2027,ELEC1,Free Elective I,3,LOWER,false,31,Major
+11ee70f1-f6cd-5f1a-a777-369320c2df66,SNHU,BSCS,2026-2027,ELEC2,Free Elective II,3,LOWER,false,32,Major
+66685e61-fa41-52a4-8786-9bed1433bfd5,SNHU,BSCS,2026-2027,ELEC3,Free Elective III,3,LOWER,false,33,Major
+cd31bd03-c2fa-55ac-92dd-7eea523a765a,SNHU,BSCS,2026-2027,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+74196308-169d-5776-b7c3-7e18b7e52220,UMASS,BAPSY,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+c23596b3-fbe7-5bbe-9ab8-996078d0acad,UMASS,BAPSY,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+816fa909-5c31-5e97-aa2a-12e2b01d3868,UMASS,BAPSY,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+8ebb24b5-9709-5f3c-9ca7-65a95e9dde18,UMASS,BAPSY,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+ce04b347-1c53-52cc-9305-0cc9acf626c6,UMASS,BAPSY,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+86d68a66-ccf8-5b0d-a2d7-3e9f2974610e,UMASS,BAPSY,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+2134ef05-f80e-5ede-9cb7-807f4bd3ae58,UMASS,BAPSY,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+b6fc147e-2714-5baa-a9c0-86ad7a54e52f,UMASS,BAPSY,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+9478db55-97b6-50db-8689-02d54606db9c,UMASS,BAPSY,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+aec2721d-5c85-50cd-b769-0904a824d446,UMASS,BAPSY,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+461732fc-c218-5ec4-8dee-768cd98fa2f9,UMASS,BAPSY,2025-2026,HIST,History,3,LOWER,false,11,General Education
+89276d6d-25e3-538e-9d24-8e0bfca25597,UMASS,BAPSY,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+533ae550-c932-56f1-8155-dc7ffbf3d4d4,UMASS,BAPSY,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+9d07a5c6-220b-5cc4-adcb-f30272fc280c,UMASS,BAPSY,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+2734ea2a-c851-546d-8bbe-b4795c9b2033,UMASS,BAPSY,2025-2026,PSY1,Introduction to Psychology,3,LOWER,false,15,Major
+9a3b251f-0276-59ab-9b5b-5303cd1fd094,UMASS,BAPSY,2025-2026,DEV,Lifespan / Developmental Psychology,3,LOWER,false,16,Major
+0148efca-f954-5602-acc0-9e3f7b915e87,UMASS,BAPSY,2025-2026,BIOPSY,Biological / Physiological Psychology,3,UPPER,false,17,Major
+a5c9c705-9187-54c2-8203-ca20fe7b5bd6,UMASS,BAPSY,2025-2026,SOCPSY,Social Psychology,3,UPPER,false,18,Major
+cbb1714c-668a-5890-ab84-0ad2bc6f6fa3,UMASS,BAPSY,2025-2026,ABPSY,Abnormal Psychology,3,UPPER,false,19,Major
+b43e2f14-c31c-592a-b009-e20c129e39c7,UMASS,BAPSY,2025-2026,PERS,Personality Psychology,3,UPPER,false,20,Major
+88ffe196-42d2-5be9-bf47-4db57e5085e7,UMASS,BAPSY,2025-2026,COG,Cognitive Psychology,3,UPPER,false,21,Major
+335aa764-230b-5c6d-be62-808b54d7a723,UMASS,BAPSY,2025-2026,STATS,Psychological Statistics,3,LOWER,false,22,Major
+11048e1e-67a9-5659-9cde-d3f379b942dd,UMASS,BAPSY,2025-2026,RESM,Research Methods in Psychology,3,UPPER,false,23,Major
+d230f109-830e-5d65-b260-7f80dff6e0cf,UMASS,BAPSY,2025-2026,LEARN,Learning / Behavioral Psychology,3,UPPER,false,24,Major
+30fc6135-b1f5-5768-84ad-abcffa0a4ae0,UMASS,BAPSY,2025-2026,HISTPSY,History and Systems of Psychology,3,UPPER,false,25,Major
+9b317a85-6da7-51d8-b614-36ef529ecc8f,UMASS,BAPSY,2025-2026,ETHPSY,Ethics in Psychology / Social Science,3,UPPER,false,26,Major
+41bfc323-8cdb-5b8a-bc7b-a3d4c5cbda5b,UMASS,BAPSY,2025-2026,PELEC1,Psychology Elective I,3,UPPER,false,27,Major
+3fb7444c-52ae-5857-9e97-acf4bf6940a2,UMASS,BAPSY,2025-2026,PELEC2,Psychology Elective II,3,UPPER,false,28,Major
+d1447fda-d093-5d38-bfec-e43dd98d550e,UMASS,BAPSY,2025-2026,CAP,Psychology Capstone,3,UPPER,true,29,Major
+d8a59ef7-74f0-5768-b82a-56b91c6d73fa,UMASS,BAPSY,2025-2026,ELEC1,Free Elective I,3,LOWER,false,30,Major
+df1a69b2-98b1-5327-804b-d7331508807a,UMASS,BAPSY,2025-2026,ELEC2,Free Elective II,3,LOWER,false,31,Major
+2700c006-896a-5eef-af6c-64f0344384e0,UMASS,BAPSY,2025-2026,ELEC3,Free Elective III,3,LOWER,false,32,Major
+be096284-182b-546c-8422-715dc5d1dacd,UMASS,BAPSY,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+ab1f3e76-2b7a-5568-a5a9-e9e7d7715c4d,UMASS,BACJ,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+35b5064b-8167-5229-97fd-417e40969e07,UMASS,BACJ,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+85da656c-0f5d-5ebf-aba0-79be4fae4a4f,UMASS,BACJ,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+1f297612-f23e-5d0f-a692-8c78c217bb81,UMASS,BACJ,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+a8aeb291-cdca-5bb4-aeed-370cc226c653,UMASS,BACJ,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+509bfe0b-3fce-514a-ad16-9427a28e9dfd,UMASS,BACJ,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+dda78d71-f2be-51ec-a72e-16090b029db6,UMASS,BACJ,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+9738af80-c826-513c-9a17-10bf131c306a,UMASS,BACJ,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+7c593c33-1d61-57cb-97b8-b085ee3b3d76,UMASS,BACJ,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+7d9d4610-8525-56e7-8d27-14baa68c4adc,UMASS,BACJ,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+7bd06784-210f-506c-9f38-3e464d56597c,UMASS,BACJ,2025-2026,HIST,History,3,LOWER,false,11,General Education
+3f00633b-de93-5876-83a7-61081e32ce59,UMASS,BACJ,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+0125ac2a-a5f8-5145-bff2-2b0bad25ee31,UMASS,BACJ,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+2570b139-ce7b-5d8e-bad3-b26447160335,UMASS,BACJ,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+941fd15e-3c79-570d-8038-80b448b3639b,UMASS,BACJ,2025-2026,CJ1,Introduction to Criminal Justice,3,LOWER,false,15,Major
+bcd3359a-7a64-5671-976a-7408df8efd97,UMASS,BACJ,2025-2026,CRIM,Criminology,3,LOWER,false,16,Major
+c2041853-7516-578a-a14e-227f898a2acc,UMASS,BACJ,2025-2026,CJPOL,Policing / Law Enforcement,3,LOWER,false,17,Major
+fcaf28dc-6361-57e1-86ea-733ca1d0cba1,UMASS,BACJ,2025-2026,COURTS,Courts and Judicial Process,3,LOWER,false,18,Major
+25ff0163-e6ff-5e50-9f29-ec5f2fb5fc7c,UMASS,BACJ,2025-2026,CORR,Corrections,3,LOWER,false,19,Major
+d9aad7d1-bcc6-5fde-ac2c-8ba26ba8ae27,UMASS,BACJ,2025-2026,CJL,Criminal Law,3,UPPER,false,20,Major
+21ac405e-843c-52bb-b107-67298483e31f,UMASS,BACJ,2025-2026,CJPROC,Criminal Procedure and Evidence,3,UPPER,false,21,Major
+1ddbd216-dcad-5aee-b19f-66fa22ec93b5,UMASS,BACJ,2025-2026,CJETH,Ethics in Criminal Justice,3,UPPER,false,22,Major
+d72038e8-93bb-57ac-98bd-026f47eef546,UMASS,BACJ,2025-2026,CJRES,Research Methods in Criminal Justice,3,UPPER,false,23,Major
+8b989918-cef6-5326-bf76-0edd7b3e497f,UMASS,BACJ,2025-2026,JUV,Juvenile Justice,3,UPPER,false,24,Major
+b237eadf-a830-574c-945d-604f419530ee,UMASS,BACJ,2025-2026,FORS,Forensic Science / Investigation,3,UPPER,false,25,Major
+b8bdf4e5-d270-58ab-a3bc-e2a941596ae3,UMASS,BACJ,2025-2026,CJDIV,Multicultural Issues in Criminal Justice,3,UPPER,false,26,Major
+18f91fb7-9cac-5ec8-9fcf-f9b539e7173b,UMASS,BACJ,2025-2026,HLS,Homeland Security / Terrorism,3,UPPER,false,27,Major
+f6e9f2e8-c2d6-55fb-8142-ff6dbe289dae,UMASS,BACJ,2025-2026,CJELEC1,Criminal Justice Elective I,3,UPPER,false,28,Major
+e1af7567-1354-5378-8780-d23cfcb72c50,UMASS,BACJ,2025-2026,CAP,Criminal Justice Capstone,3,UPPER,true,29,Major
+cfcaa59a-56bf-5747-a290-4ef6139abb1b,UMASS,BACJ,2025-2026,ELEC1,Free Elective I,3,LOWER,false,30,Major
+95b4a684-9776-598d-9ef7-bea514f24097,UMASS,BACJ,2025-2026,ELEC2,Free Elective II,3,LOWER,false,31,Major
+690f3143-86ca-52f5-bbd6-b252fabee900,UMASS,BACJ,2025-2026,ELEC3,Free Elective III,3,LOWER,false,32,Major
+45211dfc-2dcb-5415-b671-0fb06bd84160,UMASS,BACJ,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+f488a260-eebd-5410-b783-a8cc3880de45,UMASS,BSSWE,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+7242ad08-c988-557e-aebf-7dbf1390d735,UMASS,BSSWE,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+a0b25b92-7a46-5d2f-897e-74a8e2d5fe02,UMASS,BSSWE,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+42df2aa2-46c1-5a7e-afea-2c96fb1a108b,UMASS,BSSWE,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+99db1368-dd81-535c-bffb-9f7c6fefc2f4,UMASS,BSSWE,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+e07935ba-1d32-5f5f-8958-6cc9fa5e948c,UMASS,BSSWE,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+2ba9edc8-52f3-5c00-9367-a5d95aa4defe,UMASS,BSSWE,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+235eb7e3-ebaa-5799-8f13-34abe987b61b,UMASS,BSSWE,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+8cf6db61-820e-5503-a973-71adbd20a59e,UMASS,BSSWE,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+6858428a-7906-547a-bbdd-1e937d99a912,UMASS,BSSWE,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+717043d8-38b7-520d-8807-74cb5de1df1d,UMASS,BSSWE,2025-2026,HIST,History,3,LOWER,false,11,General Education
+5cc753a8-a254-595e-8e41-94ac030d2b5a,UMASS,BSSWE,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+330977cc-4fb1-5343-9642-f156218f744c,UMASS,BSSWE,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+9fbdd310-b5fe-5791-a13a-badbd5a3bb38,UMASS,BSSWE,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+bb15bf67-36e8-58e2-bf0a-92558b785675,UMASS,BSSWE,2025-2026,IT101,Introduction to IT / Computing,3,LOWER,false,15,Major
+66f87ed7-8574-567f-81ac-8ce8896ecbcf,UMASS,BSSWE,2025-2026,PROG,Programming Fundamentals,3,LOWER,false,16,Major
+9ca9f668-80df-501f-a3ad-159b12b3a8ff,UMASS,BSSWE,2025-2026,PROG2,Object-Oriented / Intermediate Programming,3,LOWER,false,17,Major
+ed8ee86f-38c6-5968-99cb-8a7c0ae3195c,UMASS,BSSWE,2025-2026,DS,Data Structures and Algorithms,3,UPPER,false,18,Major
+a720748d-a45c-586a-a796-e0ac3ac659ab,UMASS,BSSWE,2025-2026,DB,Database Fundamentals,3,LOWER,false,19,Major
+854b10f9-00e4-5baf-ab0f-00f0e0694927,UMASS,BSSWE,2025-2026,WEB,Web Technologies,3,LOWER,false,20,Major
+07ab4052-ac1a-5569-9616-30e68421e2d7,UMASS,BSSWE,2025-2026,OS,Operating Systems,3,LOWER,false,21,Major
+5f8644d7-6ec3-5627-9717-d154a9136cae,UMASS,BSSWE,2025-2026,NET,Networking Fundamentals,3,LOWER,false,22,Major
+c2be8572-1d8d-5457-87e8-1878a4f0a61e,UMASS,BSSWE,2025-2026,SWE1,Software Engineering Practices,3,UPPER,false,23,Major
+9453ff68-54bb-5f8f-b315-8ebfefe319fd,UMASS,BSSWE,2025-2026,AGILE,Agile / Scrum Software Process,3,UPPER,false,24,Major
+ef8364d6-5561-5d0d-bb93-4aefef9acdfd,UMASS,BSSWE,2025-2026,TEST,Software Testing and Quality,3,UPPER,false,25,Major
+e2ef0b13-2bd5-5335-98d7-1009ba9f2c1f,UMASS,BSSWE,2025-2026,SECDEV,Secure Software / Application Security,3,UPPER,false,26,Major
+354687c9-3665-53ac-8f96-80b74ef82251,UMASS,BSSWE,2025-2026,ARCH,Software Architecture / Design,3,UPPER,false,27,Major
+4936c3e7-7c7a-5d88-a75e-d4d6d6c823de,UMASS,BSSWE,2025-2026,CLOUD,Cloud / DevOps Foundations,3,UPPER,false,28,Major
+e429a5d4-c161-527e-a6b9-d8ba9d57ae97,UMASS,BSSWE,2025-2026,CAP,Software Engineering Capstone,3,UPPER,true,29,Major
+ccd1d2b9-4c20-5665-9049-e7609b650ed7,UMASS,BSSWE,2025-2026,SELEC1,Software Elective I,3,UPPER,false,30,Major
+2971f0f2-f210-519b-b327-5c3778055f7d,UMASS,BSSWE,2025-2026,ELEC1,Free Elective I,3,LOWER,false,31,Major
+31c119ef-4acc-5d7b-a755-4403e6ae7473,UMASS,BSSWE,2025-2026,ELEC2,Free Elective II,3,LOWER,false,32,Major
+8dbf19fa-4f77-546d-9573-748a41586c59,UMASS,BSSWE,2025-2026,ELEC3,Free Elective III,3,LOWER,false,33,Major
+f5efe35a-32e8-5cbe-95cd-7f96fc93a6b3,UMASS,BSSWE,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,34,Major
+09339bbd-f131-517a-a240-cc1910081315,PG,BSPSY,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+79e62335-655d-506e-9a7f-8323d8c52ffe,PG,BSPSY,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+7ede37f7-66ae-5b7e-8321-cd28892b0d67,PG,BSPSY,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+d0eaa89b-bda9-5f28-a026-ae9e9417e56c,PG,BSPSY,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+2df8caa3-9a60-54e0-b551-8548e8ad56f8,PG,BSPSY,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+16f3f05b-2643-573b-800b-a50f0df62ed6,PG,BSPSY,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+f9048cfb-f43c-5c56-b40b-affaf4cec643,PG,BSPSY,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+cde5a11f-ac8d-5f70-b5f4-dfe237054ee2,PG,BSPSY,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+b1db7415-f122-56c4-919e-36b6cc871c34,PG,BSPSY,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+faed9250-f076-56a6-adc2-fda8c5b7f475,PG,BSPSY,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+42bba785-49dc-5147-b250-1b07a451f438,PG,BSPSY,2025-2026,HIST,History,3,LOWER,false,11,General Education
+6375391c-78d1-503e-ac58-df7b4ef456af,PG,BSPSY,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+906c8772-8d01-5585-b4a2-2bf97efd0754,PG,BSPSY,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+709597cd-4a0d-5ab6-bd71-e7dc3fa0f4fd,PG,BSPSY,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+e86ef478-7be8-5e72-8865-fee7e9310e2f,PG,BSPSY,2025-2026,PSY1,Introduction to Psychology,3,LOWER,false,15,Major
+2180368a-7e7b-5a7c-9be8-97d98fbfd9b4,PG,BSPSY,2025-2026,DEV,Lifespan / Developmental Psychology,3,LOWER,false,16,Major
+0279bc11-e642-5718-a8f6-61e9f0825007,PG,BSPSY,2025-2026,BIOPSY,Biological / Physiological Psychology,3,UPPER,false,17,Major
+69a73d20-454d-56f9-95b7-a231c9b4a8ac,PG,BSPSY,2025-2026,SOCPSY,Social Psychology,3,UPPER,false,18,Major
+5853deec-9375-578a-89e3-e873f3d171ff,PG,BSPSY,2025-2026,ABPSY,Abnormal Psychology,3,UPPER,false,19,Major
+ea9c846c-0e65-5478-b33f-f5921a514aef,PG,BSPSY,2025-2026,PERS,Personality Psychology,3,UPPER,false,20,Major
+a038940d-8458-58f9-a112-a3345a37a6ad,PG,BSPSY,2025-2026,COG,Cognitive Psychology,3,UPPER,false,21,Major
+e69f64bc-c69c-557e-ab1f-98c52564be95,PG,BSPSY,2025-2026,STATS,Psychological Statistics,3,LOWER,false,22,Major
+3f1b4a34-5fb9-5a6d-841a-4af504d32e2a,PG,BSPSY,2025-2026,RESM,Research Methods in Psychology,3,UPPER,false,23,Major
+9a7e70ee-2188-583a-8088-46816d1efee1,PG,BSPSY,2025-2026,LEARN,Learning / Behavioral Psychology,3,UPPER,false,24,Major
+ab82b8f7-5788-51a2-82a5-e9d77e9c1037,PG,BSPSY,2025-2026,HISTPSY,History and Systems of Psychology,3,UPPER,false,25,Major
+4074a4e6-aa53-5c86-9c69-dfd729f85d5e,PG,BSPSY,2025-2026,ETHPSY,Ethics in Psychology / Social Science,3,UPPER,false,26,Major
+81a90c7b-41fc-5af9-b7c3-d7ca76a6cde9,PG,BSPSY,2025-2026,PELEC1,Psychology Elective I,3,UPPER,false,27,Major
+2ec5253b-3846-5b06-9ee5-abd997ac3479,PG,BSPSY,2025-2026,PELEC2,Psychology Elective II,3,UPPER,false,28,Major
+5031d1d1-8bdb-52fe-9109-3b9e9e92d153,PG,BSPSY,2025-2026,CAP,Psychology Capstone,3,UPPER,true,29,Major
+2e97074e-ca37-5e7e-a2b3-14cfaa48643b,PG,BSPSY,2025-2026,ELEC1,Free Elective I,3,LOWER,false,30,Major
+1f5c998d-d79b-5f2e-89c9-b965d045cc90,PG,BSPSY,2025-2026,ELEC2,Free Elective II,3,LOWER,false,31,Major
+d939219a-9c92-51da-bcae-79b3af83ad94,PG,BSPSY,2025-2026,ELEC3,Free Elective III,3,LOWER,false,32,Major
+ae3f19f1-1622-5888-8cab-74e6a2758546,PG,BSPSY,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+090199e3-3b4a-576c-aeed-e554b9b3eb13,PG,BSCJ,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+9034ad12-ff89-5a9d-9a6f-2c349ffe2ae7,PG,BSCJ,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+6e0464cc-90a0-52ea-8995-a6cc9ffe81f2,PG,BSCJ,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+9c963b97-124b-5b5a-a0c0-041ad7fca046,PG,BSCJ,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+16788e27-6d32-5a2a-ae76-7246bdfa6f74,PG,BSCJ,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+501a70e3-c775-5490-a99e-fcd1edb22ffc,PG,BSCJ,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+f703afa9-8659-5dc3-829f-1cc8b4a12a5b,PG,BSCJ,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+34c3f2a7-7e79-58f1-baff-2c9a8cd035e2,PG,BSCJ,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+0742b94b-7579-5c9c-aed3-2a80b7d0d08f,PG,BSCJ,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+f453bf5b-0b25-525b-9b13-1c4630cb1a8e,PG,BSCJ,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+91e50bd5-34e1-5729-9062-f22a2e86cca2,PG,BSCJ,2025-2026,HIST,History,3,LOWER,false,11,General Education
+e605a895-965c-5ed8-8587-c1722c481c42,PG,BSCJ,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+e3b826f8-2ac3-5873-b635-070e219b0620,PG,BSCJ,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+9ecef4ec-eed8-5940-993d-c444ed07530c,PG,BSCJ,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+131507cb-9911-507a-8a5e-3afcee5f7f42,PG,BSCJ,2025-2026,CJ1,Introduction to Criminal Justice,3,LOWER,false,15,Major
+f66d5d90-7351-5e2e-8d71-974a9e48c5e5,PG,BSCJ,2025-2026,CRIM,Criminology,3,LOWER,false,16,Major
+ea1315a5-33e4-5eaf-bc7e-94027c6c0a71,PG,BSCJ,2025-2026,CJPOL,Policing / Law Enforcement,3,LOWER,false,17,Major
+34bf8bbd-917b-5bd1-a4d9-2a41e1ee30cb,PG,BSCJ,2025-2026,COURTS,Courts and Judicial Process,3,LOWER,false,18,Major
+5876f2fb-a4df-5d7f-9b52-562044095688,PG,BSCJ,2025-2026,CORR,Corrections,3,LOWER,false,19,Major
+bccb0a4c-8e47-54ff-a4e5-0b936096057e,PG,BSCJ,2025-2026,CJL,Criminal Law,3,UPPER,false,20,Major
+eaba9bde-b314-559f-bc92-874ff2f6dccb,PG,BSCJ,2025-2026,CJPROC,Criminal Procedure and Evidence,3,UPPER,false,21,Major
+436ac7ec-ed36-5e92-a93d-10680bd2bf85,PG,BSCJ,2025-2026,CJETH,Ethics in Criminal Justice,3,UPPER,false,22,Major
+1301a47f-f1a1-5101-85ed-61743443a514,PG,BSCJ,2025-2026,CJRES,Research Methods in Criminal Justice,3,UPPER,false,23,Major
+8eaef968-e461-5c2b-ab34-506671bcbf5d,PG,BSCJ,2025-2026,JUV,Juvenile Justice,3,UPPER,false,24,Major
+74d2af40-ec32-57e6-9c75-7b6206267d91,PG,BSCJ,2025-2026,FORS,Forensic Science / Investigation,3,UPPER,false,25,Major
+93a24640-9d67-517b-8c39-de3d89800bb5,PG,BSCJ,2025-2026,CJDIV,Multicultural Issues in Criminal Justice,3,UPPER,false,26,Major
+fb1aa9e1-60f3-5956-bbc4-dc4300cde969,PG,BSCJ,2025-2026,HLS,Homeland Security / Terrorism,3,UPPER,false,27,Major
+d061ec46-54d6-5ea0-931a-772c7ee8e538,PG,BSCJ,2025-2026,CJELEC1,Criminal Justice Elective I,3,UPPER,false,28,Major
+d8ebe71c-d5fa-5307-b25a-5c631b537ad1,PG,BSCJ,2025-2026,CAP,Criminal Justice Capstone,3,UPPER,true,29,Major
+709a552e-c328-52b4-8c8a-cea60860bedc,PG,BSCJ,2025-2026,ELEC1,Free Elective I,3,LOWER,false,30,Major
+5bbd8520-bd96-5559-9313-6fcf05d540c6,PG,BSCJ,2025-2026,ELEC2,Free Elective II,3,LOWER,false,31,Major
+32defa9f-998b-50ad-a448-7281b6de85d9,PG,BSCJ,2025-2026,ELEC3,Free Elective III,3,LOWER,false,32,Major
+118a8c85-bbdc-5ae8-8916-734f12e9f577,PG,BSCJ,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+2d5fc8dd-b267-5451-bd09-ebadc897bc1e,PG,BSHA,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+5b20e72b-949c-5687-8d00-07ca784cafaa,PG,BSHA,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+b77b5a06-dfbe-54a8-83f7-9483708475c2,PG,BSHA,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+b6cc3ea2-78a0-5832-acdb-2b50ee1dfe7a,PG,BSHA,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+09f15126-7848-527b-ad52-137e7724db0f,PG,BSHA,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+08e6f20d-9395-5ad9-b4f4-b78310ac1318,PG,BSHA,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+d5fe33f5-a9da-5fbc-acef-2edf013c5336,PG,BSHA,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+221a06a2-6b36-5fb8-8c41-eafe1306cbf8,PG,BSHA,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+04ecf118-abe7-5a85-ac8d-79ef0670c5be,PG,BSHA,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+7c1f2fd3-36a5-51e8-ad82-a7ca2648d468,PG,BSHA,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+e48eb9db-7c7a-5b72-ae71-f63fb7e9cedc,PG,BSHA,2025-2026,HIST,History,3,LOWER,false,11,General Education
+90ca8e22-9495-5cd5-a315-f0829d4e2f48,PG,BSHA,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+45214b9c-ccc2-5403-8717-740e7ae3fd63,PG,BSHA,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+7d04dcae-dcdb-5288-888a-7122029398d0,PG,BSHA,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+304ced79-9ae7-5a18-ae78-00390006d4f5,PG,BSHA,2025-2026,HCA1,Introduction to Healthcare / Health Systems,3,LOWER,false,15,Major
+2e98467c-8ff3-5a27-a362-38fbfb729865,PG,BSHA,2025-2026,HCAORG,Healthcare Organizations and Delivery,3,LOWER,false,16,Major
+938dd231-e5eb-53b3-95bf-fd3a331c53eb,PG,BSHA,2025-2026,HCAMGT,Healthcare Management / Administration,3,UPPER,false,17,Major
+4d1d5533-c437-5e38-87cf-91ebb89b9c47,PG,BSHA,2025-2026,HCALAW,"Healthcare Law, Policy, and Compliance",3,UPPER,false,18,Major
+d578a09f-b024-563f-8098-6cd88ae546fc,PG,BSHA,2025-2026,HCAETH,Healthcare Ethics,3,UPPER,false,19,Major
+aae7d0d8-db64-5197-b081-a964f5ebc8be,PG,BSHA,2025-2026,HCAFIN,Healthcare Finance / Reimbursement,3,UPPER,false,20,Major
+01427d8a-3582-5cdc-b5c8-354cd140c240,PG,BSHA,2025-2026,HCAQI,Quality Improvement / Patient Safety,3,UPPER,false,21,Major
+6d2ad4c7-04b3-528c-a15d-bae3775dd71a,PG,BSHA,2025-2026,HCAHR,Human Resources in Healthcare,3,UPPER,false,22,Major
+87ce6b0f-4986-58e0-aad1-19116bfa9e1e,PG,BSHA,2025-2026,HCAINFO,Health Information Systems,3,LOWER,false,23,Major
+e1f26dcb-e466-5f0a-be0f-18b103cbcda2,PG,BSHA,2025-2026,HCAST,Healthcare Statistics / Epidemiology,3,UPPER,false,24,Major
+aed3bb4b-7a1b-5ab6-bb36-175bec015337,PG,BSHA,2025-2026,MEDTERM,Medical Terminology,3,LOWER,false,25,Major
+b5f2cf71-ce10-5ec3-b875-c7e4d996c8e1,PG,BSHA,2025-2026,AANDP,Anatomy and Physiology,4,LOWER,false,26,Major
+3886a0b4-73ae-5cb2-8db1-44e34312328d,PG,BSHA,2025-2026,HELEC1,Healthcare Elective I,3,UPPER,false,27,Major
+59681e2b-bc64-5f5c-bdac-12ee343afaa3,PG,BSHA,2025-2026,HELEC2,Healthcare Elective II,3,UPPER,false,28,Major
+7a3035f0-f7ca-58d9-9d4c-8293e212333d,PG,BSHA,2025-2026,CAP,Healthcare Administration Capstone,3,UPPER,true,29,Major
+bb27bf34-dbf6-5c52-ad05-3136b2f78df8,PG,BSHA,2025-2026,ELEC1,Free Elective I,3,LOWER,false,30,Major
+4d75a6e4-449d-59f8-b60f-577b87d2a8df,PG,BSHA,2025-2026,ELEC2,Free Elective II,3,LOWER,false,31,Major
+42bec672-88c2-5ef5-ae3a-8693922fa51c,PG,BSHA,2025-2026,ELEC3,Free Elective III,3,LOWER,false,32,Major
+af3238ea-65b3-50cb-8308-b5babf9a4a22,PG,BSHA,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,33,Major
+6c15b73e-af75-5f99-9272-20aceb4b732b,PG,BSIT,2025-2026,ENG1,English Composition I,3,LOWER,false,1,General Education
+0e5e9aae-4060-5418-8f59-6ec39f21f8b1,PG,BSIT,2025-2026,ENG2,English Composition II,3,LOWER,false,2,General Education
+e645f0fe-8377-552e-a561-2fbceeb1318d,PG,BSIT,2025-2026,QR,Quantitative Reasoning / College Algebra,3,LOWER,false,3,General Education
+4f0f4afa-f19d-51aa-8304-6e8f16b3bdf9,PG,BSIT,2025-2026,STAT,Introductory Statistics,3,LOWER,false,4,General Education
+f07ae57c-494b-56bc-afe2-d3525cbbc893,PG,BSIT,2025-2026,NS1,Natural Science with Lab,4,LOWER,false,5,General Education
+b31fe7ab-f5dc-5d9d-abd4-9f248d324a31,PG,BSIT,2025-2026,NS2,Natural Science,3,LOWER,false,6,General Education
+9c556544-fb1d-5b48-96ef-c193a096dbeb,PG,BSIT,2025-2026,HUM1,Humanities I,3,LOWER,false,7,General Education
+50a682c4-e05a-5045-8eb9-9123f800de0a,PG,BSIT,2025-2026,HUM2,Humanities II,3,LOWER,false,8,General Education
+cd2417c5-3a5c-50a4-91fe-742eaaa7d462,PG,BSIT,2025-2026,SS1,Social Science I,3,LOWER,false,9,General Education
+2ee4dfb5-551f-5008-a6ed-16f468cece95,PG,BSIT,2025-2026,SS2,Social Science II,3,LOWER,false,10,General Education
+df188a17-54fc-51df-85da-7363a67ad8a0,PG,BSIT,2025-2026,HIST,History,3,LOWER,false,11,General Education
+c89ccb8d-bcc1-5977-be8c-451cf8786e2f,PG,BSIT,2025-2026,COMM,Public Speaking / Communication,3,LOWER,false,12,General Education
+163cb469-2842-59a4-adb8-0e01920ab4e5,PG,BSIT,2025-2026,ETHICS,Ethics,3,LOWER,false,13,General Education
+b43caa60-b0e4-5cf1-9b5e-6c479d28f1f7,PG,BSIT,2025-2026,INFO,Information Literacy / Computer Applications,3,LOWER,false,14,General Education
+d922831e-7db0-5491-8607-92d5d628951b,PG,BSIT,2025-2026,IT101,Introduction to IT / Computing,3,LOWER,false,15,Major
+db2dd001-e82d-5255-898e-22c60f935c51,PG,BSIT,2025-2026,PROG,Programming Fundamentals,3,LOWER,false,16,Major
+496e234f-6bf4-5b4f-8594-4d4bf1e3b7ae,PG,BSIT,2025-2026,PROG2,Object-Oriented / Intermediate Programming,3,LOWER,false,17,Major
+c6a6ff5a-7e6b-5397-916f-e72f4d14eaf4,PG,BSIT,2025-2026,DS,Data Structures and Algorithms,3,UPPER,false,18,Major
+ba21530c-0ba5-553a-806b-8c9aa330fd7d,PG,BSIT,2025-2026,DB,Database Fundamentals,3,LOWER,false,19,Major
+7f5c8ea2-66ac-5ca8-9a31-fdb5a153b03b,PG,BSIT,2025-2026,WEB,Web Technologies,3,LOWER,false,20,Major
+250a969c-56f3-5ef1-814b-7d2b19b36447,PG,BSIT,2025-2026,OS,Operating Systems,3,LOWER,false,21,Major
+d5f8e0cc-73d4-5843-b8d2-37534e013c4b,PG,BSIT,2025-2026,NET,Networking Fundamentals,3,LOWER,false,22,Major
+86f33d06-9b62-59d7-93a9-13e387378e0f,PG,BSIT,2025-2026,SWE1,Software Engineering Practices,3,UPPER,false,23,Major
+6e8794f3-f460-52ad-bd18-cc8faf15e8fb,PG,BSIT,2025-2026,AGILE,Agile / Scrum Software Process,3,UPPER,false,24,Major
+0e2ab8c7-f9b0-569c-83e9-eb788acdbbeb,PG,BSIT,2025-2026,TEST,Software Testing and Quality,3,UPPER,false,25,Major
+0564b9e8-0ba8-541c-9fc1-ecfa4a1b39bc,PG,BSIT,2025-2026,SECDEV,Secure Software / Application Security,3,UPPER,false,26,Major
+1d79e212-df0c-58db-96d2-49e0b77db565,PG,BSIT,2025-2026,ARCH,Software Architecture / Design,3,UPPER,false,27,Major
+9e4324bb-acb7-5990-b285-86e325d9fc21,PG,BSIT,2025-2026,CLOUD,Cloud / DevOps Foundations,3,UPPER,false,28,Major
+09827617-191d-5488-9bd6-908b4906b8f9,PG,BSIT,2025-2026,CAP,Software Engineering Capstone,3,UPPER,true,29,Major
+3d55628d-97d3-501d-a6c7-46056de82bea,PG,BSIT,2025-2026,SELEC1,Software Elective I,3,UPPER,false,30,Major
+f6e6b1aa-8abc-5081-a944-2df0a0f1f0e6,PG,BSIT,2025-2026,ELEC1,Free Elective I,3,LOWER,false,31,Major
+b8f6d97c-6074-56b6-9758-97269320a7a3,PG,BSIT,2025-2026,ELEC2,Free Elective II,3,LOWER,false,32,Major
+d3b2e050-78f7-52c3-b542-627b288a1e98,PG,BSIT,2025-2026,ELEC3,Free Elective III,3,LOWER,false,33,Major
+1b337ab6-b1c7-551c-b5dc-2d453e60373f,PG,BSIT,2025-2026,ELEC4,Free Elective IV,3,LOWER,false,34,Major

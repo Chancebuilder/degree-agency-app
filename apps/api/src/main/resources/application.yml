@@ -1,0 +1,105 @@
+server:
+  port: ${API_PORT:18428}
+
+spring:
+  application:
+    name: degree-dean-api
+  datasource:
+    url: jdbc:postgresql://${POSTGRES_HOST:127.0.0.1}:${POSTGRES_PORT:5432}/${POSTGRES_DB:degree_dean}
+    username: ${POSTGRES_USER:degreedean}
+    password: ${POSTGRES_PASSWORD:degreedean_dev}
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    open-in-view: false
+    properties:
+      hibernate:
+        jdbc:
+          time_zone: UTC
+  flyway:
+    enabled: true
+    locations: classpath:db/migration
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics
+  endpoint:
+    health:
+      probes:
+        enabled: true
+
+springdoc:
+  api-docs:
+    path: /api/v1/openapi
+  swagger-ui:
+    path: /api/v1/docs
+
+app:
+  jwt:
+    secret: ${APP_JWT_SECRET:change-me-to-a-64-char-random-string-for-local-dev-only-xxxx}
+    access-minutes: ${APP_JWT_ACCESS_MINUTES:15}
+    refresh-days: ${APP_JWT_REFRESH_DAYS:14}
+  cors:
+    origins: ${APP_CORS_ORIGINS:http://127.0.0.1:18427,http://localhost:18427}
+  seed:
+    path: ${APP_SEED_PATH:../../data/seed}
+    on-startup: ${APP_SEED_ON_STARTUP:true}
+  disclosure-version: "2026-09-01"
+  entitlements:
+    free:
+      degree-goals: 1
+      wallet-assets: 30
+      saved-scenarios: 1
+      institutions-comparable: 2
+      provider-recommendations: 3
+      scenario-types: BEST_FIT
+      cost-detail: TOTAL
+      plan-tracking: false
+      blueprint-export: false
+    plus:
+      degree-goals: 3
+      wallet-assets: 2147483647
+      saved-scenarios: 5
+      institutions-comparable: 5
+      provider-recommendations: 10
+      scenario-types: FASTEST,CHEAPEST,BEST_FIT
+      cost-detail: ITEMIZED
+      plan-tracking: true
+      blueprint-export: false
+    pro:
+      degree-goals: 2147483647
+      wallet-assets: 2147483647
+      saved-scenarios: 2147483647
+      institutions-comparable: 2147483647
+      provider-recommendations: 2147483647
+      scenario-types: FASTEST,CHEAPEST,BEST_FIT,CUSTOM,WHAT_WOULD_IT_TAKE
+      cost-detail: ITEMIZED_PLUS_SAVINGS
+      plan-tracking: true
+      blueprint-export: true
+  simulator:
+    hours-per-credit:
+      sophia-tier: 5
+      study-straighter-tier: 9
+      exam: 12
+      competency-based: 25
+      term-based: 40
+      pla: 7
+      pla-overhead: 10
+    attrition:
+      conservative: 0.25
+      standard: 0.15
+      aggressive: 0.05
+    best-fit-weights:
+      cost: 0.3
+      time: 0.3
+      confidence: 0.4
+    weeks-per-subscription-month: 4.33
+    max-stale-applied-ratio: 0.20
+  staleness:
+    provider-pricing-days: 30
+    tuition-days: 90
+    policy-days: 180
+    requirements-days: 180
+    equivalency-days: 180

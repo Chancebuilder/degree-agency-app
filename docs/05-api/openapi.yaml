@@ -1,0 +1,48 @@
+openapi: 3.0.3
+info:
+  title: Degree Dean API
+  version: 0.1.0
+  description: Authoritative live spec is served at /api/v1/openapi when the API is running.
+servers:
+  - url: http://127.0.0.1:18428/api/v1
+paths:
+  /auth/register:
+    post:
+      summary: Create a student account
+  /auth/login:
+    post:
+      summary: Authenticate with email and password
+  /onboarding/age:
+    post:
+      summary: Confirm 18+ eligibility
+  /consents:
+    post:
+      summary: Store purpose-specific consent
+    get:
+      summary: Consent history
+  /profile:
+    put:
+      summary: Create or update the student profile
+    get:
+      summary: Read the student profile
+  /wallet/assets:
+    post:
+      summary: Persist reviewed academic assets
+  /goals:
+    post:
+      summary: Create a Free-tier degree goal
+  /plans/{planId}/match:
+    post:
+      summary: Run the deterministic matching pipeline
+  /plans/{planId}/simulate:
+    post:
+      summary: Build Fastest, Cheapest, Best Fit, and Next Best Action
+  /dashboard:
+    get:
+      summary: Student dashboard payload
+  /admin/policies:
+    get:
+      summary: List policy rules
+  /admin/stale-queue:
+    get:
+      summary: Records past their review interval

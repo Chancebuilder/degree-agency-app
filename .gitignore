@@ -1,0 +1,40 @@
+# Secrets and local env
+.env
+.env.local
+*.pem
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.iml
+.cursor/
+
+# Java
+apps/api/target/
+**/target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Node
+apps/web/node_modules/
+apps/web/dist/
+apps/web/.vite/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+
+# Test / coverage
+coverage/
+*.log
+
+# Terraform
+infrastructure/terraform/.terraform/
+infrastructure/terraform/*.tfstate
+infrastructure/terraform/*.tfstate.*
+infrastructure/terraform/*.tfvars
+
+# Uploads from the agent session (not product)
+uploads/
+agent-tools/

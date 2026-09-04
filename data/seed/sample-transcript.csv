@@ -1,0 +1,13 @@
+institution,course_code,course_title,credits,grade,term,completion_date,source_type
+Central Community College,ENGL101,English Composition I,3,A,2018-FA,2018-12-15,INSTITUTION_COURSE
+Central Community College,ENGL102,English Composition II,3,B+,2019-SP,2019-05-10,INSTITUTION_COURSE
+Central Community College,MATH110,College Algebra,3,B,2019-FA,2019-12-14,INSTITUTION_COURSE
+Central Community College,PSYC101,Introduction to Psychology,3,A-,2019-SP,2019-05-10,INSTITUTION_COURSE
+Central Community College,CSCI101,Computer Applications,3,A,2018-FA,2018-12-15,INSTITUTION_COURSE
+Sophia Learning,SOPH-STAT1001,Introduction to Statistics,3,A,2023-02,2023-03-20,PROVIDER_COURSE
+Sophia Learning,SOPH-BUS1001,Introduction to Business,3,A,2023-03,2023-04-18,PROVIDER_COURSE
+Sophia Learning,SOPH-ACCT1001,Accounting,3,A,2023-04,2023-05-22,PROVIDER_COURSE
+Sophia Learning,SOPH-ECON1001,Microeconomics,3,A,2023-05,2023-06-15,PROVIDER_COURSE
+Sophia Learning,SOPH-MGT1001,Principles of Management,3,A,2023-06,2023-07-12,PROVIDER_COURSE
+CLEP,CLEP-SOC,Introductory Sociology,3,Pass,2022-11,2022-11-04,EXAM
+Study.com,SDC-ACCT102,Managerial Accounting,3,A,2024-01,2024-02-28,PROVIDER_COURSE
