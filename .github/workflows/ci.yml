@@ -5,6 +5,9 @@ on:
     branches: [main, master]
   pull_request:
 
+permissions:
+  contents: read
+
 jobs:
   api:
     runs-on: ubuntu-latest
@@ -24,6 +27,8 @@ jobs:
           --health-retries 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
       - uses: actions/setup-java@v4
         with:
           distribution: temurin
@@ -32,14 +37,16 @@ jobs:
       - name: Test API
         working-directory: apps/api
         run: mvn -B test
-      - name: SBOM
+      - name: Generate API SBOM
         working-directory: apps/api
-        run: mvn -B org.cyclonedx:cyclonedx-maven-plugin:makeAggregateBom || true
+        run: mvn -B org.cyclonedx:cyclonedx-maven-plugin:makeAggregateBom
 
   web:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
@@ -47,15 +54,36 @@ jobs:
           cache-dependency-path: apps/web/package-lock.json
       - working-directory: apps/web
         run: npm ci
+      - name: Audit production dependencies
+        working-directory: apps/web
+        run: npm audit --omit=dev --audit-level=high
       - working-directory: apps/web
         run: npm test
       - working-directory: apps/web
         run: npm run build
 
-  scan:
+  secret-scan:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Secret scan (gitleaks if available)
-        run: |
-          if command -v gitleaks >/dev/null; then gitleaks detect --source . --no-git; else echo "gitleaks not installed on runner; skipped"; fi
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Scan repository history for secrets
+        uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  dependency-review:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Review dependency changes
+        uses: actions/dependency-review-action@v4
+        with:
+          fail-on-severity: high
