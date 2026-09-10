@@ -75,7 +75,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   dependency-review:
-    if: github.event_name == 'pull_request'
+    # GitHub's Dependency Graph must be enabled in repository settings before this job can run.
+    # Set the repository variable DEPENDENCY_REVIEW_ENABLED=true after enabling it.
+    if: github.event_name == 'pull_request' && vars.DEPENDENCY_REVIEW_ENABLED == 'true'
     runs-on: ubuntu-latest
     permissions:
       contents: read
