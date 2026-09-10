@@ -13,18 +13,21 @@ import org.springframework.stereotype.Service;
 
 @Service
 public class JwtService {
+    private static final int MINIMUM_HMAC_KEY_BYTES = 32;
     private final AppProperties properties;
 
     public JwtService(AppProperties properties) {
         this.properties = properties;
+        validateSecret(properties.getJwt().getSecret());
     }
 
     public String issueAccessToken(UserAccount user) {
         Instant now = Instant.now();
         Instant exp = now.plusSeconds(properties.getJwt().getAccessMinutes() * 60L);
         return Jwts.builder()
+                .id(UUID.randomUUID().toString())
+                .issuer("degree-agency-api")
                 .subject(user.getId().toString())
-                .claim("email", user.getEmail())
                 .claim("role", user.getRole())
                 .claim("tier", user.getTier())
                 .issuedAt(Date.from(now))
@@ -34,7 +37,12 @@ public class JwtService {
     }
 
     public Claims parse(String token) {
-        return Jwts.parser().verifyWith(key()).build().parseSignedClaims(token).getPayload();
+        return Jwts.parser()
+                .requireIssuer("degree-agency-api")
+                .verifyWith(key())
+                .build()
+                .parseSignedClaims(token)
+                .getPayload();
     }
 
     public UUID userId(String token) {
@@ -42,10 +50,16 @@ public class JwtService {
     }
 
     private SecretKey key() {
-        byte[] bytes = properties.getJwt().getSecret().getBytes(StandardCharsets.UTF_8);
-        if (bytes.length < 32) {
-            bytes = java.util.Arrays.copyOf(bytes, 32);
+        return Keys.hmacShaKeyFor(properties.getJwt().getSecret().getBytes(StandardCharsets.UTF_8));
+    }
+
+    private static void validateSecret(String secret) {
+        if (secret == null || secret.isBlank()) {
+            throw new IllegalStateException("APP_JWT_SECRET must be configured");
         }
-        return Keys.hmacShaKeyFor(bytes);
+        int length = secret.getBytes(StandardCharsets.UTF_8).length;
+        if (length < MINIMUM_HMAC_KEY_BYTES) {
+            throw new IllegalStateException("APP_JWT_SECRET must contain at least 32 bytes of entropy");
+        }
     }
 }

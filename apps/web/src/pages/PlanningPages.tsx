@@ -1,4 +1,5 @@
-import { FormEvent, useEffect, useState } from 'react'
+import type { FormEvent } from 'react'
+import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { api } from '../lib/api'
 import { Alert, Button, Card, EstimateNote, Field, Input } from '../ui/primitives'
@@ -100,7 +101,7 @@ export function DashboardPage() {
 }
 
 export function PlanPage() {
-  const { data, error, setData, setError } = useDashboard()
+  const { data, error, setError } = useDashboard()
   const [detail, setDetail] = useState<Record<string, unknown> | null>(null)
 
   async function runMatch() {
